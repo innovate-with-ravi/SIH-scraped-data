@@ -1,1 +1,3 @@
 .venv/
+Data Cleaning Scripts/__pycache__/
+.env
