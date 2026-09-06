@@ -1,3 +1,6 @@
 .venv/
 Data Cleaning Scripts/__pycache__/
 .env
+scratch_extract2.py
+pdf_contents2.txt
+OwnUseData/
