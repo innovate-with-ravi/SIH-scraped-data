@@ -1,0 +1,1028 @@
+[
+  {
+    "metadata": {
+      "format": "PDF 1.6",
+      "title": "",
+      "author": "",
+      "subject": "",
+      "keywords": "",
+      "creator": "",
+      "producer": "iLovePDF",
+      "creationDate": "",
+      "modDate": "D:20260830160917Z",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "D:\\CODING\\Hackathons\\SIH\\SIH-scraped-data\\raw_data\\raw_pdfs\\01-IP_Laws\\patent ammendment rules.pdf",
+      "page_count": 4,
+      "page_number": 1
+    },
+    "toc_items": [],
+    "page_boxes": [
+      {
+        "index": 0,
+        "class": "section-header",
+        "bbox": [
+          169,
+          4,
+          428,
+          14
+        ],
+        "pos": [
+          0,
+          66
+        ]
+      },
+      {
+        "index": 1,
+        "class": "section-header",
+        "bbox": [
+          259,
+          22,
+          338,
+          30
+        ],
+        "pos": [
+          66,
+          87
+        ]
+      },
+      {
+        "index": 2,
+        "class": "text",
+        "bbox": [
+          225,
+          39,
+          373,
+          49
+        ],
+        "pos": [
+          87,
+          124
+        ]
+      },
+      {
+        "index": 3,
+        "class": "text",
+        "bbox": [
+          94,
+          57,
+          491,
+          147
+        ],
+        "pos": [
+          124,
+          838
+        ]
+      },
+      {
+        "index": 4,
+        "class": "text",
+        "bbox": [
+          94,
+          155,
+          491,
+          177
+        ],
+        "pos": [
+          838,
+          987
+        ]
+      },
+      {
+        "index": 5,
+        "class": "text",
+        "bbox": [
+          94,
+          184,
+          490,
+          205
+        ],
+        "pos": [
+          987,
+          1140
+        ]
+      },
+      {
+        "index": 6,
+        "class": "text",
+        "bbox": [
+          94,
+          213,
+          490,
+          246
+        ],
+        "pos": [
+          1140,
+          1355
+        ]
+      },
+      {
+        "index": 7,
+        "class": "list-item",
+        "bbox": [
+          89,
+          253,
+          432,
+          263
+        ],
+        "pos": [
+          1355,
+          1437
+        ]
+      },
+      {
+        "index": 8,
+        "class": "list-item",
+        "bbox": [
+          125,
+          271,
+          468,
+          281
+        ],
+        "pos": [
+          1437,
+          1533
+        ]
+      },
+      {
+        "index": 9,
+        "class": "list-item",
+        "bbox": [
+          89,
+          288,
+          527,
+          310
+        ],
+        "pos": [
+          1533,
+          1682
+        ]
+      },
+      {
+        "index": 10,
+        "class": "section-header",
+        "bbox": [
+          276,
+          317,
+          358,
+          326
+        ],
+        "pos": [
+          1682,
+          1703
+        ]
+      },
+      {
+        "index": 11,
+        "class": "section-header",
+        "bbox": [
+          219,
+          335,
+          447,
+          344
+        ],
+        "pos": [
+          1703,
+          1749
+        ]
+      },
+      {
+        "index": 12,
+        "class": "list-item",
+        "bbox": [
+          133,
+          352,
+          433,
+          362
+        ],
+        "pos": [
+          1749,
+          1837
+        ]
+      },
+      {
+        "index": 13,
+        "class": "list-item",
+        "bbox": [
+          107,
+          370,
+          473,
+          380
+        ],
+        "pos": [
+          1837,
+          1927
+        ]
+      },
+      {
+        "index": 14,
+        "class": "list-item",
+        "bbox": [
+          107,
+          387,
+          527,
+          409
+        ],
+        "pos": [
+          1927,
+          2113
+        ]
+      },
+      {
+        "index": 15,
+        "class": "list-item",
+        "bbox": [
+          107,
+          416,
+          538,
+          437
+        ],
+        "pos": [
+          2113,
+          2232
+        ]
+      },
+      {
+        "index": 16,
+        "class": "list-item",
+        "bbox": [
+          107,
+          445,
+          527,
+          467
+        ],
+        "pos": [
+          2232,
+          2387
+        ]
+      },
+      {
+        "index": 17,
+        "class": "text",
+        "bbox": [
+          107,
+          474,
+          527,
+          505
+        ],
+        "pos": [
+          2387,
+          2594
+        ]
+      },
+      {
+        "index": 18,
+        "class": "text",
+        "bbox": [
+          107,
+          515,
+          527,
+          571
+        ],
+        "pos": [
+          2594,
+          3059
+        ]
+      },
+      {
+        "index": 19,
+        "class": "list-item",
+        "bbox": [
+          107,
+          578,
+          527,
+          598
+        ],
+        "pos": [
+          3059,
+          3174
+        ]
+      },
+      {
+        "index": 20,
+        "class": "list-item",
+        "bbox": [
+          107,
+          608,
+          527,
+          650
+        ],
+        "pos": [
+          3174,
+          3489
+        ]
+      },
+      {
+        "index": 21,
+        "class": "list-item",
+        "bbox": [
+          107,
+          659,
+          527,
+          679
+        ],
+        "pos": [
+          3489,
+          3640
+        ]
+      }
+    ],
+    "text": "# **(Department for promotion of Industry and Internal Trade)** \n\n# **NOTIFICATION** \n\nNew Delhi, the th 16th March, 2024 \n\n**G.S.R. 215(E).—** WHEREAS the draft of certain rules, further to amend the Patents Rules, 2003 was published as required under sub-section (3) of section 159 of the Patents Act, 1970 (39 of 1970), vide notification of the Government of India in the Ministry of Commerce & Industry (Department for Promotion of Industry and Internal Trade) number G.S.R. 08(E), dated the 2nd January, 2024 in the Gazette of India, Extraordinary, Part II, Section 3, Sub-section (i) inviting objections and suggestions from all person likely to be affected there by before the expiry of a period of thirty days from the date on which copies of the Official Gazette containing the said notification were made available to public; \n\nAND WHEREAS copies of the Official Gazette in which the said notification was published were made available to the public on the 2nd January 2024; \n\nAND WHEREAS the objections and suggestions received from the public in respect of the said draft rules have been considered by the Central Government; \n\nNOW, THEREFORE, in exercise of the powers conferred by section 159 of the Patents Act, 1970 (39 of 1970), the Central Government hereby makes the following rules further to amend the Patents Rules, 2003, namely:- \n\n**1.** (1) These rules may be called the Patents (Second Amendment) Rules,2024. \n\n   - (2) They shall comeint of or ceon the date of their publication in the Official Gazette. \n\n**2.** In the Patents Rules, 2003 (herein after referred to as the said rules), after rule 107, the following chapters shall be inserted namely, - \n\n# **“CHAPTERXIVA** \n\n# **ADJUDICATION OF PENALTIES AND APPEALS** \n\n   - **107A. Definitions.** -In this Chapter, unless the context otherwise requires,- \n\n- (a) \"adjudicating officer\" means an officer authorized under section 124A of the Act; \n\n- (b) “Appellant” means a person aggrieved with an order of adjudicating officer and prefers an appeal before the appellate authority under sub-section (1) of section 124B of the Act; \n\n- (c) \"appellate authority” means an authority officer authorized under sub-section (1) of section 124 B of the Act; \n\n- (d) words and expressions used in these rules and not defined but defined in the Act, shall have the meaning respectively assigned to them in the act. \n\n**107 B. Complaint.—(1)** Any person may file a complaint in Form 31 through electronic means to the adjudicating officer regarding any contravention committed under sections 120, 122, and 123 of the Act. \n\n**107 C. Holding of inquiry. -** (1) For the purpose of adjudication under section 124 A  of the Act whether any person has committed any contravention as specified in that section,  the adjudicating officer shall, issue anotice through electronic means to such person requiring him to show cause within such period as may be specified in the notice (being not less than seven days from the date of service thereof) why an inquiry should not be held against him. \n\n- (2) Every notice under sub-rule (1) shall indicate the nature of contravention alleged to have been committed. \n\n- (3) After considering the cause, if any, shown by such person, the adjudicating officer is of the opinion that an inquiry should be held, he shall issue a notice requiring the appearance of that person personally or through alegal practitioner duly authorised by him on such date as may be fixed in the notice. \n\n- (4) On the date fixed, the adjudicating officer shall explain to the person proceeded against or his l l titi th t ti itt d b h dth i i f th A t i \n\n"
+  },
+  {
+    "metadata": {
+      "format": "PDF 1.6",
+      "title": "",
+      "author": "",
+      "subject": "",
+      "keywords": "",
+      "creator": "",
+      "producer": "iLovePDF",
+      "creationDate": "",
+      "modDate": "D:20260830160917Z",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "D:\\CODING\\Hackathons\\SIH\\SIH-scraped-data\\raw_data\\raw_pdfs\\01-IP_Laws\\patent ammendment rules.pdf",
+      "page_count": 4,
+      "page_number": 2
+    },
+    "toc_items": [],
+    "page_boxes": [
+      {
+        "index": 0,
+        "class": "text",
+        "bbox": [
+          132,
+          -7,
+          527,
+          26
+        ],
+        "pos": [
+          0,
+          280
+        ]
+      },
+      {
+        "index": 1,
+        "class": "list-item",
+        "bbox": [
+          107,
+          32,
+          527,
+          76
+        ],
+        "pos": [
+          280,
+          622
+        ]
+      },
+      {
+        "index": 2,
+        "class": "list-item",
+        "bbox": [
+          107,
+          82,
+          527,
+          115
+        ],
+        "pos": [
+          622,
+          867
+        ]
+      },
+      {
+        "index": 3,
+        "class": "list-item",
+        "bbox": [
+          107,
+          120,
+          527,
+          153
+        ],
+        "pos": [
+          867,
+          1122
+        ]
+      },
+      {
+        "index": 4,
+        "class": "list-item",
+        "bbox": [
+          107,
+          159,
+          527,
+          180
+        ],
+        "pos": [
+          1122,
+          1316
+        ]
+      },
+      {
+        "index": 5,
+        "class": "list-item",
+        "bbox": [
+          107,
+          186,
+          495,
+          196
+        ],
+        "pos": [
+          1316,
+          1416
+        ]
+      },
+      {
+        "index": 6,
+        "class": "list-item",
+        "bbox": [
+          107,
+          201,
+          527,
+          223
+        ],
+        "pos": [
+          1416,
+          1581
+        ]
+      },
+      {
+        "index": 7,
+        "class": "list-item",
+        "bbox": [
+          107,
+          228,
+          527,
+          250
+        ],
+        "pos": [
+          1581,
+          1724
+        ]
+      },
+      {
+        "index": 8,
+        "class": "text",
+        "bbox": [
+          107,
+          255,
+          527,
+          288
+        ],
+        "pos": [
+          1724,
+          2021
+        ]
+      },
+      {
+        "index": 9,
+        "class": "text",
+        "bbox": [
+          107,
+          294,
+          527,
+          315
+        ],
+        "pos": [
+          2021,
+          2214
+        ]
+      },
+      {
+        "index": 10,
+        "class": "text",
+        "bbox": [
+          107,
+          321,
+          527,
+          342
+        ],
+        "pos": [
+          2214,
+          2396
+        ]
+      },
+      {
+        "index": 11,
+        "class": "text",
+        "bbox": [
+          107,
+          348,
+          527,
+          381
+        ],
+        "pos": [
+          2396,
+          2663
+        ]
+      },
+      {
+        "index": 12,
+        "class": "text",
+        "bbox": [
+          107,
+          386,
+          527,
+          408
+        ],
+        "pos": [
+          2663,
+          2792
+        ]
+      },
+      {
+        "index": 13,
+        "class": "text",
+        "bbox": [
+          107,
+          413,
+          527,
+          435
+        ],
+        "pos": [
+          2792,
+          2947
+        ]
+      },
+      {
+        "index": 14,
+        "class": "text",
+        "bbox": [
+          107,
+          440,
+          527,
+          473
+        ],
+        "pos": [
+          2947,
+          3226
+        ]
+      },
+      {
+        "index": 15,
+        "class": "text",
+        "bbox": [
+          107,
+          479,
+          527,
+          512
+        ],
+        "pos": [
+          3226,
+          3481
+        ]
+      },
+      {
+        "index": 16,
+        "class": "list-item",
+        "bbox": [
+          107,
+          517,
+          526,
+          537
+        ],
+        "pos": [
+          3481,
+          3604
+        ]
+      },
+      {
+        "index": 17,
+        "class": "text",
+        "bbox": [
+          89,
+          544,
+          298,
+          553
+        ],
+        "pos": [
+          3604,
+          3655
+        ]
+      },
+      {
+        "index": 18,
+        "class": "text",
+        "bbox": [
+          96,
+          560,
+          521,
+          581
+        ],
+        "pos": [
+          3655,
+          3780
+        ]
+      },
+      {
+        "index": 19,
+        "class": "table",
+        "bbox": [
+          104,
+          589,
+          452,
+          662
+        ],
+        "pos": [
+          3780,
+          3980
+        ]
+      }
+    ],
+    "text": "documents or evidence as he may consider relevant to the inquiry and if necessary, the hearing maybe adjourned to a future date and in taking such evidence the adjudicating officer shall not bebound to observe the provisions of the Bhartiya Sakshya Adhiniyam 2023 (47 of 2023). \n\n- (6) While holding an inquiry under this rule the adjudicating officermay require and enforce the attendance of any person acquainted with the facts and circumstances of thecase to give evidence or to produce any document which in the opinion of the adjudicating officer may be useful for or relevant to the subject matter of the inquiry. \n\n- (7) If any person fails, neglects or refuses to appear as required by sub-rule (3) before the adjudicating officer, the adjudicating officer may proceed with the inquiry inthe absence of such person after recording the reasons for doing so. \n\n- (8) If, upon consideration of the evidence produced before the adjudicating officer, the adjudicating officer is satisfied that the person has committed the contravention, he may, by orderin writing, impose such penalty under the Act as he thinks fit \n\n- (9) Every order made under sub-rule (8) shall specify the provisions of the Act in respect of which contravention has being committed and shall contain the reasons for imposing the penalty. \n\n- (10) Every order made under sub-rule (8) shall be dated and signed by the adjudicating officer. \n\n- (11) A copy of the order made under this rule and all other copies of proceedings shall be supplied free of charge to the person against whom the order is made. \n\n- (12) The adjudicating officer shall complete the proceeding within the three months form the issuance of the notice to the opposite party. \n\n**107 D. Appeal:- (1)** Any person aggrieved by an order of the adjudicating under this rule, may prefer an appeal in Form 32 through electronic means to appellate authority, within sixty days from the date of the order, to the appellate authority, within sixty days from the date of the order. \n\nProvided that the appellate authority may entertain appeal after the expiry of the said period it he satisfied that he has sufficient cause for the not filling the appeal within such period. \n\n**(2)** On receipt of the appeal, the appellate authority shall issuea notice requiring, to the Respondent, to file his reply within such period as may be specified in the notice. \n\n**(3)** The appellate authority shall, after giving the parties a reasonable opportunity of being heard, pass a reasoned order, including an order for adjournment, and complete the proceedings ordinarily within six months from the dateof the receipt of the appeal. \n\n**107H. Serving upon parties -** (1) All communications under this Chapter shall be transmitted through electronic means only. \n\n(2) In proving such transmission, it shall be sufficient to show that the communication was properly addressed and transmitted through electronic means. \n\n**107I. Extension of time.** - The adjudicating officer or the appellate authority may, for reasons to be recorded in writing, where there is a reasonable cause for the delay or failure to act, extend any period specified in this chapter till such period as he may thinks fit. \n\n**107L. Order and penalties.** - (1) Every order under this Chapter, , shall be dated, digitally signed, communicated to all the parties, and also uploaded on theofficial website of the adjudicating officer or the appellate authority as the case may be \n\n- (2) All sums realized by way of penalties under this Chapter shall be credited to the Consolidated \n\n- Fund of India\". \n\n**3.** In thesaid rules, in the SECOND SCHEDULE, \n\n(a)under heading FORMS after, after “Form No.30” and the entries related thereto, the following shall be inserted, namely: \n\n|1|2|3|\n|---|---|---|\n|“31.|Section 124A, rule 107C|Complaint for contravention ofsections120, 122,and<br>123|\n|32.|Section 124B, rule 107F|Appeal against an order of the adjudicating<br>officer”|\n\n\n\n"
+  },
+  {
+    "metadata": {
+      "format": "PDF 1.6",
+      "title": "",
+      "author": "",
+      "subject": "",
+      "keywords": "",
+      "creator": "",
+      "producer": "iLovePDF",
+      "creationDate": "",
+      "modDate": "D:20260830160917Z",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "D:\\CODING\\Hackathons\\SIH\\SIH-scraped-data\\raw_data\\raw_pdfs\\01-IP_Laws\\patent ammendment rules.pdf",
+      "page_count": 4,
+      "page_number": 3
+    },
+    "toc_items": [],
+    "page_boxes": [
+      {
+        "index": 0,
+        "class": "page-header",
+        "bbox": [
+          282,
+          -1,
+          324,
+          7
+        ],
+        "pos": [
+          0,
+          14
+        ]
+      },
+      {
+        "index": 1,
+        "class": "page-header",
+        "bbox": [
+          218,
+          17,
+          389,
+          27
+        ],
+        "pos": [
+          14,
+          50
+        ]
+      },
+      {
+        "index": 2,
+        "class": "page-header",
+        "bbox": [
+          295,
+          35,
+          311,
+          42
+        ],
+        "pos": [
+          50,
+          56
+        ]
+      },
+      {
+        "index": 3,
+        "class": "text",
+        "bbox": [
+          239,
+          52,
+          367,
+          61
+        ],
+        "pos": [
+          56,
+          82
+        ]
+      },
+      {
+        "index": 4,
+        "class": "section-header",
+        "bbox": [
+          124,
+          69,
+          517,
+          79
+        ],
+        "pos": [
+          82,
+          158
+        ]
+      },
+      {
+        "index": 5,
+        "class": "text",
+        "bbox": [
+          256,
+          87,
+          385,
+          97
+        ],
+        "pos": [
+          158,
+          192
+        ]
+      },
+      {
+        "index": 6,
+        "class": "list-item",
+        "bbox": [
+          69,
+          105,
+          259,
+          150
+        ],
+        "pos": [
+          192,
+          272
+        ]
+      },
+      {
+        "index": 7,
+        "class": "list-item",
+        "bbox": [
+          69,
+          160,
+          186,
+          205
+        ],
+        "pos": [
+          272,
+          336
+        ]
+      },
+      {
+        "index": 8,
+        "class": "text",
+        "bbox": [
+          84,
+          213,
+          326,
+          238
+        ],
+        "pos": [
+          336,
+          421
+        ]
+      },
+      {
+        "index": 9,
+        "class": "table",
+        "bbox": [
+          84,
+          266,
+          318,
+          353
+        ],
+        "pos": [
+          421,
+          655
+        ]
+      },
+      {
+        "index": 10,
+        "class": "text",
+        "bbox": [
+          60,
+          361,
+          356,
+          371
+        ],
+        "pos": [
+          655,
+          743
+        ]
+      },
+      {
+        "index": 11,
+        "class": "text",
+        "bbox": [
+          60,
+          378,
+          364,
+          388
+        ],
+        "pos": [
+          743,
+          822
+        ]
+      },
+      {
+        "index": 12,
+        "class": "table",
+        "bbox": [
+          69,
+          396,
+          492,
+          504
+        ],
+        "pos": [
+          822,
+          1016
+        ]
+      },
+      {
+        "index": 13,
+        "class": "text",
+        "bbox": [
+          81,
+          514,
+          263,
+          524
+        ],
+        "pos": [
+          1016,
+          1069
+        ]
+      },
+      {
+        "index": 14,
+        "class": "section-header",
+        "bbox": [
+          277,
+          550,
+          323,
+          558
+        ],
+        "pos": [
+          1069,
+          1085
+        ]
+      },
+      {
+        "index": 15,
+        "class": "text",
+        "bbox": [
+          213,
+          568,
+          387,
+          578
+        ],
+        "pos": [
+          1085,
+          1122
+        ]
+      },
+      {
+        "index": 16,
+        "class": "text",
+        "bbox": [
+          292,
+          585,
+          308,
+          593
+        ],
+        "pos": [
+          1122,
+          1128
+        ]
+      },
+      {
+        "index": 17,
+        "class": "text",
+        "bbox": [
+          236,
+          603,
+          364,
+          612
+        ],
+        "pos": [
+          1128,
+          1154
+        ]
+      },
+      {
+        "index": 18,
+        "class": "text",
+        "bbox": [
+          140,
+          620,
+          495,
+          629
+        ],
+        "pos": [
+          1154,
+          1219
+        ]
+      },
+      {
+        "index": 19,
+        "class": "text",
+        "bbox": [
+          257,
+          638,
+          377,
+          648
+        ],
+        "pos": [
+          1219,
+          1250
+        ]
+      },
+      {
+        "index": 20,
+        "class": "page-footer",
+        "bbox": [
+          69,
+          656,
+          240,
+          668
+        ],
+        "pos": [
+          1250,
+          1294
+        ]
+      }
+    ],
+    "text": "**“FORM31** \n\nTHE PATENTS ACT,1970 (39 OF 1970) \n\nand \n\nTHE PATENTS RULES, 2003 \n\n# **COMPLAINT FOR CONTRAVENTION OR DEFAULT OF SECTIONS 120, 122 and 123** \n\n[See section 124A, rule 107(1)] \n\n1. Particulars of Complainant (mandatory): - a. Name: b. Address for service: \n\n- c. Contactno.: d. Email (for service): \n\n- 2.Of Complaint:- \n\na. Date, time, and instance of commission of the alleged contravention or default: \n\n|b.|<br>Statement of contravention or default setting out all<br>relevant|\n|---|---|\n|m|aterial particulars:|\n|c.|<br>Evidence in support of the statement:|\n|e.|Tentative amount of damage (in Monetary terms) with<br>cost break up|\n\n\n\nI/We ........................ , the Complainant here in declare that the facts stated \n\nhere in are correct to the best of my/our knowledge, information and belief. \n\n|3.Signature of the Complainant:|Signature…………..|\n|---|---|\n|4. Name of the natural person who|(……………….)|\n|has signed:||\n||To,|\n||The Adjudicating Officer, The Patent<br>Office,|\n||at ……………|\n\n\n\n**Note** .-Strike out whichever is not applicable. \n\n# **FORM 32** \n\nTHE PATENTS ACT, 1970 (39 OF 1970) \n\nand \n\nTHE PATENTS RULES, 2003 \n\n**APPEAL AGAINST AN ORDER PASSED BY THE ADJUDICATING OFFICER** \n\n[Section 124B, rule 107D(1)] \n\n1. Particulars of Appellant (mandatory):- \n\n"
+  },
+  {
+    "metadata": {
+      "format": "PDF 1.6",
+      "title": "",
+      "author": "",
+      "subject": "",
+      "keywords": "",
+      "creator": "",
+      "producer": "iLovePDF",
+      "creationDate": "",
+      "modDate": "D:20260830160917Z",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "D:\\CODING\\Hackathons\\SIH\\SIH-scraped-data\\raw_data\\raw_pdfs\\01-IP_Laws\\patent ammendment rules.pdf",
+      "page_count": 4,
+      "page_number": 4
+    },
+    "toc_items": [],
+    "page_boxes": [
+      {
+        "index": 0,
+        "class": "table",
+        "bbox": [
+          60,
+          0,
+          483,
+          259
+        ],
+        "pos": [
+          0,
+          604
+        ]
+      },
+      {
+        "index": 1,
+        "class": "text",
+        "bbox": [
+          401,
+          284,
+          536,
+          312
+        ],
+        "pos": [
+          604,
+          661
+        ]
+      },
+      {
+        "index": 2,
+        "class": "list-item",
+        "bbox": [
+          60,
+          354,
+          537,
+          387
+        ],
+        "pos": [
+          661,
+          923
+        ]
+      },
+      {
+        "index": 3,
+        "class": "page-footer",
+        "bbox": [
+          113,
+          671,
+          483,
+          678
+        ],
+        "pos": [
+          923,
+          988
+        ]
+      }
+    ],
+    "text": "|c. <br>Contact no.:||\n|---|---|\n|d. Email (for service):||\n|2. Particulars of Order passed by the adjudicating officer<br>against which the appeal is preferred: -||\n|a. Case No.:||\n|b. Date of Order:||\n|c. Evidence in support of the<br>statement:||\n|I/We………….., the Appellant herein declare that the facts state<br>knowledge, information and belief.|d herein are correct to the best of my/our|\n|3.Signature of the Appellant:|Signature…………..|\n|4.Name of the natural person whoh as signed:|(……………….)|\n||To,<br>The Appellate Authority, at<br>……………|\n|**Note.-**Strikeout which ever is not applicable”.||\n\n\n\n[F. No.P-24031/13/2020-IPR-III] HIMANI PANDE Jt. Secy. \n\n- **Note:** The principal rules were published in the Gazette of India, Extraordinary, Part-II, Section 3, Sub-Section (ii) vide number S.O. 493 (E) dated the 2nd May, 2003 and last amended vide notification number G.S.R. 646(E) dated the 21st September, 2021 \n\nU l d d b Dt f P i ti t G t f I di P Ri R d M i N D lhi 110064 \n\n"
+  }
+]

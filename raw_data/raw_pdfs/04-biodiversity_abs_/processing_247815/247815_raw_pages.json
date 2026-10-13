@@ -1,0 +1,4756 @@
+[
+  {
+    "metadata": {
+      "format": "PDF 1.6",
+      "title": "",
+      "author": "",
+      "subject": "",
+      "keywords": "",
+      "creator": "",
+      "producer": "iTextSharp™ 5.5.13.1 ©2000-2019 iText Group NV (AGPL-version)",
+      "creationDate": "D:20230803185340+05'30'",
+      "modDate": "D:20230803185717+05'30'",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "D:\\CODING\\Hackathons\\SIH\\SIH-scraped-data\\raw_data\\raw_pdfs\\04-biodiversity_abs_\\247815.pdf",
+      "page_count": 15,
+      "page_number": 1
+    },
+    "toc_items": [],
+    "page_boxes": [
+      {
+        "index": 0,
+        "class": "page-header",
+        "bbox": [
+          116,
+          66,
+          478,
+          76
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 1,
+        "class": "picture",
+        "bbox": [
+          132,
+          81,
+          457,
+          202
+        ],
+        "pos": [
+          0,
+          2
+        ]
+      },
+      {
+        "index": 2,
+        "class": "caption",
+        "bbox": [
+          227,
+          209,
+          389,
+          235
+        ],
+        "pos": [
+          2,
+          87
+        ]
+      },
+      {
+        "index": 3,
+        "class": "text",
+        "bbox": [
+          279,
+          244,
+          314,
+          252
+        ],
+        "pos": [
+          87,
+          103
+        ]
+      },
+      {
+        "index": 4,
+        "class": "text",
+        "bbox": [
+          255,
+          258,
+          338,
+          266
+        ],
+        "pos": [
+          103,
+          123
+        ]
+      },
+      {
+        "index": 5,
+        "class": "text",
+        "bbox": [
+          262,
+          272,
+          331,
+          280
+        ],
+        "pos": [
+          123,
+          147
+        ]
+      },
+      {
+        "index": 6,
+        "class": "text",
+        "bbox": [
+          253,
+          286,
+          340,
+          308
+        ],
+        "pos": [
+          147,
+          195
+        ]
+      },
+      {
+        "index": 7,
+        "class": "text",
+        "bbox": [
+          218,
+          313,
+          375,
+          323
+        ],
+        "pos": [
+          195,
+          222
+        ]
+      },
+      {
+        "index": 8,
+        "class": "text",
+        "bbox": [
+          116,
+          338,
+          467,
+          362
+        ],
+        "pos": [
+          222,
+          363
+        ]
+      },
+      {
+        "index": 9,
+        "class": "text",
+        "bbox": [
+          122,
+          375,
+          471,
+          399
+        ],
+        "pos": [
+          363,
+          549
+        ]
+      },
+      {
+        "index": 10,
+        "class": "section-header",
+        "bbox": [
+          200,
+          434,
+          393,
+          460
+        ],
+        "pos": [
+          549,
+          610
+        ]
+      },
+      {
+        "index": 11,
+        "class": "text",
+        "bbox": [
+          232,
+          470,
+          477,
+          480
+        ],
+        "pos": [
+          610,
+          684
+        ]
+      },
+      {
+        "index": 12,
+        "class": "text",
+        "bbox": [
+          116,
+          495,
+          477,
+          517
+        ],
+        "pos": [
+          684,
+          829
+        ]
+      },
+      {
+        "index": 13,
+        "class": "section-header",
+        "bbox": [
+          155,
+          536,
+          455,
+          548
+        ],
+        "pos": [
+          829,
+          880
+        ]
+      },
+      {
+        "index": 14,
+        "class": "formula",
+        "bbox": [
+          260,
+          561,
+          335,
+          570
+        ],
+        "pos": [
+          880,
+          882
+        ]
+      },
+      {
+        "index": 15,
+        "class": "text",
+        "bbox": [
+          400,
+          576,
+          478,
+          586
+        ],
+        "pos": [
+          882,
+          908
+        ]
+      },
+      {
+        "index": 16,
+        "class": "text",
+        "bbox": [
+          156,
+          601,
+          439,
+          613
+        ],
+        "pos": [
+          908,
+          970
+        ]
+      },
+      {
+        "index": 17,
+        "class": "text",
+        "bbox": [
+          117,
+          622,
+          478,
+          644
+        ],
+        "pos": [
+          970,
+          1065
+        ]
+      },
+      {
+        "index": 18,
+        "class": "text",
+        "bbox": [
+          141,
+          654,
+          450,
+          664
+        ],
+        "pos": [
+          1065,
+          1153
+        ]
+      },
+      {
+        "index": 19,
+        "class": "text",
+        "bbox": [
+          485,
+          655,
+          538,
+          671
+        ],
+        "pos": [
+          1153,
+          1185
+        ]
+      },
+      {
+        "index": 20,
+        "class": "text",
+        "bbox": [
+          117,
+          672,
+          478,
+          694
+        ],
+        "pos": [
+          1185,
+          1314
+        ]
+      },
+      {
+        "index": 21,
+        "class": "text",
+        "bbox": [
+          117,
+          702,
+          478,
+          724
+        ],
+        "pos": [
+          1314,
+          1427
+        ]
+      },
+      {
+        "index": 22,
+        "class": "text",
+        "bbox": [
+          485,
+          704,
+          530,
+          722
+        ],
+        "pos": [
+          1427,
+          1452
+        ]
+      },
+      {
+        "index": 23,
+        "class": "text",
+        "bbox": [
+          165,
+          732,
+          417,
+          742
+        ],
+        "pos": [
+          1452,
+          1523
+        ]
+      },
+      {
+        "index": 24,
+        "class": "page-footer",
+        "bbox": [
+          57,
+          704,
+          99,
+          710
+        ],
+        "pos": [
+          1523,
+          1523
+        ]
+      }
+    ],
+    "text": "\n\nसी.जी.-डी.एल.-अ.-03082023-247815 **xxxGIDHxxx CG-DL-E-03082023-247815 xxxGIDExxx** \n\n**vlk/kkj.k** \n\n**EXTRAORDINARY** \n\n**Hkkx  II — [k.M 1** \n\n**PART II — Section 1 izkf/kdkj ls izdkf'kr** \n\nPUBLISHED  BY  AUTHORITY \n\n**lañ   13] ubZ fnYyh] c`gLifrokj] vxLr 3] 2023@Jko.k 12] 1945 ¼'kd½ No. 13] NEW DELHI, THURSDAY, AUGUST 3, 2023/SRAVANA 12, 1945 (SAKA)** \n\n**bl Hkkx esa fHkUu i`\"B la[;k nh tkrh gS ftlls fd ;g vyx ladyu ds :i esa j[kk tk ldsA Separate paging is given to this Part in order that it may be filed as a separate compilation.** \n\n# **MINISTRY OF LAW AND JUSTICE (Legislative Department)** \n\n_New Delhi, the_ 3 _rd August,_ 2023/ _Sravana_ 12 _,_ 1945  ( _Saka_ ) \n\nThe following Act of Parliament received the assent of the President on the 3rd August, 2023 and is hereby published for general information:— \n\n# THE BIOLOGICAL DIVERSITY (AMENDMENT) ACT, 2023 \n\n\n\n[3 _rd August_ , 2023.] \n\nAn Act further to amend the Biological Diversity Act, 2002. \n\nBE it enacted by Parliament in the Seventy-fourth Year of the Republic of India as follows:— \n\n**1.** ( _1_ ) This Act may be called the Biological Diversity (Amendment) Act, 2023. \n\nShort title and commencement. \n\n( _2_ ) It shall come into force on such date as the Central Government may, by notification in the Official Gazette, appoint. \n\n**2.** In the Biological Diversity Act, 2002 (hereinafter referred to as the principal Act), in the preamble,— \n\nAmendment of preamble. \n\n( _a_ ) for the word “party”, the word “Party” shall be substituted; \n\n"
+  },
+  {
+    "metadata": {
+      "format": "PDF 1.6",
+      "title": "",
+      "author": "",
+      "subject": "",
+      "keywords": "",
+      "creator": "",
+      "producer": "iTextSharp™ 5.5.13.1 ©2000-2019 iText Group NV (AGPL-version)",
+      "creationDate": "D:20230803185340+05'30'",
+      "modDate": "D:20230803185717+05'30'",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "D:\\CODING\\Hackathons\\SIH\\SIH-scraped-data\\raw_data\\raw_pdfs\\04-biodiversity_abs_\\247815.pdf",
+      "page_count": 15,
+      "page_number": 2
+    },
+    "toc_items": [],
+    "page_boxes": [
+      {
+        "index": 0,
+        "class": "page-header",
+        "bbox": [
+          118,
+          69,
+          124,
+          77
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 1,
+        "class": "page-header",
+        "bbox": [
+          201,
+          69,
+          395,
+          77
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 2,
+        "class": "page-header",
+        "bbox": [
+          437,
+          69,
+          479,
+          79
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 3,
+        "class": "text",
+        "bbox": [
+          141,
+          98,
+          478,
+          133
+        ],
+        "pos": [
+          0,
+          181
+        ]
+      },
+      {
+        "index": 4,
+        "class": "text",
+        "bbox": [
+          165,
+          143,
+          478,
+          190
+        ],
+        "pos": [
+          181,
+          449
+        ]
+      },
+      {
+        "index": 5,
+        "class": "text",
+        "bbox": [
+          165,
+          200,
+          478,
+          235
+        ],
+        "pos": [
+          449,
+          688
+        ]
+      },
+      {
+        "index": 6,
+        "class": "text",
+        "bbox": [
+          57,
+          245,
+          101,
+          261
+        ],
+        "pos": [
+          688,
+          714
+        ]
+      },
+      {
+        "index": 7,
+        "class": "text",
+        "bbox": [
+          141,
+          245,
+          291,
+          255
+        ],
+        "pos": [
+          714,
+          759
+        ]
+      },
+      {
+        "index": 8,
+        "class": "text",
+        "bbox": [
+          165,
+          265,
+          445,
+          275
+        ],
+        "pos": [
+          759,
+          842
+        ]
+      },
+      {
+        "index": 9,
+        "class": "text",
+        "bbox": [
+          165,
+          286,
+          478,
+          320
+        ],
+        "pos": [
+          842,
+          1079
+        ]
+      },
+      {
+        "index": 10,
+        "class": "text",
+        "bbox": [
+          165,
+          330,
+          478,
+          390
+        ],
+        "pos": [
+          1079,
+          1434
+        ]
+      },
+      {
+        "index": 11,
+        "class": "text",
+        "bbox": [
+          141,
+          400,
+          478,
+          422
+        ],
+        "pos": [
+          1434,
+          1554
+        ]
+      },
+      {
+        "index": 12,
+        "class": "text",
+        "bbox": [
+          165,
+          432,
+          446,
+          442
+        ],
+        "pos": [
+          1554,
+          1638
+        ]
+      },
+      {
+        "index": 13,
+        "class": "text",
+        "bbox": [
+          165,
+          453,
+          478,
+          500
+        ],
+        "pos": [
+          1638,
+          1897
+        ]
+      },
+      {
+        "index": 14,
+        "class": "text",
+        "bbox": [
+          165,
+          510,
+          437,
+          520
+        ],
+        "pos": [
+          1897,
+          1979
+        ]
+      },
+      {
+        "index": 15,
+        "class": "text",
+        "bbox": [
+          165,
+          530,
+          478,
+          564
+        ],
+        "pos": [
+          1979,
+          2149
+        ]
+      },
+      {
+        "index": 16,
+        "class": "text",
+        "bbox": [
+          486,
+          556,
+          528,
+          563
+        ],
+        "pos": [
+          2149,
+          2163
+        ]
+      },
+      {
+        "index": 17,
+        "class": "text",
+        "bbox": [
+          165,
+          575,
+          432,
+          585
+        ],
+        "pos": [
+          2163,
+          2244
+        ]
+      },
+      {
+        "index": 18,
+        "class": "text",
+        "bbox": [
+          165,
+          595,
+          478,
+          630
+        ],
+        "pos": [
+          2244,
+          2417
+        ]
+      },
+      {
+        "index": 19,
+        "class": "text",
+        "bbox": [
+          165,
+          638,
+          443,
+          648
+        ],
+        "pos": [
+          2417,
+          2500
+        ]
+      },
+      {
+        "index": 20,
+        "class": "text",
+        "bbox": [
+          165,
+          658,
+          478,
+          680
+        ],
+        "pos": [
+          2500,
+          2629
+        ]
+      },
+      {
+        "index": 21,
+        "class": "text",
+        "bbox": [
+          165,
+          690,
+          478,
+          748
+        ],
+        "pos": [
+          2629,
+          3025
+        ]
+      },
+      {
+        "index": 22,
+        "class": "text",
+        "bbox": [
+          486,
+          740,
+          528,
+          747
+        ],
+        "pos": [
+          3025,
+          3039
+        ]
+      }
+    ],
+    "text": "( _b_ ) for the words beginning with “AND WHEREAS it is considered necessary”, and ending with “give effect to the said Convention”,  the following shall be substituted, namely:— \n\n“AND WHEREAS India is a Party to the Nagoya Protocol on access to genetic resources and the fair and equitable sharing of benefits arising from their utilisation to the convention on Biological Diversity which was adopted on the 29th October, 2010 in Nagoya, Japan; \n\nAND WHEREAS it is considered necessary to provide for conservation, sustainable utilisation, fair and equitable sharing of the benefits arising out of utilisation of biological resources and also to give effect to the said Convention.”. \n\nAmendment of section 2. \n\n**3.** In section 2 of the principal Act,— \n\n( _i_ ) for clause ( _a_ ), the following clauses shall be substituted, namely:— \n\n‘( _a_ ) “access” means collecting, procuring or possessing any biological resource occurring in or obtained from India or traditional knowledge associated thereto, for the purposes of research or bio-survey or commercial utilisation; \n\n( _aa_ ) “benefit claimers” means the conservers of biological resources, their by-products, creators or holders of traditional knowledge associated thereto (excluding codified traditional knowledge only for Indians) and information relating to the use of such biological resources, innovations and practices associated with such use and application;’; \n\n( _ii_ ) in clause ( _b_ ), after the words “biological diversity”, the words ‘or “biodiversity” ’ shall be inserted; \n\n( _iii_ ) for clause ( _c_ ), the following clause shall be substituted, namely:— \n\n‘( _c_ ) “biological resources” include plants, animals, micro-organisms or parts of their genetic material and derivatives (excluding value added products), with actual or potential use or value for humanity, but does not include human genetic material;'; \n\n( _iv_ ) after clause ( _e_ ), the following clause shall be inserted, namely:— \n\n‘( _ea_ ) “codified traditional knowledge” means the knowledge derived from authoritative books specified in the First Schedule to the Drugs and Cosmetics Act, 1940;’; \n\n23 of 1940. \n\n( _v_ ) after clause ( _f_ ), the following clause shall be inserted, namely:— \n\n‘( _fa_ ) “derivative” means a naturally occurring biochemical compound or metabolism of biological resources, even if it does not contain functional units of heredity;’; \n\n( _vi_ ) after clause ( _g_ ), the following clauses shall be inserted, namely:— \n\n‘( _ga_ ) “folk variety” means a cultivated variety of plant that was developed, grown and exchanged informally among farmers; \n\n( _gb_ ) “India” means the territory of India as referred to in Article 1 of the Constitution, its territorial waters, seabed and sub-soil underlying such waters, continental shelf, exclusive economic zone or any other maritime zone as refferred to in the Territorial Waters, Continental Shelf, Exclusive Economic Zone and Other Maritime Zones Act, 1976, and the air space above its territory; \n\n80 of 1976. \n\n"
+  },
+  {
+    "metadata": {
+      "format": "PDF 1.6",
+      "title": "",
+      "author": "",
+      "subject": "",
+      "keywords": "",
+      "creator": "",
+      "producer": "iTextSharp™ 5.5.13.1 ©2000-2019 iText Group NV (AGPL-version)",
+      "creationDate": "D:20230803185340+05'30'",
+      "modDate": "D:20230803185717+05'30'",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "D:\\CODING\\Hackathons\\SIH\\SIH-scraped-data\\raw_data\\raw_pdfs\\04-biodiversity_abs_\\247815.pdf",
+      "page_count": 15,
+      "page_number": 3
+    },
+    "toc_items": [],
+    "page_boxes": [
+      {
+        "index": 0,
+        "class": "page-header",
+        "bbox": [
+          117,
+          69,
+          146,
+          78
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 1,
+        "class": "page-header",
+        "bbox": [
+          201,
+          69,
+          395,
+          77
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 2,
+        "class": "page-header",
+        "bbox": [
+          472,
+          69,
+          478,
+          77
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 3,
+        "class": "text",
+        "bbox": [
+          165,
+          98,
+          478,
+          119
+        ],
+        "pos": [
+          0,
+          105
+        ]
+      },
+      {
+        "index": 4,
+        "class": "text",
+        "bbox": [
+          165,
+          130,
+          439,
+          140
+        ],
+        "pos": [
+          105,
+          188
+        ]
+      },
+      {
+        "index": 5,
+        "class": "text",
+        "bbox": [
+          165,
+          150,
+          478,
+          172
+        ],
+        "pos": [
+          188,
+          347
+        ]
+      },
+      {
+        "index": 6,
+        "class": "text",
+        "bbox": [
+          117,
+          182,
+          533,
+          209
+        ],
+        "pos": [
+          347,
+          521
+        ]
+      },
+      {
+        "index": 7,
+        "class": "text",
+        "bbox": [
+          117,
+          224,
+          530,
+          246
+        ],
+        "pos": [
+          521,
+          713
+        ]
+      },
+      {
+        "index": 8,
+        "class": "text",
+        "bbox": [
+          57,
+          280,
+          100,
+          287
+        ],
+        "pos": [
+          713,
+          727
+        ]
+      },
+      {
+        "index": 9,
+        "class": "text",
+        "bbox": [
+          141,
+          256,
+          478,
+          290
+        ],
+        "pos": [
+          727,
+          934
+        ]
+      },
+      {
+        "index": 10,
+        "class": "text",
+        "bbox": [
+          117,
+          300,
+          478,
+          322
+        ],
+        "pos": [
+          934,
+          1032
+        ]
+      },
+      {
+        "index": 11,
+        "class": "text",
+        "bbox": [
+          141,
+          326,
+          478,
+          396
+        ],
+        "pos": [
+          1032,
+          1495
+        ]
+      },
+      {
+        "index": 12,
+        "class": "text",
+        "bbox": [
+          141,
+          406,
+          478,
+          440
+        ],
+        "pos": [
+          1495,
+          1736
+        ]
+      },
+      {
+        "index": 13,
+        "class": "text",
+        "bbox": [
+          486,
+          300,
+          530,
+          316
+        ],
+        "pos": [
+          1736,
+          1762
+        ]
+      },
+      {
+        "index": 14,
+        "class": "text",
+        "bbox": [
+          486,
+          327,
+          534,
+          431
+        ],
+        "pos": [
+          1762,
+          1878
+        ]
+      },
+      {
+        "index": 15,
+        "class": "text",
+        "bbox": [
+          141,
+          450,
+          478,
+          472
+        ],
+        "pos": [
+          1878,
+          2047
+        ]
+      },
+      {
+        "index": 16,
+        "class": "text",
+        "bbox": [
+          141,
+          482,
+          478,
+          528
+        ],
+        "pos": [
+          2047,
+          2340
+        ]
+      },
+      {
+        "index": 17,
+        "class": "text",
+        "bbox": [
+          141,
+          538,
+          292,
+          548
+        ],
+        "pos": [
+          2340,
+          2386
+        ]
+      },
+      {
+        "index": 18,
+        "class": "text",
+        "bbox": [
+          488,
+          540,
+          532,
+          556
+        ],
+        "pos": [
+          2386,
+          2412
+        ]
+      },
+      {
+        "index": 19,
+        "class": "text",
+        "bbox": [
+          141,
+          556,
+          478,
+          578
+        ],
+        "pos": [
+          2412,
+          2546
+        ]
+      },
+      {
+        "index": 20,
+        "class": "text",
+        "bbox": [
+          141,
+          586,
+          478,
+          608
+        ],
+        "pos": [
+          2546,
+          2639
+        ]
+      },
+      {
+        "index": 21,
+        "class": "text",
+        "bbox": [
+          165,
+          616,
+          478,
+          686
+        ],
+        "pos": [
+          2639,
+          3044
+        ]
+      },
+      {
+        "index": 22,
+        "class": "text",
+        "bbox": [
+          141,
+          695,
+          291,
+          705
+        ],
+        "pos": [
+          3044,
+          3089
+        ]
+      },
+      {
+        "index": 23,
+        "class": "text",
+        "bbox": [
+          486,
+          694,
+          530,
+          710
+        ],
+        "pos": [
+          3089,
+          3115
+        ]
+      },
+      {
+        "index": 24,
+        "class": "text",
+        "bbox": [
+          141,
+          713,
+          478,
+          735
+        ],
+        "pos": [
+          3115,
+          3208
+        ]
+      },
+      {
+        "index": 25,
+        "class": "text",
+        "bbox": [
+          165,
+          743,
+          478,
+          766
+        ],
+        "pos": [
+          3208,
+          3376
+        ]
+      }
+    ],
+    "text": "( _gc_ ) “landrace” means primitive cultivar that was grown by ancient farmers and their successors;’; \n\n( _vii_ ) after clause ( _i_ ), the following clause shall be inserted, namely:— \n\n‘( _ia_ ) “Member-Secretary” means the full time Secretary of the National Biodiversity Authority, or of the State Biodiversity Board, as the case may be;’. \n\n**4.** In Chapter II of the principal Act, in the Chapter heading, for the word “DIVERSITY”, Amendment the word “RESOURCES” shall be substituted. of heading of Chapter II. \n\n**5.** In section 3 of the principal Act, in sub-section ( _2_ ), in clause ( _c_ ), for sub-clause ( _ii_ ), Amendment the following sub-clause shall be substituted, namely:— of section 3. \n\n18 of 2013. \n\n“( _ii_ ) incorporated or registered in India under any law for the time being in force, which is controlled by a foreigner within the meaning of clause ( _27_ ) of section 2 of the Companies Act, 2013.”. \n\n**6.** For section 4 of the principal Act, the following section shall be substituted, namely:— \n\n“4. No person or entity shall share or transfer any result of the research on any biological resource occurring in, or obtained or accessed from, India or traditional knowledge associated thereto, for monetary consideration or otherwise, to a person or body corporate referred to in sub-section ( _2_ ) of section 3, without the prior written approval of the National Biodiversity Authority, except the codified traditional knowledge which is only for Indians: \n\nProvided that the provisions of this section shall not apply if publication of research papers or dissemination of knowledge in any seminar or workshop involving financial benefit is as per the guidelines issued by the Central Government: \n\nAmendment of section 4. \n\nResults of research not to be transferred to certain persons without approval of National Biodiversity Authority. \n\nProvided further that where the results of research are used for further research, then, the registration with the National Biodiversity Authority shall be necessary: \n\nProvided also that if the results of research are used for commercial utilisation or for obtaining any intellectual property rights, within or outside India, prior approval of the National Biodiversity Authority shall be required to be taken in accordance with the provisions of this Act.”. \n\n**7** . In section 5 of the principal Act,— \n\nAmendment of section 5. \n\n( _i_ ) in the marginal heading, for the words and figures “Sections 3 and 4”, the words “Certain provisions” shall be substituted; \n\n( _ii_ ) for sub-section ( _1_ ), the following sub-section shall be substituted, namely:— \n\n“( _1_ ) The provisions of section 3 shall not apply to collaborative research projects involving transfer or exchange of biological resource or traditional knowledge associated thereto between institutions, including Government sponsored institutions of India, and such institutions in other countries, if such collaborative research projects satisfy the conditions specified in sub-section ( _3_ ).”. \n\n**8.** In section 6 of the principal Act,— \n\nAmendment of section 6. \n\n( _a_ ) for sub-section ( _1_ ), the following sub-sections shall be substituted, namely:— \n\n**“** ( _1_ ) Any person or entity covered under sub-section ( _2_ ) of section 3 applying for an intellectual property right, by whatever name called, in or outside \n\n"
+  },
+  {
+    "metadata": {
+      "format": "PDF 1.6",
+      "title": "",
+      "author": "",
+      "subject": "",
+      "keywords": "",
+      "creator": "",
+      "producer": "iTextSharp™ 5.5.13.1 ©2000-2019 iText Group NV (AGPL-version)",
+      "creationDate": "D:20230803185340+05'30'",
+      "modDate": "D:20230803185717+05'30'",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "D:\\CODING\\Hackathons\\SIH\\SIH-scraped-data\\raw_data\\raw_pdfs\\04-biodiversity_abs_\\247815.pdf",
+      "page_count": 15,
+      "page_number": 4
+    },
+    "toc_items": [],
+    "page_boxes": [
+      {
+        "index": 0,
+        "class": "page-header",
+        "bbox": [
+          118,
+          69,
+          124,
+          77
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 1,
+        "class": "page-header",
+        "bbox": [
+          201,
+          69,
+          395,
+          77
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 2,
+        "class": "page-header",
+        "bbox": [
+          437,
+          69,
+          479,
+          79
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 3,
+        "class": "text",
+        "bbox": [
+          165,
+          98,
+          478,
+          157
+        ],
+        "pos": [
+          0,
+          339
+        ]
+      },
+      {
+        "index": 4,
+        "class": "text",
+        "bbox": [
+          165,
+          165,
+          478,
+          235
+        ],
+        "pos": [
+          339,
+          796
+        ]
+      },
+      {
+        "index": 5,
+        "class": "text",
+        "bbox": [
+          165,
+          243,
+          478,
+          322
+        ],
+        "pos": [
+          796,
+          1248
+        ]
+      },
+      {
+        "index": 6,
+        "class": "text",
+        "bbox": [
+          165,
+          333,
+          476,
+          343
+        ],
+        "pos": [
+          1248,
+          1338
+        ]
+      },
+      {
+        "index": 7,
+        "class": "text",
+        "bbox": [
+          57,
+          352,
+          109,
+          377
+        ],
+        "pos": [
+          1338,
+          1383
+        ]
+      },
+      {
+        "index": 8,
+        "class": "text",
+        "bbox": [
+          57,
+          386,
+          105,
+          481
+        ],
+        "pos": [
+          1383,
+          1486
+        ]
+      },
+      {
+        "index": 9,
+        "class": "text",
+        "bbox": [
+          141,
+          350,
+          478,
+          361
+        ],
+        "pos": [
+          1486,
+          1584
+        ]
+      },
+      {
+        "index": 10,
+        "class": "text",
+        "bbox": [
+          141,
+          387,
+          478,
+          444
+        ],
+        "pos": [
+          1584,
+          1970
+        ]
+      },
+      {
+        "index": 11,
+        "class": "text",
+        "bbox": [
+          141,
+          453,
+          478,
+          521
+        ],
+        "pos": [
+          1970,
+          2402
+        ]
+      },
+      {
+        "index": 12,
+        "class": "text",
+        "bbox": [
+          141,
+          531,
+          478,
+          565
+        ],
+        "pos": [
+          2402,
+          2639
+        ]
+      },
+      {
+        "index": 13,
+        "class": "text",
+        "bbox": [
+          141,
+          573,
+          478,
+          607
+        ],
+        "pos": [
+          2639,
+          2861
+        ]
+      },
+      {
+        "index": 14,
+        "class": "text",
+        "bbox": [
+          57,
+          620,
+          101,
+          636
+        ],
+        "pos": [
+          2861,
+          2887
+        ]
+      },
+      {
+        "index": 15,
+        "class": "text",
+        "bbox": [
+          141,
+          618,
+          294,
+          628
+        ],
+        "pos": [
+          2887,
+          2933
+        ]
+      },
+      {
+        "index": 16,
+        "class": "text",
+        "bbox": [
+          165,
+          640,
+          478,
+          650
+        ],
+        "pos": [
+          2933,
+          3025
+        ]
+      },
+      {
+        "index": 17,
+        "class": "text",
+        "bbox": [
+          165,
+          663,
+          478,
+          697
+        ],
+        "pos": [
+          3025,
+          3239
+        ]
+      },
+      {
+        "index": 18,
+        "class": "text",
+        "bbox": [
+          165,
+          708,
+          262,
+          718
+        ],
+        "pos": [
+          3239,
+          3274
+        ]
+      },
+      {
+        "index": 19,
+        "class": "text",
+        "bbox": [
+          165,
+          730,
+          478,
+          752
+        ],
+        "pos": [
+          3274,
+          3379
+        ]
+      }
+    ],
+    "text": "India, for any invention based on any research or information on a biological resource which is accessed from India, including those deposited in repositories outside India, or traditional knowledge associated thereto, shall obtain prior approval of the National Biodiversity Authority before grant of such intellectual property rights. \n\n( _1A_ ) Any person covered under section 7 applying for any intellectual property right, by whatever name called, in or outside India, for any invention based on any research or information on a biological resource which is accessed from India, including those deposited in repositories outside India, or traditional knowledge associated thereto, shall register with the National Biodiversity Authority before grant of such intellectual property rights. \n\n( _1B_ ) Any person covered under section 7 who has obtained intellectual property right, by whatever name called, in or outside India, for any invention based on any research or information on a biological resource which is accessed from India, including those deposited in repositories outside India, or traditional knowledge associated thereto, shall obtain prior approval of the National Biodivesity Authority at the time of commercialisation.\". \n\n( _b_ ) in sub-section ( _3_ ), the words \"enacted by the Parliament\" shall be omitted. \n\nSubstitution of new section for section 7. \n\nPrior intimation to State Biodiversity Board for accessing biological resource for certain purposes. \n\n**9.** For section 7 of the principal Act, the following section shall be substituted, namely:— \n\n\"7. ( _1_ ) No person, other than the person covered under sub-section ( _2_ ) of section 3, shall access any biological resource and its associated knowledge for commercial utilisation, without giving prior intimation to the concerned State Biodiversity Board, but such access shall be subject to the provisions of clause ( _b_ ) of section 23 and sub-section ( _2_ ) of section 24: \n\nProvided that the provisions of this section shall not apply to the codified traditional knowledge, cultivated medicinal plants and its products, local people and communities of the area, including growers and cultivators of biodiversity and to _vaids, hakims_ and registered AYUSH practitioners only who have been practicing indigenous medicines, including Indian systems of medicine as profession for sustenance and livelihood. \n\n( _2_ ) In the case of cultivated medicinal plants, the exemption under sub-section ( _1_ ) shall be available only if a certificate of origin is obtained from the Biodiversity Management Committee in such manner as may be prescribed. \n\n( _3_ ) The Biodiversity Management Committee shall, on the basis of entries made in such books, maintained in such manner, issue the certificate of origin under subsection ( _2_ ) in such manner as may be prescribed.\". \n\nAmendment of section 8. \n\n**10.** In section 8 of the principal Act,— \n\n( _a_ ) for sub-section ( _3_ ), the following sub-section shall be substituted, namely:— \n\n\"( _3_ ) The Head office of the National Biodiversity Authority shall be at Chennai and the Central Government may, by notification in the Official Gazette, establish regional offices in other places in India.\"; \n\n( _b_ ) in sub-section ( _4_ ),— \n\n( _i_ ) for clauses ( _a_ ), ( _b_ ) and ( _c_ ), the following clauses shall be substituted, namely:— \n\n"
+  },
+  {
+    "metadata": {
+      "format": "PDF 1.6",
+      "title": "",
+      "author": "",
+      "subject": "",
+      "keywords": "",
+      "creator": "",
+      "producer": "iTextSharp™ 5.5.13.1 ©2000-2019 iText Group NV (AGPL-version)",
+      "creationDate": "D:20230803185340+05'30'",
+      "modDate": "D:20230803185717+05'30'",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "D:\\CODING\\Hackathons\\SIH\\SIH-scraped-data\\raw_data\\raw_pdfs\\04-biodiversity_abs_\\247815.pdf",
+      "page_count": 15,
+      "page_number": 5
+    },
+    "toc_items": [],
+    "page_boxes": [
+      {
+        "index": 0,
+        "class": "page-header",
+        "bbox": [
+          472,
+          69,
+          478,
+          77
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 1,
+        "class": "page-header",
+        "bbox": [
+          117,
+          69,
+          146,
+          78
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 2,
+        "class": "page-header",
+        "bbox": [
+          201,
+          69,
+          395,
+          77
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 3,
+        "class": "text",
+        "bbox": [
+          189,
+          98,
+          478,
+          144
+        ],
+        "pos": [
+          0,
+          283
+        ]
+      },
+      {
+        "index": 4,
+        "class": "text",
+        "bbox": [
+          189,
+          152,
+          478,
+          174
+        ],
+        "pos": [
+          283,
+          407
+        ]
+      },
+      {
+        "index": 5,
+        "class": "text",
+        "bbox": [
+          237,
+          182,
+          399,
+          192
+        ],
+        "pos": [
+          407,
+          454
+        ]
+      },
+      {
+        "index": 6,
+        "class": "text",
+        "bbox": [
+          237,
+          200,
+          384,
+          210
+        ],
+        "pos": [
+          454,
+          498
+        ]
+      },
+      {
+        "index": 7,
+        "class": "text",
+        "bbox": [
+          213,
+          218,
+          478,
+          240
+        ],
+        "pos": [
+          498,
+          585
+        ]
+      },
+      {
+        "index": 8,
+        "class": "text",
+        "bbox": [
+          237,
+          248,
+          316,
+          258
+        ],
+        "pos": [
+          585,
+          611
+        ]
+      },
+      {
+        "index": 9,
+        "class": "text",
+        "bbox": [
+          237,
+          266,
+          387,
+          276
+        ],
+        "pos": [
+          611,
+          653
+        ]
+      },
+      {
+        "index": 10,
+        "class": "text",
+        "bbox": [
+          237,
+          284,
+          337,
+          293
+        ],
+        "pos": [
+          653,
+          686
+        ]
+      },
+      {
+        "index": 11,
+        "class": "text",
+        "bbox": [
+          237,
+          302,
+          464,
+          312
+        ],
+        "pos": [
+          686,
+          749
+        ]
+      },
+      {
+        "index": 12,
+        "class": "text",
+        "bbox": [
+          237,
+          320,
+          321,
+          329
+        ],
+        "pos": [
+          749,
+          778
+        ]
+      },
+      {
+        "index": 13,
+        "class": "text",
+        "bbox": [
+          237,
+          338,
+          311,
+          348
+        ],
+        "pos": [
+          778,
+          804
+        ]
+      },
+      {
+        "index": 14,
+        "class": "text",
+        "bbox": [
+          237,
+          356,
+          352,
+          366
+        ],
+        "pos": [
+          804,
+          838
+        ]
+      },
+      {
+        "index": 15,
+        "class": "text",
+        "bbox": [
+          237,
+          374,
+          390,
+          383
+        ],
+        "pos": [
+          838,
+          885
+        ]
+      },
+      {
+        "index": 16,
+        "class": "text",
+        "bbox": [
+          237,
+          392,
+          312,
+          401
+        ],
+        "pos": [
+          885,
+          913
+        ]
+      },
+      {
+        "index": 17,
+        "class": "text",
+        "bbox": [
+          189,
+          410,
+          478,
+          431
+        ],
+        "pos": [
+          913,
+          998
+        ]
+      },
+      {
+        "index": 18,
+        "class": "text",
+        "bbox": [
+          189,
+          440,
+          265,
+          449
+        ],
+        "pos": [
+          998,
+          1029
+        ]
+      },
+      {
+        "index": 19,
+        "class": "text",
+        "bbox": [
+          189,
+          458,
+          478,
+          480
+        ],
+        "pos": [
+          1029,
+          1133
+        ]
+      },
+      {
+        "index": 20,
+        "class": "text",
+        "bbox": [
+          189,
+          488,
+          478,
+          509
+        ],
+        "pos": [
+          1133,
+          1222
+        ]
+      },
+      {
+        "index": 21,
+        "class": "text",
+        "bbox": [
+          189,
+          518,
+          464,
+          528
+        ],
+        "pos": [
+          1222,
+          1305
+        ]
+      },
+      {
+        "index": 22,
+        "class": "text",
+        "bbox": [
+          189,
+          536,
+          478,
+          568
+        ],
+        "pos": [
+          1305,
+          1457
+        ]
+      },
+      {
+        "index": 23,
+        "class": "text",
+        "bbox": [
+          141,
+          578,
+          293,
+          588
+        ],
+        "pos": [
+          1457,
+          1503
+        ]
+      },
+      {
+        "index": 24,
+        "class": "text",
+        "bbox": [
+          486,
+          579,
+          530,
+          595
+        ],
+        "pos": [
+          1503,
+          1529
+        ]
+      },
+      {
+        "index": 25,
+        "class": "text",
+        "bbox": [
+          141,
+          596,
+          478,
+          618
+        ],
+        "pos": [
+          1529,
+          1681
+        ]
+      },
+      {
+        "index": 26,
+        "class": "text",
+        "bbox": [
+          141,
+          626,
+          478,
+          648
+        ],
+        "pos": [
+          1681,
+          1797
+        ]
+      },
+      {
+        "index": 27,
+        "class": "text",
+        "bbox": [
+          117,
+          656,
+          478,
+          678
+        ],
+        "pos": [
+          1797,
+          1896
+        ]
+      },
+      {
+        "index": 28,
+        "class": "text",
+        "bbox": [
+          487,
+          657,
+          529,
+          683
+        ],
+        "pos": [
+          1896,
+          1928
+        ]
+      },
+      {
+        "index": 29,
+        "class": "text",
+        "bbox": [
+          141,
+          692,
+          521,
+          726
+        ],
+        "pos": [
+          1928,
+          2160
+        ]
+      },
+      {
+        "index": 30,
+        "class": "text",
+        "bbox": [
+          141,
+          734,
+          478,
+          756
+        ],
+        "pos": [
+          2160,
+          2250
+        ]
+      }
+    ],
+    "text": "\"( _a_ ) a Chairperson, who shall be an eminent person having adequate knowledge, expertise and experience in the conservation and sustainable use of biological diversity and in matters relating to fair and equitable sharing of benefits, to be appointed by the Central Government; \n\n( _b_ ) sixteen _ex officio_ members to be appointed by the Central Government, representing the Ministries dealing with— \n\n( _i_ ) Agricultural Research and Education; \n\n( _ii_ ) Agriculture and Farmers Welfare; \n\n( _iii_ ) Ayurveda, Unani, Siddha, Sowa Rigpa, Yoga and Naturopathy and Homoeopathy; \n\n( _iv_ ) Biotechnology; \n\n( _v_ ) Environment and Climate Change; \n\n( _vi_ ) Forests and Wildlife; \n\n( _vii_ ) Indian Council of Forestry Research and Education; \n\n( _viii_ ) Earth Sciences; \n\n( _ix_ ) Pachayati Raj; \n\n( _x_ ) Science and Technology; \n\n( _xi_ ) Scientific and Industrial Research; \n\n( _xii_ ) Tribal Affairs; \n\n( _c_ ) four representatives from State Biodiversity Boards on rotational basis;\"; \n\n( _ii_ ) in clause ( _d_ ),— \n\n( _A_ ) for the word \"specialists\", the words \"experts including legal experts\" shall be substituted; \n\n( _B_ ) for the word \"equitable\", the words \"fair and equitable\" shall be substituted; \n\n( _iii_ ) after clause ( _d_ ), the following clause shall be inserted, namely:— \n\n\"( _e_ ) a Member-Secretary, who shall have experience in matters relating to biodiversity conservation, to be appointed by the Central Government.\". \n\n**11.** In section 9 of the principal Act,— \n\nAmendment of section 9. \n\n( _a_ ) in the marginal heading, for the words \"Chairperson and members\", the words \"Chairperson, members and Member-Secretary\" shall be substituted; \n\n( _b_ ) after the words \"National Biodiversity Authority\", the words \"and of Member-Secretary\" shall be inserted. \n\n**12.** After section 10 of the principal Act, the following section shall be inserted, namely:— \n\nInsertion of new section 10A. \n\n\"10A. ( _1_ ) The Member-Secretary shall be the chief coordinating officer and the Memberconvener of the National Biodiversity Authority and shall assist that Authority in the Secretary. discharge of its functions under this Act. \n\n( _2_ ) The Member-Secretary shall perform such other functions as may be prescribed.\". \n\n"
+  },
+  {
+    "metadata": {
+      "format": "PDF 1.6",
+      "title": "",
+      "author": "",
+      "subject": "",
+      "keywords": "",
+      "creator": "",
+      "producer": "iTextSharp™ 5.5.13.1 ©2000-2019 iText Group NV (AGPL-version)",
+      "creationDate": "D:20230803185340+05'30'",
+      "modDate": "D:20230803185717+05'30'",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "D:\\CODING\\Hackathons\\SIH\\SIH-scraped-data\\raw_data\\raw_pdfs\\04-biodiversity_abs_\\247815.pdf",
+      "page_count": 15,
+      "page_number": 6
+    },
+    "toc_items": [],
+    "page_boxes": [
+      {
+        "index": 0,
+        "class": "page-header",
+        "bbox": [
+          437,
+          69,
+          479,
+          79
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 1,
+        "class": "text",
+        "bbox": [
+          57,
+          69,
+          478,
+          770
+        ],
+        "pos": [
+          0,
+          3298
+        ]
+      }
+    ],
+    "text": "6 THE GAZETTE OF INDIA EXTRAORDINARY [PART II—ART II— II— Amendment **13.** In section 13 of the principal Act, for sub-section ( _2_ ), the following sub-section of section 13. shall be substituted, namely:— \"( _2_ ) The National Biodiversity Authority may also constitute such number of committees as it deems fit for the efficient discharge of its duties and performance of its functions under this Act.\". Amendment **14.** In section 15 of the principal Act,— of section 15. ( _i_ ) after the words \"signature of the Chairperson\", the words \"or Member-Secretary\" shall be inserted; ( _ii_ ) for the words \"signature of an officer\", the words \"signature of Member-Secretary or an officer\" shall be substituted. Amendment **15.** In section 16 of the principal Act, after the words \"delegate to any member\", the of section 16. words \"or Member-Secretary\" shall be inserted. Amendment **16.** In section 18 of the principal Act,— of section 18. ( _a_ ) for sub-sections ( _1_ ) and ( _2_ ), the following sub-sections shall be substituted, namely:— \"( _1_ ) The National Biodiversity Authority shall, with the approval of the Central Government, make regulations to provide for access to biological resources and traditional knowledge associated thereto, and for determination of fair and equitable sharing of benefits. ( _2_ ) It shall be the duty of the National Biodiversity Authority to regulate any activity referred to in sections 3, 4 and 6 by granting or rejecting approvals.\"; ( _b_ ) in sub-section ( _3_ ),— ( _i_ ) in clause ( _a_ ), for the word \"equitable\", the words \"fair and equitable\" shall be substituted; ( _ii_ ) in clause ( _b_ ), for the words \"heritage sites\", the words \"biodiversity heritage sites\" shall be substituted; ( _iii_ ) after clause ( _b_ ), the following clause shall be inserted, namely:— \"( _ba_ ) advise the State Biodiversity Boards on any matter relating to the implementation of the Act;\"; ( _c_ ) for sub-section ( _4_ ), the following sub-section shall be substituted, namely:— ''( _4_ ) The National Biodiversity Authority may, on behalf of the Central Government, take any measures necessary to oppose the grant of intellectual property rights in any country outside India on any biological resource which is found in or brought from India, including those deposited in repositories outside India, or traditional knowledge associated thereto accessed.\". Amendment **17.** In section 19 of the principal Act,— of section 19. ( _a_ ) for sub-section ( _2_ ), the following sub-sections shall be substituted, namely:— \"( _2_ ) Any person referred to in sub-section ( _2_ ) of section 3 who intends to apply for a patent or any other form of intellectual property rights, whether in India or outside India, referred to in sub-section ( _1_ ) of section 6, may make an application to the National Biodiversity Authority in such form, on payment of such fee, and in such manner, as may be prescribed. ( _2A_ ) Any person referred to in sub-section ( _1A_ ) of section 6 shall register with the National Biodiversity Authority at the time of making application under sub-section ( _2_ ), and persons referred to in sub-section ( _1B_ ) of section 6 shall obtain prior approval from the National Biodiversity Authority at the time of commercialisation.\"; \n\n"
+  },
+  {
+    "metadata": {
+      "format": "PDF 1.6",
+      "title": "",
+      "author": "",
+      "subject": "",
+      "keywords": "",
+      "creator": "",
+      "producer": "iTextSharp™ 5.5.13.1 ©2000-2019 iText Group NV (AGPL-version)",
+      "creationDate": "D:20230803185340+05'30'",
+      "modDate": "D:20230803185717+05'30'",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "D:\\CODING\\Hackathons\\SIH\\SIH-scraped-data\\raw_data\\raw_pdfs\\04-biodiversity_abs_\\247815.pdf",
+      "page_count": 15,
+      "page_number": 7
+    },
+    "toc_items": [],
+    "page_boxes": [
+      {
+        "index": 0,
+        "class": "page-header",
+        "bbox": [
+          117,
+          69,
+          146,
+          78
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 1,
+        "class": "page-header",
+        "bbox": [
+          201,
+          69,
+          395,
+          77
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 2,
+        "class": "page-header",
+        "bbox": [
+          472,
+          69,
+          478,
+          77
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 3,
+        "class": "text",
+        "bbox": [
+          165,
+          98,
+          478,
+          108
+        ],
+        "pos": [
+          0,
+          91
+        ]
+      },
+      {
+        "index": 4,
+        "class": "text",
+        "bbox": [
+          165,
+          116,
+          478,
+          150
+        ],
+        "pos": [
+          91,
+          291
+        ]
+      },
+      {
+        "index": 5,
+        "class": "text",
+        "bbox": [
+          165,
+          158,
+          478,
+          216
+        ],
+        "pos": [
+          291,
+          652
+        ]
+      },
+      {
+        "index": 6,
+        "class": "text",
+        "bbox": [
+          165,
+          224,
+          478,
+          246
+        ],
+        "pos": [
+          652,
+          790
+        ]
+      },
+      {
+        "index": 7,
+        "class": "text",
+        "bbox": [
+          165,
+          254,
+          478,
+          264
+        ],
+        "pos": [
+          790,
+          882
+        ]
+      },
+      {
+        "index": 8,
+        "class": "text",
+        "bbox": [
+          165,
+          272,
+          478,
+          294
+        ],
+        "pos": [
+          882,
+          1026
+        ]
+      },
+      {
+        "index": 9,
+        "class": "text",
+        "bbox": [
+          141,
+          302,
+          299,
+          312
+        ],
+        "pos": [
+          1026,
+          1073
+        ]
+      },
+      {
+        "index": 10,
+        "class": "text",
+        "bbox": [
+          486,
+          303,
+          535,
+          319
+        ],
+        "pos": [
+          1073,
+          1100
+        ]
+      },
+      {
+        "index": 11,
+        "class": "text",
+        "bbox": [
+          141,
+          320,
+          478,
+          341
+        ],
+        "pos": [
+          1100,
+          1239
+        ]
+      },
+      {
+        "index": 12,
+        "class": "text",
+        "bbox": [
+          165,
+          350,
+          478,
+          360
+        ],
+        "pos": [
+          1239,
+          1332
+        ]
+      },
+      {
+        "index": 13,
+        "class": "text",
+        "bbox": [
+          165,
+          368,
+          478,
+          450
+        ],
+        "pos": [
+          1332,
+          1821
+        ]
+      },
+      {
+        "index": 14,
+        "class": "text",
+        "bbox": [
+          141,
+          458,
+          478,
+          479
+        ],
+        "pos": [
+          1821,
+          1988
+        ]
+      },
+      {
+        "index": 15,
+        "class": "text",
+        "bbox": [
+          141,
+          488,
+          478,
+          510
+        ],
+        "pos": [
+          1988,
+          2095
+        ]
+      },
+      {
+        "index": 16,
+        "class": "text",
+        "bbox": [
+          165,
+          518,
+          478,
+          576
+        ],
+        "pos": [
+          2095,
+          2464
+        ]
+      },
+      {
+        "index": 17,
+        "class": "text",
+        "bbox": [
+          165,
+          584,
+          478,
+          606
+        ],
+        "pos": [
+          2464,
+          2592
+        ]
+      },
+      {
+        "index": 18,
+        "class": "text",
+        "bbox": [
+          165,
+          614,
+          478,
+          636
+        ],
+        "pos": [
+          2592,
+          2739
+        ]
+      },
+      {
+        "index": 19,
+        "class": "text",
+        "bbox": [
+          141,
+          644,
+          299,
+          654
+        ],
+        "pos": [
+          2739,
+          2786
+        ]
+      },
+      {
+        "index": 20,
+        "class": "text",
+        "bbox": [
+          485,
+          645,
+          534,
+          661
+        ],
+        "pos": [
+          2786,
+          2813
+        ]
+      },
+      {
+        "index": 21,
+        "class": "text",
+        "bbox": [
+          141,
+          662,
+          478,
+          683
+        ],
+        "pos": [
+          2813,
+          2927
+        ]
+      },
+      {
+        "index": 22,
+        "class": "text",
+        "bbox": [
+          165,
+          692,
+          478,
+          702
+        ],
+        "pos": [
+          2927,
+          3019
+        ]
+      },
+      {
+        "index": 23,
+        "class": "text",
+        "bbox": [
+          165,
+          710,
+          478,
+          768
+        ],
+        "pos": [
+          3019,
+          3418
+        ]
+      }
+    ],
+    "text": "( _b_ ) after sub-section ( _3_ ), the following sub-section shall be inserted, namely:— \n\n\"( _3A_ ) The National Biodiversity Authority shall, while granting approval under this section, determine the benefit sharing in such manner as may be specified by regulations made in this behalf: \n\nProvided that if the National Biodiversity Authority is of the opinion that such an activity is detrimental or contrary to the objectives of conservation and sustainable use of biodiversity or fair and equitable sharing of benefits arising out of such activity, it may, by order, for reasons to be recorded in writing, prohibit or restrict any such activity: \n\nProvided further that no such order for rejection shall be made without giving an opportunity of being heard to the person concerned.\"; \n\n( _c_ ) for sub-section ( _4_ ), the following sub-section shall be substituted, namely:— \n\n\"( _4_ ) The National Biodiversity Authority shall place in public domain details of every approval granted or rejected under this section.\". \n\n**18.** In section 20 of the principal Act,— \n\nAmendment of section 20. \n\n( _i_ ) in the marginal heading, for the words \"biological resource or knowledge\", the words \"results of research\" shall be substituted; \n\n( _ii_ ) for sub-section ( _1_ ), the following sub-section shall be substituted, namely:— \n\n\"( _1_ ) Any person or entity who intends to transfer the results of any research on biological resources, which are found in or brought from India, including those deposited in repositories outside India or traditional knowledge associated thereto, to persons referred to under sub-section ( _2_ ) of section 3 for monetary consideration or otherwise, he shall make an application to the National Biodiversity Authority in such form, and on payment of such fee, as may be prescribed.\"; \n\n( _iii_ ) in sub-section ( _2_ ), for the words \"any biological resource or knowledge associated thereto\", the words \"the results of research\" shall be substituted; \n\n( _iv_ ) for sub-sections ( _3_ ) and ( _4_ ), the following sub-sections shall be substituted, namely:— \n\n\"( _3_ ) On receipt of an application under sub-section ( _2_ ), the National Biodiversity Authority may, after making such enquiries, as it deems fit, by order, grant approval, subject to such terms and conditions, as it may deem fit, including benefit sharing or otherwise, as per the guidelines or for reasons to be recorded in writing, or reject the application: \n\nProvided that no such order for rejection shall be made without giving an opportunity of being heard to the person concerned. \n\n( _4_ ) The National Biodiversity Authority shall place in public domain the details of every approval granted or rejected under this section.\". \n\n**19.** In section 21 of the principal Act,— \n\nAmendment of section 21. \n\n( _a_ ) in the marginal heading, for the word \"equitable\", the words \"fair and equitable\" shall be substituted; \n\n( _b_ ) for sub-section ( _1_ ), the following sub-section shall be substituted, namely:— \n\n\"( _1_ ) The National Biodiversity Authority shall, while determining benefit sharing for the approval granted under this Act, ensure that the terms and conditions subject to which the approval is granted secures fair and equitable sharing of benefits arising out of the use of accessed biological resources, their derivatives, innovations and practices associated with their use and applications \n\n"
+  },
+  {
+    "metadata": {
+      "format": "PDF 1.6",
+      "title": "",
+      "author": "",
+      "subject": "",
+      "keywords": "",
+      "creator": "",
+      "producer": "iTextSharp™ 5.5.13.1 ©2000-2019 iText Group NV (AGPL-version)",
+      "creationDate": "D:20230803185340+05'30'",
+      "modDate": "D:20230803185717+05'30'",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "D:\\CODING\\Hackathons\\SIH\\SIH-scraped-data\\raw_data\\raw_pdfs\\04-biodiversity_abs_\\247815.pdf",
+      "page_count": 15,
+      "page_number": 8
+    },
+    "toc_items": [],
+    "page_boxes": [
+      {
+        "index": 0,
+        "class": "page-header",
+        "bbox": [
+          118,
+          69,
+          124,
+          77
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 1,
+        "class": "page-header",
+        "bbox": [
+          201,
+          69,
+          395,
+          77
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 2,
+        "class": "page-header",
+        "bbox": [
+          437,
+          69,
+          479,
+          79
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 3,
+        "class": "text",
+        "bbox": [
+          165,
+          98,
+          478,
+          132
+        ],
+        "pos": [
+          0,
+          231
+        ]
+      },
+      {
+        "index": 4,
+        "class": "text",
+        "bbox": [
+          141,
+          139,
+          478,
+          161
+        ],
+        "pos": [
+          231,
+          335
+        ]
+      },
+      {
+        "index": 5,
+        "class": "text",
+        "bbox": [
+          165,
+          168,
+          478,
+          226
+        ],
+        "pos": [
+          335,
+          696
+        ]
+      },
+      {
+        "index": 6,
+        "class": "text",
+        "bbox": [
+          57,
+          234,
+          106,
+          250
+        ],
+        "pos": [
+          696,
+          723
+        ]
+      },
+      {
+        "index": 7,
+        "class": "text",
+        "bbox": [
+          141,
+          233,
+          299,
+          243
+        ],
+        "pos": [
+          723,
+          770
+        ]
+      },
+      {
+        "index": 8,
+        "class": "text",
+        "bbox": [
+          141,
+          250,
+          478,
+          272
+        ],
+        "pos": [
+          770,
+          896
+        ]
+      },
+      {
+        "index": 9,
+        "class": "text",
+        "bbox": [
+          141,
+          279,
+          478,
+          301
+        ],
+        "pos": [
+          896,
+          1026
+        ]
+      },
+      {
+        "index": 10,
+        "class": "text",
+        "bbox": [
+          165,
+          308,
+          478,
+          354
+        ],
+        "pos": [
+          1026,
+          1307
+        ]
+      },
+      {
+        "index": 11,
+        "class": "text",
+        "bbox": [
+          165,
+          361,
+          478,
+          395
+        ],
+        "pos": [
+          1307,
+          1528
+        ]
+      },
+      {
+        "index": 12,
+        "class": "text",
+        "bbox": [
+          165,
+          402,
+          478,
+          460
+        ],
+        "pos": [
+          1528,
+          1902
+        ]
+      },
+      {
+        "index": 13,
+        "class": "text",
+        "bbox": [
+          58,
+          467,
+          107,
+          483
+        ],
+        "pos": [
+          1902,
+          1929
+        ]
+      },
+      {
+        "index": 14,
+        "class": "text",
+        "bbox": [
+          117,
+          467,
+          478,
+          489
+        ],
+        "pos": [
+          1929,
+          2061
+        ]
+      },
+      {
+        "index": 15,
+        "class": "text",
+        "bbox": [
+          141,
+          496,
+          478,
+          554
+        ],
+        "pos": [
+          2061,
+          2463
+        ]
+      },
+      {
+        "index": 16,
+        "class": "text",
+        "bbox": [
+          165,
+          561,
+          478,
+          571
+        ],
+        "pos": [
+          2463,
+          2556
+        ]
+      },
+      {
+        "index": 17,
+        "class": "text",
+        "bbox": [
+          141,
+          578,
+          478,
+          612
+        ],
+        "pos": [
+          2556,
+          2741
+        ]
+      },
+      {
+        "index": 18,
+        "class": "text",
+        "bbox": [
+          58,
+          619,
+          107,
+          635
+        ],
+        "pos": [
+          2741,
+          2768
+        ]
+      },
+      {
+        "index": 19,
+        "class": "text",
+        "bbox": [
+          141,
+          619,
+          303,
+          629
+        ],
+        "pos": [
+          2768,
+          2816
+        ]
+      },
+      {
+        "index": 20,
+        "class": "text",
+        "bbox": [
+          165,
+          636,
+          478,
+          646
+        ],
+        "pos": [
+          2816,
+          2908
+        ]
+      },
+      {
+        "index": 21,
+        "class": "text",
+        "bbox": [
+          165,
+          653,
+          478,
+          699
+        ],
+        "pos": [
+          2908,
+          3184
+        ]
+      },
+      {
+        "index": 22,
+        "class": "text",
+        "bbox": [
+          141,
+          706,
+          478,
+          728
+        ],
+        "pos": [
+          3184,
+          3290
+        ]
+      },
+      {
+        "index": 23,
+        "class": "text",
+        "bbox": [
+          165,
+          735,
+          478,
+          757
+        ],
+        "pos": [
+          3290,
+          3454
+        ]
+      }
+    ],
+    "text": "and knowledge relating thereto in accordance with mutually agreed terms and conditions between the person applying for such approval, and the Biodiversity Management Commitee represented by the National Biodiversity Authority.\". \n\n( _c_ ) in sub-section ( _3_ ), for the proviso, the following proviso shall be substituted, namely:— \n\n\"Provided that where biological resource or associated knowledge was a result of access from an individual or group of individuals or organisations, the National Biodiversity Authority may direct that the amount shall be paid directly to such benefit claimer or organisation in accordance with the terms of any agreement and in such manner as it deems fit.\". \n\nAmendment of section 22. \n\n**20.** In section 22 of the principal Act,— \n\n( _i_ ) in sub-section ( _2_ ), in the proviso, after the words \" group of persons\", the words \"or body\" shall be inserted; \n\n( _ii_ ) in sub-section ( _4_ ), for clauses ( _a_ ), ( _b_ ) and ( _c_ ), the following clauses shall be substituted, namely:— \n\n\"( _a_ ) a Chairperson, who shall be an eminent person having adequate knowledge, expertise and experience in the conservation and sustainable use of biological diversity and in matters relating to fair and equitable sharing of benefits, to be appointed by the State Government; \n\n( _b_ ) not more than seven _ex officio_ members to be appointed by the State Government to represent the concerned departments of the State Government, including departments dealing Panchayati Raj and tribal affiairs; \n\n( _c_ ) not more than five non-official members to be appointed from amongst experts, including legal experts, scientists having special knowledge, expertise and work experience in matters relating to conservation of biological diversity, sustainable use of biological resources and fair and equitable sharing of benefits arising out of the use of biological resources.\". \n\nAmendment of section 23. \n\n**21.** In section 23 of the principal Act, for clauses ( _a_ ) and ( _b_ ), the following clauses shall be substituted, namely:— \n\n\"( _a_ ) advise the State Government on matters relating to the conservation of biodiversity, sustainble use of its components and fair and equitable sharing of benefits arising out of the utilisation of biological resources or traditional knowledge associated thereto, in conformity with the regulations or guidelines if any, issued by the Central Government or the National Biodiversity Authority; \n\n( _b_ ) regulate any activity referred to in section 7 by granting or rejecting approvals; \n\n( _ba_ ) determine the fair and equitable sharing of benefits as provided under the regulations made in this behalf by the National Biodiversity Authority while granting approvals;\". \n\nAmendment of section 24. \n\n**22.** In section 24 of the princiapal Act,— \n\n( _a_ ) for sub-section ( _1_ ), the following sub-section shall be substituted, namely:— \n\n\"( _1_ ) Any person other than the person referred to in sub-section ( _2_ ) of section 3, intending to undertake any activity covered under section 7, shall give prior intimation to the State Biodiversity Board, in such form as may be prescribed by the State Government.\"; \n\n( _b_ ) for sub-sections ( _2_ ) and ( _3_ ), the following sub-sections shall be substituted, namely:— \n\n\"( _2_ ) If the State Biodiversity Board is of the opinion that such activity is detrimental or contrary to the objectives of conservation and sustainable use of \n\n"
+  },
+  {
+    "metadata": {
+      "format": "PDF 1.6",
+      "title": "",
+      "author": "",
+      "subject": "",
+      "keywords": "",
+      "creator": "",
+      "producer": "iTextSharp™ 5.5.13.1 ©2000-2019 iText Group NV (AGPL-version)",
+      "creationDate": "D:20230803185340+05'30'",
+      "modDate": "D:20230803185717+05'30'",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "D:\\CODING\\Hackathons\\SIH\\SIH-scraped-data\\raw_data\\raw_pdfs\\04-biodiversity_abs_\\247815.pdf",
+      "page_count": 15,
+      "page_number": 9
+    },
+    "toc_items": [],
+    "page_boxes": [
+      {
+        "index": 0,
+        "class": "page-header",
+        "bbox": [
+          117,
+          69,
+          146,
+          78
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 1,
+        "class": "page-header",
+        "bbox": [
+          201,
+          69,
+          395,
+          77
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 2,
+        "class": "page-header",
+        "bbox": [
+          472,
+          69,
+          478,
+          77
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 3,
+        "class": "text",
+        "bbox": [
+          165,
+          98,
+          478,
+          120
+        ],
+        "pos": [
+          0,
+          138
+        ]
+      },
+      {
+        "index": 4,
+        "class": "text",
+        "bbox": [
+          165,
+          128,
+          478,
+          150
+        ],
+        "pos": [
+          138,
+          265
+        ]
+      },
+      {
+        "index": 5,
+        "class": "text",
+        "bbox": [
+          117,
+          158,
+          478,
+          180
+        ],
+        "pos": [
+          265,
+          405
+        ]
+      },
+      {
+        "index": 6,
+        "class": "text",
+        "bbox": [
+          141,
+          188,
+          299,
+          198
+        ],
+        "pos": [
+          405,
+          452
+        ]
+      },
+      {
+        "index": 7,
+        "class": "text",
+        "bbox": [
+          486,
+          189,
+          535,
+          205
+        ],
+        "pos": [
+          452,
+          479
+        ]
+      },
+      {
+        "index": 8,
+        "class": "text",
+        "bbox": [
+          141,
+          204,
+          478,
+          226
+        ],
+        "pos": [
+          479,
+          585
+        ]
+      },
+      {
+        "index": 9,
+        "class": "text",
+        "bbox": [
+          165,
+          233,
+          478,
+          255
+        ],
+        "pos": [
+          585,
+          701
+        ]
+      },
+      {
+        "index": 10,
+        "class": "text",
+        "bbox": [
+          165,
+          262,
+          263,
+          271
+        ],
+        "pos": [
+          701,
+          737
+        ]
+      },
+      {
+        "index": 11,
+        "class": "text",
+        "bbox": [
+          165,
+          279,
+          478,
+          300
+        ],
+        "pos": [
+          737,
+          837
+        ]
+      },
+      {
+        "index": 12,
+        "class": "text",
+        "bbox": [
+          165,
+          307,
+          478,
+          329
+        ],
+        "pos": [
+          837,
+          933
+        ]
+      },
+      {
+        "index": 13,
+        "class": "text",
+        "bbox": [
+          189,
+          336,
+          478,
+          357
+        ],
+        "pos": [
+          933,
+          1013
+        ]
+      },
+      {
+        "index": 14,
+        "class": "text",
+        "bbox": [
+          189,
+          364,
+          478,
+          398
+        ],
+        "pos": [
+          1013,
+          1219
+        ]
+      },
+      {
+        "index": 15,
+        "class": "text",
+        "bbox": [
+          189,
+          405,
+          478,
+          451
+        ],
+        "pos": [
+          1219,
+          1489
+        ]
+      },
+      {
+        "index": 16,
+        "class": "text",
+        "bbox": [
+          213,
+          458,
+          401,
+          468
+        ],
+        "pos": [
+          1489,
+          1545
+        ]
+      },
+      {
+        "index": 17,
+        "class": "text",
+        "bbox": [
+          141,
+          476,
+          299,
+          486
+        ],
+        "pos": [
+          1545,
+          1592
+        ]
+      },
+      {
+        "index": 18,
+        "class": "text",
+        "bbox": [
+          486,
+          477,
+          535,
+          493
+        ],
+        "pos": [
+          1592,
+          1619
+        ]
+      },
+      {
+        "index": 19,
+        "class": "text",
+        "bbox": [
+          141,
+          494,
+          478,
+          516
+        ],
+        "pos": [
+          1619,
+          1725
+        ]
+      },
+      {
+        "index": 20,
+        "class": "text",
+        "bbox": [
+          165,
+          524,
+          478,
+          557
+        ],
+        "pos": [
+          1725,
+          1904
+        ]
+      },
+      {
+        "index": 21,
+        "class": "text",
+        "bbox": [
+          165,
+          566,
+          263,
+          576
+        ],
+        "pos": [
+          1904,
+          1940
+        ]
+      },
+      {
+        "index": 22,
+        "class": "text",
+        "bbox": [
+          165,
+          584,
+          478,
+          605
+        ],
+        "pos": [
+          1940,
+          2040
+        ]
+      },
+      {
+        "index": 23,
+        "class": "text",
+        "bbox": [
+          189,
+          614,
+          461,
+          624
+        ],
+        "pos": [
+          2040,
+          2121
+        ]
+      },
+      {
+        "index": 24,
+        "class": "text",
+        "bbox": [
+          213,
+          632,
+          419,
+          642
+        ],
+        "pos": [
+          2121,
+          2181
+        ]
+      },
+      {
+        "index": 25,
+        "class": "text",
+        "bbox": [
+          189,
+          650,
+          465,
+          660
+        ],
+        "pos": [
+          2181,
+          2262
+        ]
+      },
+      {
+        "index": 26,
+        "class": "text",
+        "bbox": [
+          189,
+          668,
+          478,
+          689
+        ],
+        "pos": [
+          2262,
+          2344
+        ]
+      },
+      {
+        "index": 27,
+        "class": "text",
+        "bbox": [
+          189,
+          698,
+          468,
+          708
+        ],
+        "pos": [
+          2344,
+          2426
+        ]
+      },
+      {
+        "index": 28,
+        "class": "text",
+        "bbox": [
+          189,
+          716,
+          478,
+          762
+        ],
+        "pos": [
+          2426,
+          2657
+        ]
+      }
+    ],
+    "text": "biodiversity of fair and equitable sharing of benefits arising out of such activity, it may by order, restrict or reject such activity: \n\nProvided that no such order or rejection shall be made without giving an opportunity of being heard to the person concerned. \n\n( _3_ ) The State Biodiversity Board shall place in public domain the details of every approval granted or rejected under this section.\". \n\n**23.** In section 27 of the principal Act,— \n\nAmendment of section 27. \n\n( _i_ ) in sub-section ( _1_ ), for clause ( _b_ ), the following clause shall be substituted, namely:— \n\n\"( _b_ ) all sums including charges and benefit sharing amount received by the National Biodiversity Authority;\"; \n\n( _ii_ ) in sub-section ( _2_ ),— \n\n( _A_ ) in the opening portion, for the word \"applied\", the word \"utilised\" shall be substituted; \n\n( _B_ ) for clauses ( _b_ ) and ( _c_ ), the following clauses shall be substituted, namely:— \n\n\"( _b_ ) conservation, promotion and sustainable use of biological resources; \n\n( _c_ ) socio-economic development of areas from where such biological resources or traditional knowledge associated thereto have been accessed in consultation with the Biodiversity Management Committee: \n\nProvided that when it is not possible to identify the area from where the biological resources or traditional knowledge associated thereto have been accessed, the fund shall be utilised for socio-economic development of the area where such biological resources occur; \n\n( _d_ ) activities to meet the purposes of the Act.\". \n\n**24.** In section 32 of the principal Act,— \n\nAmendment of section 32. \n\n( _i_ ) in sub-section ( _1_ ), for clause ( _c_ ), the following clause shall be substituted, namely:— \n\n\"( _c_ ) all sums including charges and benefit sharing amount received by the State Biodiversity Board and from such other sources as may be decided by the State Government;\"; \n\n( _ii_ ) in sub-section ( _2_ ),— \n\n( _A_ ) in the opening portion, for the word \"applied\", the word \"utilised\" shall be substituted; \n\n( _B_ ) after clause ( _a_ ), the following clause shall be inserted, namely:— \n\n\"( _aa_ ) channelling benefits to the benefit claimers;\"; \n\n( _C_ ) for clause ( _c_ ) the following clause shall be substituted, namely:— \n\n\"( _c_ ) conservation, promotion and sustainable use of biological resources;\"; \n\n( _D_ ) for clause ( _d_ ), the following clause shall be substituted, namely:— \n\n\"( _d_ ) socio-economic development of areas from where such biological resources or traditional knowledge associated thereto have been accessed in consultation with the Biodiversity Management Committee or local body concerned: \n\n"
+  },
+  {
+    "metadata": {
+      "format": "PDF 1.6",
+      "title": "",
+      "author": "",
+      "subject": "",
+      "keywords": "",
+      "creator": "",
+      "producer": "iTextSharp™ 5.5.13.1 ©2000-2019 iText Group NV (AGPL-version)",
+      "creationDate": "D:20230803185340+05'30'",
+      "modDate": "D:20230803185717+05'30'",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "D:\\CODING\\Hackathons\\SIH\\SIH-scraped-data\\raw_data\\raw_pdfs\\04-biodiversity_abs_\\247815.pdf",
+      "page_count": 15,
+      "page_number": 10
+    },
+    "toc_items": [],
+    "page_boxes": [
+      {
+        "index": 0,
+        "class": "page-header",
+        "bbox": [
+          118,
+          69,
+          129,
+          77
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 1,
+        "class": "page-header",
+        "bbox": [
+          201,
+          69,
+          395,
+          77
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 2,
+        "class": "page-header",
+        "bbox": [
+          437,
+          69,
+          479,
+          79
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 3,
+        "class": "text",
+        "bbox": [
+          57,
+          98,
+          478,
+          751
+        ],
+        "pos": [
+          0,
+          3156
+        ]
+      }
+    ],
+    "text": "Provided that when it is not possible to identify the area from where the biological resources or associated knowledge have been accessed, the fund shall be utilised for socio-economic development of the area where such biological resources occur;\"; ( _E_ ) for clause ( _e_ ), the following clauses shall be substituted, namely:— \"( _e_ ) making grants or loans to the Biodiversity Management Committees; ( _f_ ) the activities to meet the purposes of the Act.\". Amendment **25.** In section 36 of the principal Act,— of section 36. ( _i_ ) for the marginal heading, the following shall be substituted, namely:— \"Central Government to develop national strategies and plans for conservation, promotion and sustainable use of biological diversity.\"; ( _ii_ ) in sub-section ( _1_ ),— ( _a_ ) after the words \"The Central Government shall\", the words \"in consultation with the State Government and Union territories\", shall be inserted; ( _b_ ) for the words \"conservation of biological resources, incentives\", the words \"conservation of biological resources, including cultivars, folk varieties and landraces, incentives\" shall be substituted; ( _iii_ ) in sub-section ( _3_ ), for the words \"sectoral or cross-sectoral plans, programmes and policies\", the words \"sectoral policies or cross-sectoral plans and programmes\" shall be substituted; ( _iv_ ) after sub-section ( _5_ ) and before the _Explanation,_ the following sub-section shall be inserted, namely:— \"( _6_ ) The Central Government shall involve the National Biodiversity Authority or State Biodiversity Boards to undertake measures for conservation and sustainable use of biological diversity or traditional knowledge associated thereto.\". Insertion of **26.** After section 36 of the principal Act, the following sections shall be inserted, new sections namely:— 36A and 36B. Measures to \"36A. The Central Government may authorise National Biodiversity Authority be taken by or any other organisation to take any measure necessary to monitor and regulate National Biodiversity within the territory of India, the access and utilisation of biological resources obtained Authority. from a foreign country in order to meet the international obligations to which India is a signatory. State \"36B. ( _1_ ) The State Government shall develop strategies, plans, programmes for Government the conservation and promotion and sustainable use of biological diversity, including to develop strategies and measures for indentification and monitoring of areas rich in biological resources, plans for promotion of _in situ,_ and _ex situ,_ conservation of biological resources, including conservation cultivars, folk varieties and landraces, incentives for research, training and public and sustainable use education to increase awareness with respect to biodiversity, in conformity with the of biological national strategies, plans and programmes. diversity. ( _2_ ) The State Government shall, as far as practicable, wherever it deems appropriate, integrate the conservation, promotion and sustainable use of biological diversity into relevant sectoral policies or cross-sectoral plans and programmes.\". \n\n"
+  },
+  {
+    "metadata": {
+      "format": "PDF 1.6",
+      "title": "",
+      "author": "",
+      "subject": "",
+      "keywords": "",
+      "creator": "",
+      "producer": "iTextSharp™ 5.5.13.1 ©2000-2019 iText Group NV (AGPL-version)",
+      "creationDate": "D:20230803185340+05'30'",
+      "modDate": "D:20230803185717+05'30'",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "D:\\CODING\\Hackathons\\SIH\\SIH-scraped-data\\raw_data\\raw_pdfs\\04-biodiversity_abs_\\247815.pdf",
+      "page_count": 15,
+      "page_number": 11
+    },
+    "toc_items": [],
+    "page_boxes": [
+      {
+        "index": 0,
+        "class": "page-header",
+        "bbox": [
+          117,
+          69,
+          146,
+          78
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 1,
+        "class": "page-header",
+        "bbox": [
+          201,
+          69,
+          395,
+          77
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 2,
+        "class": "page-header",
+        "bbox": [
+          467,
+          69,
+          478,
+          77
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 3,
+        "class": "text",
+        "bbox": [
+          141,
+          98,
+          299,
+          108
+        ],
+        "pos": [
+          0,
+          47
+        ]
+      },
+      {
+        "index": 4,
+        "class": "text",
+        "bbox": [
+          486,
+          98,
+          535,
+          114
+        ],
+        "pos": [
+          47,
+          74
+        ]
+      },
+      {
+        "index": 5,
+        "class": "text",
+        "bbox": [
+          165,
+          116,
+          478,
+          126
+        ],
+        "pos": [
+          74,
+          166
+        ]
+      },
+      {
+        "index": 6,
+        "class": "text",
+        "bbox": [
+          165,
+          134,
+          478,
+          180
+        ],
+        "pos": [
+          166,
+          460
+        ]
+      },
+      {
+        "index": 7,
+        "class": "text",
+        "bbox": [
+          165,
+          188,
+          478,
+          221
+        ],
+        "pos": [
+          460,
+          624
+        ]
+      },
+      {
+        "index": 8,
+        "class": "text",
+        "bbox": [
+          141,
+          230,
+          478,
+          252
+        ],
+        "pos": [
+          624,
+          752
+        ]
+      },
+      {
+        "index": 9,
+        "class": "text",
+        "bbox": [
+          141,
+          260,
+          478,
+          270
+        ],
+        "pos": [
+          752,
+          849
+        ]
+      },
+      {
+        "index": 10,
+        "class": "text",
+        "bbox": [
+          486,
+          260,
+          535,
+          276
+        ],
+        "pos": [
+          849,
+          876
+        ]
+      },
+      {
+        "index": 11,
+        "class": "text",
+        "bbox": [
+          141,
+          278,
+          478,
+          298
+        ],
+        "pos": [
+          876,
+          965
+        ]
+      },
+      {
+        "index": 12,
+        "class": "text",
+        "bbox": [
+          141,
+          308,
+          478,
+          330
+        ],
+        "pos": [
+          965,
+          1137
+        ]
+      },
+      {
+        "index": 13,
+        "class": "text",
+        "bbox": [
+          117,
+          338,
+          478,
+          360
+        ],
+        "pos": [
+          1137,
+          1238
+        ]
+      },
+      {
+        "index": 14,
+        "class": "text",
+        "bbox": [
+          141,
+          380,
+          478,
+          462
+        ],
+        "pos": [
+          1238,
+          1774
+        ]
+      },
+      {
+        "index": 15,
+        "class": "text",
+        "bbox": [
+          486,
+          338,
+          533,
+          416
+        ],
+        "pos": [
+          1774,
+          1874
+        ]
+      },
+      {
+        "index": 16,
+        "class": "text",
+        "bbox": [
+          141,
+          470,
+          478,
+          491
+        ],
+        "pos": [
+          1874,
+          2000
+        ]
+      },
+      {
+        "index": 17,
+        "class": "text",
+        "bbox": [
+          141,
+          500,
+          299,
+          510
+        ],
+        "pos": [
+          2000,
+          2047
+        ]
+      },
+      {
+        "index": 18,
+        "class": "text",
+        "bbox": [
+          486,
+          501,
+          535,
+          517
+        ],
+        "pos": [
+          2047,
+          2074
+        ]
+      },
+      {
+        "index": 19,
+        "class": "text",
+        "bbox": [
+          165,
+          518,
+          478,
+          528
+        ],
+        "pos": [
+          2074,
+          2168
+        ]
+      },
+      {
+        "index": 20,
+        "class": "text",
+        "bbox": [
+          165,
+          536,
+          478,
+          642
+        ],
+        "pos": [
+          2168,
+          2808
+        ]
+      },
+      {
+        "index": 21,
+        "class": "text",
+        "bbox": [
+          165,
+          650,
+          478,
+          684
+        ],
+        "pos": [
+          2808,
+          2984
+        ]
+      },
+      {
+        "index": 22,
+        "class": "text",
+        "bbox": [
+          165,
+          692,
+          478,
+          750
+        ],
+        "pos": [
+          2984,
+          3368
+        ]
+      }
+    ],
+    "text": "**27.** In section 37 of the principal Act,— \n\nAmendment of section 37. \n\n( _a_ ) for sub-section ( _1_ ), the following sub-section shall be substituted, namely:— \n\n\"( _1_ ) Without prejudice to any other law for the time being in force, based on the recommendations of the State Biodiversity Board, the State Government may, from time to time, notify in the Official Gazette, areas of biodiversity importance as biodiversity heritage sites under this Act: \n\nProvided that the State Biodiversity Board shall consult the local body and the Biodiversity Management Committee concerned before making such recommendations.\"; \n\n( _b_ ) in sub-section ( _2_ ), for the words \"heritage sites\", the words \"biodiversity heritage sites\" shall be substituted. \n\n**28.** In section 38 of the principal Act, the following provisos shall be inserted, namely:— \n\nAmendment of section 38. \n\n\"Provided that the Central Government may delegate such power to the State Government: \n\nProvided further that where such power is delegated to the State Government, it shall consult the National Biodiversity Authority before issuing any such notification.\". \n\n**29.** For section 40 of the principal Act,  the following section shall be substituted, namely:— \n\n\"40. Notwithstanding anything contained in this Act, the Central Government may, in consultation with the National Biodiversity Authority, by notification in the Official Gazette, declare that all or any of the provisions of this Act shall not apply to biological resources when normally traded as commodities or to the items derived from them, including agricultural wastes, as notified and cultivated medicinal plants and their products for entities covered under section 7, registered as per the regulations made or as prescribed: \n\nSubstitution of new section for section 40. Provisions of this Act not to apply in certain cases. \n\nProvided that no exemption shall be made for the activities referred to in sub-sections ( _1_ ) and ( _2_ ) of section 6.\". \n\n**30.** In section 41 of the principal Act,— \n\nAmendment of section 41. \n\n( _a_ ) for sub-section ( _1_ ), the followings sub-sections shall be substituted, namely:— \n\n\"( _1_ ) Every local body at the Gram Panchayat level in the rural areas and at the Nagar Panchayat or Municipal Committee at Municipal Corporation level in the urban areas shall constitute a Biodiversity Management Committee (by whatever name called) within its area for the purpose of promoting conservation, sustainable use and documentation of biological diversity including preservation of habitats, conservation of landraces, folk varieties, farmers' varieties, and cultivars, domesticated stocks and breeds of animals, living things in water bodies and microorganisms and chronicling of knowledge relating to biological diversity: \n\nProvided that the State Government may constitute Biodiversity Management Committees at the intermediate or district Panchayat level for achieving the objectives of the Act. \n\n( _1A_ ) The functions of Biodiversity Management Committee so constituted shall include conservation, sustainable use and documentation of biological diversity, including conservation of habitats, landraces, folk varieties, cultivars, domesticated breeds of animals, and microorganisms, and chronicling of traditional knowledge associated thereto relating to biological diversity. \n\n"
+  },
+  {
+    "metadata": {
+      "format": "PDF 1.6",
+      "title": "",
+      "author": "",
+      "subject": "",
+      "keywords": "",
+      "creator": "",
+      "producer": "iTextSharp™ 5.5.13.1 ©2000-2019 iText Group NV (AGPL-version)",
+      "creationDate": "D:20230803185340+05'30'",
+      "modDate": "D:20230803185717+05'30'",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "D:\\CODING\\Hackathons\\SIH\\SIH-scraped-data\\raw_data\\raw_pdfs\\04-biodiversity_abs_\\247815.pdf",
+      "page_count": 15,
+      "page_number": 12
+    },
+    "toc_items": [],
+    "page_boxes": [
+      {
+        "index": 0,
+        "class": "page-header",
+        "bbox": [
+          118,
+          69,
+          129,
+          77
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 1,
+        "class": "page-header",
+        "bbox": [
+          201,
+          69,
+          395,
+          77
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 2,
+        "class": "page-header",
+        "bbox": [
+          437,
+          69,
+          479,
+          79
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 3,
+        "class": "text",
+        "bbox": [
+          165,
+          98,
+          478,
+          120
+        ],
+        "pos": [
+          0,
+          128
+        ]
+      },
+      {
+        "index": 4,
+        "class": "text",
+        "bbox": [
+          165,
+          128,
+          478,
+          150
+        ],
+        "pos": [
+          128,
+          245
+        ]
+      },
+      {
+        "index": 5,
+        "class": "text",
+        "bbox": [
+          141,
+          158,
+          478,
+          191
+        ],
+        "pos": [
+          245,
+          420
+        ]
+      },
+      {
+        "index": 6,
+        "class": "text",
+        "bbox": [
+          165,
+          200,
+          397,
+          210
+        ],
+        "pos": [
+          420,
+          486
+        ]
+      },
+      {
+        "index": 7,
+        "class": "text",
+        "bbox": [
+          189,
+          218,
+          392,
+          228
+        ],
+        "pos": [
+          486,
+          540
+        ]
+      },
+      {
+        "index": 8,
+        "class": "text",
+        "bbox": [
+          189,
+          236,
+          478,
+          269
+        ],
+        "pos": [
+          540,
+          695
+        ]
+      },
+      {
+        "index": 9,
+        "class": "text",
+        "bbox": [
+          189,
+          278,
+          478,
+          300
+        ],
+        "pos": [
+          695,
+          822
+        ]
+      },
+      {
+        "index": 10,
+        "class": "text",
+        "bbox": [
+          189,
+          308,
+          478,
+          329
+        ],
+        "pos": [
+          822,
+          924
+        ]
+      },
+      {
+        "index": 11,
+        "class": "text",
+        "bbox": [
+          213,
+          338,
+          398,
+          348
+        ],
+        "pos": [
+          924,
+          976
+        ]
+      },
+      {
+        "index": 12,
+        "class": "text",
+        "bbox": [
+          213,
+          356,
+          478,
+          377
+        ],
+        "pos": [
+          976,
+          1066
+        ]
+      },
+      {
+        "index": 13,
+        "class": "text",
+        "bbox": [
+          213,
+          386,
+          478,
+          408
+        ],
+        "pos": [
+          1066,
+          1177
+        ]
+      },
+      {
+        "index": 14,
+        "class": "text",
+        "bbox": [
+          58,
+          417,
+          107,
+          433
+        ],
+        "pos": [
+          1177,
+          1204
+        ]
+      },
+      {
+        "index": 15,
+        "class": "text",
+        "bbox": [
+          117,
+          416,
+          478,
+          438
+        ],
+        "pos": [
+          1204,
+          1346
+        ]
+      },
+      {
+        "index": 16,
+        "class": "text",
+        "bbox": [
+          141,
+          446,
+          478,
+          468
+        ],
+        "pos": [
+          1346,
+          1508
+        ]
+      },
+      {
+        "index": 17,
+        "class": "text",
+        "bbox": [
+          57,
+          477,
+          99,
+          512
+        ],
+        "pos": [
+          1508,
+          1554
+        ]
+      },
+      {
+        "index": 18,
+        "class": "text",
+        "bbox": [
+          57,
+          525,
+          100,
+          560
+        ],
+        "pos": [
+          1554,
+          1596
+        ]
+      },
+      {
+        "index": 19,
+        "class": "text",
+        "bbox": [
+          117,
+          476,
+          478,
+          498
+        ],
+        "pos": [
+          1596,
+          1697
+        ]
+      },
+      {
+        "index": 20,
+        "class": "text",
+        "bbox": [
+          141,
+          524,
+          478,
+          546
+        ],
+        "pos": [
+          1697,
+          1838
+        ]
+      },
+      {
+        "index": 21,
+        "class": "text",
+        "bbox": [
+          165,
+          554,
+          478,
+          576
+        ],
+        "pos": [
+          1838,
+          1983
+        ]
+      },
+      {
+        "index": 22,
+        "class": "text",
+        "bbox": [
+          165,
+          584,
+          478,
+          606
+        ],
+        "pos": [
+          1983,
+          2093
+        ]
+      },
+      {
+        "index": 23,
+        "class": "text",
+        "bbox": [
+          165,
+          614,
+          478,
+          634
+        ],
+        "pos": [
+          2093,
+          2173
+        ]
+      },
+      {
+        "index": 24,
+        "class": "text",
+        "bbox": [
+          141,
+          644,
+          478,
+          664
+        ],
+        "pos": [
+          2173,
+          2273
+        ]
+      },
+      {
+        "index": 25,
+        "class": "text",
+        "bbox": [
+          57,
+          674,
+          478,
+          771
+        ],
+        "pos": [
+          2273,
+          2847
+        ]
+      }
+    ],
+    "text": "( _1B_ ) The composition of the Biodiversity Management Committee shall be such as may be prescribed by the State Government: \n\nProvided that the number of members of the said Committee shall not be less than seven and not exceeding eleven.\"; \n\n( _b_ ) in sub-section ( _2_ ), for the words \" and knowledge associated with such resources\", the words \"or traditional knowledge associated thereto\" shall be substituted; \n\n( _c_ ) the following _Explanation_ shall be inserted, namely:— \n\n‘ _Explanation.—_ For the purposes of this section— \n\n( _a_ ) \"cultivar\" means a veriety of plant that has originated and persisted under cultivation or was specifically bred for the purpose of cultivation; \n\n( _b_ ) \"folk variety\" means a cultivated variety of plant that was developed, grown and exchanged informally among farmers; \n\n( _c_ ) \"landrace\" means primitive cultivar that was grown by ancient farmers and their successors; \n\n( _d_ ) \"farmers' variety\" means a veriety which— \n\n( _i_ ) has been traditionally cultivated and evolved by the farmers in their field; or \n\n( _ii_ ) is a wild relative or landrace of a veriety about which the farmers possess the common knowledge.’. \n\nAmendment of section 43. \n\n**31.** In section 43 of the principal Act, in sub-section ( _1_ ), for clause ( _e_ ), the following clause shall be substituted, namely:— \n\n\"( _e_ ) benefit sharing amount and all other sums received by the Local Biodiversity Fund from such other sources as may be decided by the State Government.\". \n\nSubstitution of new section for section 44. \n\nApplication of Local Biodiversity Fund. \n\n**32.** For section 44 of the principal Act, the following section shall be substiututed, namely:— \n\n\"44. ( _1_ ) The Local Biodiversity Fund shall be utilised in accordance with the regulations and the guidelines made in this behalf, for— \n\n( _a_ ) the conservation and promotion of biodiversity including restoration of areas falling within the jurisdiction of concerned local body; \n\n( _b_ ) the socio-economic development of the community without compromising the conservation concerns; and \n\n( _c_ ) the administrative expenses of the Biodiversity Management Committee. \n\n( _2_ ) The Fund shall be utilised in such manner as may be prescribed by the State Government.\". \n\n> Substitution **33.** For section 45 of the principal Act, the following section shall be substituted, \n\n> of new namely:— section for section 45. \n\n> Annual \"45. The custodian of the Local Biodiversity Fund shall prepare, in such form \n\n> statement of and during each financial year at such time as may be prescribed by the State Biodiversity Government, its annual statement giving a full account of its activities during the Management Committees. previous financial year, and submit the same to the local body concerned with a copy to the State Biodiversity Board.\". \n\n"
+  },
+  {
+    "metadata": {
+      "format": "PDF 1.6",
+      "title": "",
+      "author": "",
+      "subject": "",
+      "keywords": "",
+      "creator": "",
+      "producer": "iTextSharp™ 5.5.13.1 ©2000-2019 iText Group NV (AGPL-version)",
+      "creationDate": "D:20230803185340+05'30'",
+      "modDate": "D:20230803185717+05'30'",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "D:\\CODING\\Hackathons\\SIH\\SIH-scraped-data\\raw_data\\raw_pdfs\\04-biodiversity_abs_\\247815.pdf",
+      "page_count": 15,
+      "page_number": 13
+    },
+    "toc_items": [],
+    "page_boxes": [
+      {
+        "index": 0,
+        "class": "page-header",
+        "bbox": [
+          117,
+          69,
+          146,
+          78
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 1,
+        "class": "page-header",
+        "bbox": [
+          201,
+          69,
+          395,
+          77
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 2,
+        "class": "page-header",
+        "bbox": [
+          467,
+          69,
+          478,
+          77
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 3,
+        "class": "text",
+        "bbox": [
+          117,
+          98,
+          535,
+          286
+        ],
+        "pos": [
+          0,
+          1014
+        ]
+      },
+      {
+        "index": 4,
+        "class": "text",
+        "bbox": [
+          141,
+          296,
+          299,
+          306
+        ],
+        "pos": [
+          1014,
+          1061
+        ]
+      },
+      {
+        "index": 5,
+        "class": "text",
+        "bbox": [
+          486,
+          297,
+          535,
+          313
+        ],
+        "pos": [
+          1061,
+          1088
+        ]
+      },
+      {
+        "index": 6,
+        "class": "text",
+        "bbox": [
+          141,
+          314,
+          478,
+          335
+        ],
+        "pos": [
+          1088,
+          1205
+        ]
+      },
+      {
+        "index": 7,
+        "class": "text",
+        "bbox": [
+          141,
+          344,
+          478,
+          365
+        ],
+        "pos": [
+          1205,
+          1326
+        ]
+      },
+      {
+        "index": 8,
+        "class": "text",
+        "bbox": [
+          141,
+          374,
+          478,
+          395
+        ],
+        "pos": [
+          1326,
+          1464
+        ]
+      },
+      {
+        "index": 9,
+        "class": "text",
+        "bbox": [
+          141,
+          404,
+          478,
+          426
+        ],
+        "pos": [
+          1464,
+          1596
+        ]
+      },
+      {
+        "index": 10,
+        "class": "text",
+        "bbox": [
+          117,
+          434,
+          532,
+          490
+        ],
+        "pos": [
+          1596,
+          1758
+        ]
+      },
+      {
+        "index": 11,
+        "class": "text",
+        "bbox": [
+          141,
+          500,
+          521,
+          604
+        ],
+        "pos": [
+          1758,
+          2468
+        ]
+      },
+      {
+        "index": 12,
+        "class": "text",
+        "bbox": [
+          141,
+          614,
+          478,
+          670
+        ],
+        "pos": [
+          2468,
+          2812
+        ]
+      },
+      {
+        "index": 13,
+        "class": "text",
+        "bbox": [
+          486,
+          614,
+          531,
+          632
+        ],
+        "pos": [
+          2812,
+          2841
+        ]
+      },
+      {
+        "index": 14,
+        "class": "text",
+        "bbox": [
+          141,
+          680,
+          478,
+          702
+        ],
+        "pos": [
+          2841,
+          2942
+        ]
+      },
+      {
+        "index": 15,
+        "class": "text",
+        "bbox": [
+          141,
+          710,
+          478,
+          756
+        ],
+        "pos": [
+          2942,
+          3291
+        ]
+      }
+    ],
+    "text": "**34.** For section 46 of the prinicpal Act, the following section shall be substituted, Substitution namely:— of new section for section 46. \"46. ( _1_ ) The Biodiversity Management Committee shall maintain the accounts Audit of which shall be audited in such manner as may be prescribed by the State Government. accounts of Biodiversity ( _2_ ) The Biodiversity Management Committee shall furnish to the local body Management concerned and to the State Biodiversity Board, before such date as may be prescribed Committees. by the State Government, its audited copy of accounts together with auditor's report thereon.\". **35.** In section 50 of the principal Act, in the marginal heading, the words \"between the Amendment State Biodiversity Board\" shall be omitted. of section 50. **36.** In section 52 of the princiapl Act, in sub-section ( _1_ ), for the words \"benefit sharing Amendment or order\", the words \"fair and equitable sharing of benefits or order or direction\" shall be of section 52. substituted. \n\n**37.** In section 53 of the principal Act,— \n\nAmendment of section 53. \n\n( _i_ )  for the words \"benefit sharing\", the words \"fair and equitable sharing of benefits\" shall be substituted; \n\n( _ii_ ) after the words \"order made by the High Court\", the words \"or the National Green Tribunal\" shall be inserted; \n\n( _iii_ ) after the words \"Registrar of the High Court\", the words \"or the Registrar of the National Green Tribunal\" shall be inserted; \n\n( _iv_ ) in the _Explanation,_ after the words \"group of persons\", wherever they occur, the words \"or body\" shall be substituted. \n\n**38.** For section 55 of the principal Act, the following sections shall be substituted, Substitution namely:— of new sections 55, 55A and 55B for section 55. \n\n\"55. If any person or entity covered under sub-section ( _2_ ) of section 3 or Penalties. section 7 contravenes or attempts to contravene or abets the contravention of the provisions of section 3 or section 4 or section 6 or section 7, such person shall be liable to pay penalty which shall not be less than one lakh rupees, but which may extend to fifty lakh rupees, but where the damage caused exceeds the amount of penalty, such penalty shall be commensurate with the damage caused, and in case, the failure or contravention continues, an additional penalty may be imposed, which shall not exceed one crore rupees and such penalty shall be decided by the adjudicating officer appointed under section 55A. \n\n55A. ( _1_ ) For the purposes of determining the penalities under section 55, the Central Government may appoint an officer not below the rank of Joint Secretary to the Government of India or a Secretary to the State Government to be the adjudicating officer, to hold inquiry in the prescribed manner and to impose the penalty so determined: \n\nAdjudication of penalties. \n\nProvided that the Central Government may appoint as many adjudicating officers as may be required. \n\n( _2_ ) While holding an inquiry, the adjudicating officer shall have power to summon and enforce the attendance of any person acquainted with the facts and circumstances of the case to give evidence or to produce any document, which in the opinion of the adjudicating officer, may be useful for, or relevant to, the subject-matter of the inquiry \n\n"
+  },
+  {
+    "metadata": {
+      "format": "PDF 1.6",
+      "title": "",
+      "author": "",
+      "subject": "",
+      "keywords": "",
+      "creator": "",
+      "producer": "iTextSharp™ 5.5.13.1 ©2000-2019 iText Group NV (AGPL-version)",
+      "creationDate": "D:20230803185340+05'30'",
+      "modDate": "D:20230803185717+05'30'",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "D:\\CODING\\Hackathons\\SIH\\SIH-scraped-data\\raw_data\\raw_pdfs\\04-biodiversity_abs_\\247815.pdf",
+      "page_count": 15,
+      "page_number": 14
+    },
+    "toc_items": [],
+    "page_boxes": [
+      {
+        "index": 0,
+        "class": "page-header",
+        "bbox": [
+          118,
+          69,
+          129,
+          77
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 1,
+        "class": "page-header",
+        "bbox": [
+          201,
+          69,
+          395,
+          77
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 2,
+        "class": "page-header",
+        "bbox": [
+          437,
+          69,
+          479,
+          79
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 3,
+        "class": "text",
+        "bbox": [
+          141,
+          98,
+          478,
+          132
+        ],
+        "pos": [
+          0,
+          251
+        ]
+      },
+      {
+        "index": 4,
+        "class": "text",
+        "bbox": [
+          141,
+          140,
+          478,
+          162
+        ],
+        "pos": [
+          251,
+          381
+        ]
+      },
+      {
+        "index": 5,
+        "class": "text",
+        "bbox": [
+          141,
+          170,
+          478,
+          203
+        ],
+        "pos": [
+          381,
+          606
+        ]
+      },
+      {
+        "index": 6,
+        "class": "text",
+        "bbox": [
+          486,
+          194,
+          529,
+          201
+        ],
+        "pos": [
+          606,
+          620
+        ]
+      },
+      {
+        "index": 7,
+        "class": "text",
+        "bbox": [
+          141,
+          212,
+          478,
+          246
+        ],
+        "pos": [
+          620,
+          817
+        ]
+      },
+      {
+        "index": 8,
+        "class": "text",
+        "bbox": [
+          141,
+          254,
+          478,
+          288
+        ],
+        "pos": [
+          817,
+          1031
+        ]
+      },
+      {
+        "index": 9,
+        "class": "text",
+        "bbox": [
+          57,
+          297,
+          107,
+          324
+        ],
+        "pos": [
+          1031,
+          1071
+        ]
+      },
+      {
+        "index": 10,
+        "class": "text",
+        "bbox": [
+          141,
+          296,
+          478,
+          330
+        ],
+        "pos": [
+          1071,
+          1268
+        ]
+      },
+      {
+        "index": 11,
+        "class": "text",
+        "bbox": [
+          165,
+          338,
+          478,
+          371
+        ],
+        "pos": [
+          1268,
+          1457
+        ]
+      },
+      {
+        "index": 12,
+        "class": "text",
+        "bbox": [
+          165,
+          380,
+          478,
+          402
+        ],
+        "pos": [
+          1457,
+          1602
+        ]
+      },
+      {
+        "index": 13,
+        "class": "text",
+        "bbox": [
+          189,
+          410,
+          348,
+          420
+        ],
+        "pos": [
+          1602,
+          1649
+        ]
+      },
+      {
+        "index": 14,
+        "class": "text",
+        "bbox": [
+          165,
+          428,
+          478,
+          449
+        ],
+        "pos": [
+          1649,
+          1752
+        ]
+      },
+      {
+        "index": 15,
+        "class": "text",
+        "bbox": [
+          189,
+          458,
+          368,
+          468
+        ],
+        "pos": [
+          1752,
+          1803
+        ]
+      },
+      {
+        "index": 16,
+        "class": "text",
+        "bbox": [
+          57,
+          477,
+          100,
+          493
+        ],
+        "pos": [
+          1803,
+          1829
+        ]
+      },
+      {
+        "index": 17,
+        "class": "text",
+        "bbox": [
+          141,
+          476,
+          345,
+          486
+        ],
+        "pos": [
+          1829,
+          1889
+        ]
+      },
+      {
+        "index": 18,
+        "class": "text",
+        "bbox": [
+          57,
+          500,
+          478,
+          526
+        ],
+        "pos": [
+          1889,
+          2024
+        ]
+      },
+      {
+        "index": 19,
+        "class": "text",
+        "bbox": [
+          57,
+          536,
+          478,
+          658
+        ],
+        "pos": [
+          2024,
+          2689
+        ]
+      },
+      {
+        "index": 20,
+        "class": "text",
+        "bbox": [
+          57,
+          591,
+          106,
+          607
+        ],
+        "pos": [
+          2689,
+          2716
+        ]
+      },
+      {
+        "index": 21,
+        "class": "text",
+        "bbox": [
+          57,
+          668,
+          478,
+          767
+        ],
+        "pos": [
+          2716,
+          3193
+        ]
+      }
+    ],
+    "text": "and if, on such inquiry, he is satisfied that the person concerned has failed to comply with the provisions of section 3 or section 4 or section 6 or section 7, he may impose such penalty as he thinks fit in accordance the provisions of section 55: \n\nProvided that no such penalty shall be imposed without giving the person concerned an opportunity of being heard in the matter. \n\n( _3_ ) Any person aggrieved by the order made by the adjudicating officer under sub-section ( _2_ ) may prefer an appeal to the National Green Tribunal established under section 3 of the National Green Tribunal Act, 2010. \n\n19 of 2010. \n\n( _4_ ) Every appeal under sub-section ( _3_ ) shall be filed within sixty days from the date on which the copy of the order made by the adjudicating officer is received by the aggrieved person. \n\n( _5_ ) The National Green Tribunal may, after giving the parties to the appeal an opportunity of being heard, pass such order as it thinks fit, confirming, modifying or setting aside the order appealed against. \n\nPower to enter, inspect, survey, etc. \n\n55B. Any authority or officer empowered by the Central Government may, for the purposes of carrying out inspection, survey or any such activity, have all or any of the following powers, namely:— \n\n( _a_ ) the power to enter upon any land, vehicle, or premises and to inspect, investigate, survey and collect information and make a map of the same and seize the materials and records; \n\n( _b_ ) the powers of a civil court to compel the attendance of anyone, including witnesses and production of documents and materials objects; \n\n( _c_ ) the power to issue a search-warrant; \n\n( _d_ ) the power to hold an inquiry and in the course of such inquiry, receive and record evidence; \n\n( _e_ ) such other power as may be prescribed.\". \n\nOmission of section 58. \n\n**39.** Section 58 of the principal Act shall be omitted. \n\n> Insertion of **40.** After section 59 of the principal Act, the following section shall be inserted, \n\n> new section namely:— 59A. \n\n> Act not to \"59A. The provision of this Act shall not apply to any person who has been \n\n> apply to given any approval or granted any right under any law relating to protection of plant certain varieties enacted by Parliament to the extent that such approvals or rights given under persons. that Act does not require similar approval under this Act.\". Amendment **41.** In section 61 of the principal Act,— of section 61. ( _a_ ) in the opening portion, for the word \"complaint\", the words \"written complaint\" shall be substituted; ( _b_ ) in clause ( _b_ ), for the words \"any benefit claimer\", the words \"any person or a benefit claimer\" shall be substituted. \n\nAmendment of section 61. \n\nAmendment **42.** In section 62 of the principal Act, in sub-section ( _2_ ),— of section 62. ( _i_ ) for clause ( _a_ ), the following clauses shall be substituted, namely:— \"( _a_ ) the manner of obtaining the certificate of origin under sub-section ( _2_ ) of section 7; ( _aa_ ) the books on the basis of which the certificate of origin to be issued, the manner of maintaining such books and the manner of issuing such certificate under sub-section ( _3_ ) of section 7; \n\n"
+  },
+  {
+    "metadata": {
+      "format": "PDF 1.6",
+      "title": "",
+      "author": "",
+      "subject": "",
+      "keywords": "",
+      "creator": "",
+      "producer": "iTextSharp™ 5.5.13.1 ©2000-2019 iText Group NV (AGPL-version)",
+      "creationDate": "D:20230803185340+05'30'",
+      "modDate": "D:20230803185717+05'30'",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "D:\\CODING\\Hackathons\\SIH\\SIH-scraped-data\\raw_data\\raw_pdfs\\04-biodiversity_abs_\\247815.pdf",
+      "page_count": 15,
+      "page_number": 15
+    },
+    "toc_items": [],
+    "page_boxes": [
+      {
+        "index": 0,
+        "class": "page-header",
+        "bbox": [
+          467,
+          69,
+          478,
+          77
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 1,
+        "class": "page-header",
+        "bbox": [
+          117,
+          69,
+          146,
+          78
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 2,
+        "class": "page-header",
+        "bbox": [
+          201,
+          69,
+          395,
+          77
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 3,
+        "class": "text",
+        "bbox": [
+          165,
+          98,
+          478,
+          120
+        ],
+        "pos": [
+          0,
+          121
+        ]
+      },
+      {
+        "index": 4,
+        "class": "text",
+        "bbox": [
+          165,
+          128,
+          435,
+          138
+        ],
+        "pos": [
+          121,
+          201
+        ]
+      },
+      {
+        "index": 5,
+        "class": "text",
+        "bbox": [
+          189,
+          146,
+          469,
+          156
+        ],
+        "pos": [
+          201,
+          276
+        ]
+      },
+      {
+        "index": 6,
+        "class": "text",
+        "bbox": [
+          141,
+          164,
+          478,
+          185
+        ],
+        "pos": [
+          276,
+          387
+        ]
+      },
+      {
+        "index": 7,
+        "class": "text",
+        "bbox": [
+          165,
+          194,
+          437,
+          204
+        ],
+        "pos": [
+          387,
+          469
+        ]
+      },
+      {
+        "index": 8,
+        "class": "text",
+        "bbox": [
+          165,
+          212,
+          478,
+          233
+        ],
+        "pos": [
+          469,
+          564
+        ]
+      },
+      {
+        "index": 9,
+        "class": "text",
+        "bbox": [
+          165,
+          242,
+          478,
+          281
+        ],
+        "pos": [
+          564,
+          733
+        ]
+      },
+      {
+        "index": 10,
+        "class": "text",
+        "bbox": [
+          189,
+          290,
+          404,
+          300
+        ],
+        "pos": [
+          733,
+          799
+        ]
+      },
+      {
+        "index": 11,
+        "class": "text",
+        "bbox": [
+          141,
+          308,
+          374,
+          318
+        ],
+        "pos": [
+          799,
+          870
+        ]
+      },
+      {
+        "index": 12,
+        "class": "text",
+        "bbox": [
+          486,
+          310,
+          535,
+          326
+        ],
+        "pos": [
+          870,
+          897
+        ]
+      },
+      {
+        "index": 13,
+        "class": "text",
+        "bbox": [
+          165,
+          326,
+          433,
+          336
+        ],
+        "pos": [
+          897,
+          978
+        ]
+      },
+      {
+        "index": 14,
+        "class": "text",
+        "bbox": [
+          165,
+          344,
+          478,
+          365
+        ],
+        "pos": [
+          978,
+          1091
+        ]
+      },
+      {
+        "index": 15,
+        "class": "text",
+        "bbox": [
+          165,
+          374,
+          478,
+          384
+        ],
+        "pos": [
+          1091,
+          1187
+        ]
+      },
+      {
+        "index": 16,
+        "class": "text",
+        "bbox": [
+          141,
+          392,
+          478,
+          412
+        ],
+        "pos": [
+          1187,
+          1300
+        ]
+      },
+      {
+        "index": 17,
+        "class": "text",
+        "bbox": [
+          344,
+          500,
+          478,
+          524
+        ],
+        "pos": [
+          1300,
+          1358
+        ]
+      },
+      {
+        "index": 18,
+        "class": "page-footer",
+        "bbox": [
+          101,
+          724,
+          495,
+          742
+        ],
+        "pos": [
+          1358,
+          1358
+        ]
+      },
+      {
+        "index": 19,
+        "class": "page-footer",
+        "bbox": [
+          488,
+          747,
+          538,
+          762
+        ],
+        "pos": [
+          1358,
+          1358
+        ]
+      },
+      {
+        "index": 20,
+        "class": "page-footer",
+        "bbox": [
+          57,
+          755,
+          196,
+          763
+        ],
+        "pos": [
+          1358,
+          1358
+        ]
+      }
+    ],
+    "text": "( _ab_ ) the terms and conditions of service of the Chairperson, Member-Secretary and other members under section 9;\"; \n\n( _ii_ ) after clause ( _b),_ the following clause shall be inserted namely:— \n\n\"( _ba_ ) the other functions to be performed by the Member-Secretary;\"; \n\n( _iii_ ) in clause ( _e_ ), after the word \"application\", the word \"and payment of fees\" shall be inserted; \n\n( _iv_ ) after clause ( _e_ ), the following clause shall be inserted, namely:— \n\n\"( _ea_ ) form of application and payment of fees under sub-section ( _1_ ) of section 20;\"; \n\n( _v_ ) after clause ( _j_ ), the following clauses shall be inserted, namely:— \"( _ja_ ) the manner of holding inquiry by the adjudicating officer under section 55A; \n\n( _jb_ ) the other power under clause ( _e_ ) of section 55B;\". \n\n**43.** In section 63 of the principal Act, in sub-section ( _2_ ),— \n\nAmendment of section 63. \n\n( _i_ ) after clause ( _e_ ), the following clause shall be inserted, namely:— \n\n\"( _ea_ ) the composition of the Biodiversity Management Committee under sub-section ( _1B_ ) of section 41;\"; \n\n( _ii)_ in clause ( _f_ ),  for the word \"applied\", the word \"utilised\" shall be substituted; \n\n( _iii_ ) in clause ( _g_ ), for the words \"annual report\", the words \"annual statement\" shall be substituted. \n\nDR. REETA VASISHTA, _Secretary to the Govt. of  India._ \n\n"
+  }
+]
