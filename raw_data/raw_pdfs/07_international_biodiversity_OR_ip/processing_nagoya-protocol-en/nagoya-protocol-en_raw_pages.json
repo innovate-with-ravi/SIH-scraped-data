@@ -1,0 +1,6264 @@
+[
+  {
+    "metadata": {
+      "format": "PDF 1.4",
+      "title": "",
+      "author": "",
+      "subject": "",
+      "keywords": "",
+      "creator": "",
+      "producer": "iLovePDF",
+      "creationDate": "",
+      "modDate": "D:20260902200638Z",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "D:\\CODING\\Hackathons\\SIH\\SIH-scraped-data\\raw_data\\raw_pdfs\\07_international_biodiversity_OR_ip\\nagoya-protocol-en.pdf",
+      "page_count": 25,
+      "page_number": 1
+    },
+    "toc_items": [],
+    "page_boxes": [
+      {
+        "index": 0,
+        "class": "page-header",
+        "bbox": [
+          305,
+          35,
+          529,
+          47
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 1,
+        "class": "section-header",
+        "bbox": [
+          264,
+          83,
+          350,
+          95
+        ],
+        "pos": [
+          0,
+          22
+        ]
+      },
+      {
+        "index": 2,
+        "class": "text",
+        "bbox": [
+          85,
+          109,
+          520,
+          222
+        ],
+        "pos": [
+          22,
+          555
+        ]
+      },
+      {
+        "index": 3,
+        "class": "text",
+        "bbox": [
+          85,
+          230,
+          529,
+          392
+        ],
+        "pos": [
+          555,
+          1333
+        ]
+      },
+      {
+        "index": 4,
+        "class": "text",
+        "bbox": [
+          85,
+          401,
+          519,
+          464
+        ],
+        "pos": [
+          1333,
+          1643
+        ]
+      },
+      {
+        "index": 5,
+        "class": "text",
+        "bbox": [
+          85,
+          472,
+          525,
+          667
+        ],
+        "pos": [
+          1643,
+          2614
+        ]
+      },
+      {
+        "index": 6,
+        "class": "text",
+        "bbox": [
+          85,
+          676,
+          518,
+          756
+        ],
+        "pos": [
+          2614,
+          3007
+        ]
+      },
+      {
+        "index": 7,
+        "class": "page-footer",
+        "bbox": [
+          304,
+          801,
+          311,
+          810
+        ],
+        "pos": [
+          3007,
+          3007
+        ]
+      }
+    ],
+    "text": "## **Introduction** \n\nT e Convention on Biological Diversity was opened for signature on 5 June 1992 at the United Nations Conference on Environment and Development (the Rio “Earth Summit”) and entered into force on 29 December 1993.  T e Convention is the only international instrument comprehensively addressing biological diversity. T e Convention’s three objectives are the conservation of biological diversity, the sustainable use of its components and the fair and equitable sharing of benefi ts arising from the utilisation of genetic resources. \n\nTo further advance the implementation of the third objective, the World Summit on Sustainable Development (Johannesburg, September 2002) called for the negotiation of an international regime, within the framework of the Convention, to promote and safeguard the fair and equitable sharing of benefi ts arising from the utilisation of genetic resources.  T e Convention’s Conference of the Parties responded at its seventh meeting, in 2004, by mandating its Ad Hoc Open-ended Working Group on Access and Benefi t-sharing to elaborate and negotiate an international regime on access to genetic resources and benefi t-sharing in order to eff ectively implement Articles 15 (Access to Genetic Resources) and 8(j) (Traditional Knowledge) of the Convention and its three objectives. \n\nAf er six years of negotiation, the Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefi ts Arising from their Utilization to the Convention on Biological Diversity was adopted at the tenth meeting of the Conference of the Parties on 29 October 2010, in Nagoya, Japan. \n\nT e Protocol signifi cantly advances the Convention’s third objective by providing a strong basis for greater legal certainty and transparency for both providers and users of genetic resources.  Specifi c obligations to support compliance with domestic legislation or regulatory requirements of the Party providing genetic resources and contractual obligations refl ected in mutually agreed terms are a signifi cant innovation of the Protocol.  T ese compliance provisions as well as provisions establishing more predictable conditions for access to genetic resources will contribute to ensuring the sharing of benefi ts when genetic resources leave a Party providing genetic resources.  In addition, the Protocol’s provisions on access to traditional knowledge held by indigenous and local communities when it is associated with genetic resources will strengthen the ability of these communities to benefi t from the use of their knowledge, innovations and practices. \n\nBy promoting the use of genetic resources and associated traditional knowledge, and by strengthening the opportunities for fair and equitable sharing of benefi ts from their use, the Protocol will create incentives to conserve biological diversity, sustainably use its components, and further enhance the contribution of biological diversity to sustainable development and human well-being. \n\n"
+  },
+  {
+    "metadata": {
+      "format": "PDF 1.4",
+      "title": "",
+      "author": "",
+      "subject": "",
+      "keywords": "",
+      "creator": "",
+      "producer": "iLovePDF",
+      "creationDate": "",
+      "modDate": "D:20260902200638Z",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "D:\\CODING\\Hackathons\\SIH\\SIH-scraped-data\\raw_data\\raw_pdfs\\07_international_biodiversity_OR_ip\\nagoya-protocol-en.pdf",
+      "page_count": 25,
+      "page_number": 2
+    },
+    "toc_items": [],
+    "page_boxes": [
+      {
+        "index": 0,
+        "class": "page-header",
+        "bbox": [
+          66,
+          35,
+          290,
+          47
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 1,
+        "class": "title",
+        "bbox": [
+          93,
+          84,
+          487,
+          146
+        ],
+        "pos": [
+          0,
+          176
+        ]
+      },
+      {
+        "index": 2,
+        "class": "text",
+        "bbox": [
+          66,
+          177,
+          211,
+          189
+        ],
+        "pos": [
+          176,
+          207
+        ]
+      },
+      {
+        "index": 3,
+        "class": "text",
+        "bbox": [
+          66,
+          199,
+          490,
+          228
+        ],
+        "pos": [
+          207,
+          310
+        ]
+      },
+      {
+        "index": 4,
+        "class": "text",
+        "bbox": [
+          66,
+          238,
+          506,
+          286
+        ],
+        "pos": [
+          310,
+          574
+        ]
+      },
+      {
+        "index": 5,
+        "class": "text",
+        "bbox": [
+          66,
+          294,
+          505,
+          325
+        ],
+        "pos": [
+          574,
+          699
+        ]
+      },
+      {
+        "index": 6,
+        "class": "text",
+        "bbox": [
+          66,
+          334,
+          310,
+          348
+        ],
+        "pos": [
+          699,
+          749
+        ]
+      },
+      {
+        "index": 7,
+        "class": "text",
+        "bbox": [
+          66,
+          356,
+          491,
+          419
+        ],
+        "pos": [
+          749,
+          1025
+        ]
+      },
+      {
+        "index": 8,
+        "class": "text",
+        "bbox": [
+          66,
+          429,
+          475,
+          493
+        ],
+        "pos": [
+          1025,
+          1315
+        ]
+      },
+      {
+        "index": 9,
+        "class": "text",
+        "bbox": [
+          66,
+          502,
+          503,
+          566
+        ],
+        "pos": [
+          1315,
+          1584
+        ]
+      },
+      {
+        "index": 10,
+        "class": "text",
+        "bbox": [
+          66,
+          575,
+          480,
+          606
+        ],
+        "pos": [
+          1584,
+          1743
+        ]
+      },
+      {
+        "index": 11,
+        "class": "text",
+        "bbox": [
+          66,
+          614,
+          489,
+          660
+        ],
+        "pos": [
+          1743,
+          1924
+        ]
+      },
+      {
+        "index": 12,
+        "class": "text",
+        "bbox": [
+          66,
+          670,
+          502,
+          701
+        ],
+        "pos": [
+          1924,
+          2084
+        ]
+      },
+      {
+        "index": 13,
+        "class": "text",
+        "bbox": [
+          66,
+          709,
+          502,
+          757
+        ],
+        "pos": [
+          2084,
+          2304
+        ]
+      },
+      {
+        "index": 14,
+        "class": "page-footer",
+        "bbox": [
+          285,
+          801,
+          291,
+          810
+        ],
+        "pos": [
+          2304,
+          2304
+        ]
+      }
+    ],
+    "text": "## **NAGOYA PROTOCOL ON ACCESS TO GENETIC RESOURCES AND THE FAIR AND EQUITABLE SHARING OF BENEFITS ARISING FROM THEIR UTILIZATION TO THE CONVENTION ON BIOLOGICAL DIVERSITY** \n\nTe Parties to this Protocol, \n\nBeing Parties to the Convention on Biological Diversity, hereinafer referred to as “the Convention”, \n\nRecalling that the fair and equitable sharing of benefits arising from the utilization of genetic resources is one of three core objectives of the Convention, and recognizing that this Protocol pursues the implementation of this objective within the Convention, \n\nReaffirming the sovereign rights of States over their natural resources and according to the provisions of the Convention, \n\nRecalling further Article 15 of the Convention, \n\nRecognizing the important contribution to sustainable development made by technology transfer and cooperation to build research and innovation capacities for adding value to genetic resources in developing countries, in accordance with Articles 16 and 19 of the Convention, \n\nRecognizing that public awareness of the economic value of ecosystems and biodiversity and the fair and equitable sharing of this economic value with the custodians of biodiversity are key incentives for the conservation of biological diversity and the sustainable use of its components, \n\nAcknowledging the potential role of access and benefit-sharing to contribute to the conservation and sustainable use of biological diversity, poverty eradication and environmental sustainability and thereby contributing to achieving the Millennium Development Goals, \n\nAcknowledging the linkage between access to genetic resources and the fair and equitable sharing of benefits arising from the utilization of such resources, \n\nRecognizing the importance of providing legal certainty with respect to access to genetic resources and the fair and equitable sharing of benefits arising from their utilization, \n\nFurther recognizing the importance of promoting equity and fairness in negotiation of mutually agreed terms between providers and users of genetic resources, \n\nRecognizing also the vital role that women play in access and benefit-sharing and affirming the need for the full participation of women at all levels of policy-making and implementation for biodiversity conservation, \n\n"
+  },
+  {
+    "metadata": {
+      "format": "PDF 1.4",
+      "title": "",
+      "author": "",
+      "subject": "",
+      "keywords": "",
+      "creator": "",
+      "producer": "iLovePDF",
+      "creationDate": "",
+      "modDate": "D:20260902200638Z",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "D:\\CODING\\Hackathons\\SIH\\SIH-scraped-data\\raw_data\\raw_pdfs\\07_international_biodiversity_OR_ip\\nagoya-protocol-en.pdf",
+      "page_count": 25,
+      "page_number": 3
+    },
+    "toc_items": [],
+    "page_boxes": [
+      {
+        "index": 0,
+        "class": "page-header",
+        "bbox": [
+          305,
+          35,
+          529,
+          47
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 1,
+        "class": "text",
+        "bbox": [
+          85,
+          82,
+          489,
+          112
+        ],
+        "pos": [
+          0,
+          125
+        ]
+      },
+      {
+        "index": 2,
+        "class": "text",
+        "bbox": [
+          85,
+          121,
+          524,
+          184
+        ],
+        "pos": [
+          125,
+          457
+        ]
+      },
+      {
+        "index": 3,
+        "class": "text",
+        "bbox": [
+          85,
+          192,
+          515,
+          222
+        ],
+        "pos": [
+          457,
+          623
+        ]
+      },
+      {
+        "index": 4,
+        "class": "text",
+        "bbox": [
+          85,
+          231,
+          527,
+          261
+        ],
+        "pos": [
+          623,
+          755
+        ]
+      },
+      {
+        "index": 5,
+        "class": "text",
+        "bbox": [
+          85,
+          269,
+          514,
+          382
+        ],
+        "pos": [
+          755,
+          1257
+        ]
+      },
+      {
+        "index": 6,
+        "class": "text",
+        "bbox": [
+          85,
+          390,
+          524,
+          437
+        ],
+        "pos": [
+          1257,
+          1458
+        ]
+      },
+      {
+        "index": 7,
+        "class": "text",
+        "bbox": [
+          85,
+          445,
+          511,
+          476
+        ],
+        "pos": [
+          1458,
+          1557
+        ]
+      },
+      {
+        "index": 8,
+        "class": "text",
+        "bbox": [
+          85,
+          484,
+          530,
+          531
+        ],
+        "pos": [
+          1557,
+          1760
+        ]
+      },
+      {
+        "index": 9,
+        "class": "text",
+        "bbox": [
+          85,
+          539,
+          502,
+          584
+        ],
+        "pos": [
+          1760,
+          1932
+        ]
+      },
+      {
+        "index": 10,
+        "class": "text",
+        "bbox": [
+          85,
+          594,
+          512,
+          641
+        ],
+        "pos": [
+          1932,
+          2160
+        ]
+      },
+      {
+        "index": 11,
+        "class": "text",
+        "bbox": [
+          85,
+          649,
+          516,
+          727
+        ],
+        "pos": [
+          2160,
+          2497
+        ]
+      },
+      {
+        "index": 12,
+        "class": "text",
+        "bbox": [
+          85,
+          737,
+          530,
+          767
+        ],
+        "pos": [
+          2497,
+          2661
+        ]
+      },
+      {
+        "index": 13,
+        "class": "page-footer",
+        "bbox": [
+          304,
+          801,
+          311,
+          810
+        ],
+        "pos": [
+          2661,
+          2661
+        ]
+      }
+    ],
+    "text": "Determined to further support the effective implementation of the access and benefit-sharing provisions of the Convention, \n\nRecognizing that an innovative solution is required to address the fair and equitable sharing of benefits derived from the utilization of genetic resources and traditional knowledge associated with genetic resources that occur in transboundary situations or for which it is not possible to grant or obtain prior informed consent, \n\nRecognizing the importance of genetic resources to food security, public health, biodiversity conservation, and the mitigation of and adaptation to climate change, \n\nRecognizing the special nature of agricultural biodiversity, its distinctive features and problems needing distinctive solutions, \n\nRecognizing the interdependence of all countries with regard to genetic resources for food and agriculture as well as their special nature and importance for achieving food security worldwide and for sustainable development of agriculture in the context of poverty alleviation and climate change and acknowledging the fundamental role of the International Treaty on Plant Genetic Resources for Food and Agriculture and the FAO Commission on Genetic Resources for Food and Agriculture in this regard, \n\nMindful of the International Health Regulations (2005) of the World Health Organization and the importance of ensuring access to human pathogens for public health preparedness and response purposes, \n\nAcknowledging ongoing work in other international forums relating to access and benefit-sharing, \n\nRecalling the Multilateral System of Access and Benefit-sharing established under the International Treaty on Plant Genetic Resources for Food and Agriculture developed in harmony with the Convention, \n\nRecognizing that international instruments related to access and benefit-sharing should be mutually supportive with a view to achieving the objectives of the Convention, \n\nRecalling the relevance of Article 8(j) of the Convention as it relates to traditional knowledge associated with genetic resources and the fair and equitable sharing of benefits arising from the utilization of such knowledge, \n\nNoting the interrelationship between genetic resources and traditional knowledge, their inseparable nature for indigenous and local communities, the importance of the traditional knowledge for the conservation of biological diversity and the sustainable use of its components, and for the sustainable livelihoods of these communities, \n\nRecognizing the diversity of circumstances in which traditional knowledge associated with genetic resources is held or owned by indigenous and local communities, \n\n"
+  },
+  {
+    "metadata": {
+      "format": "PDF 1.4",
+      "title": "",
+      "author": "",
+      "subject": "",
+      "keywords": "",
+      "creator": "",
+      "producer": "iLovePDF",
+      "creationDate": "",
+      "modDate": "D:20260902200638Z",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "D:\\CODING\\Hackathons\\SIH\\SIH-scraped-data\\raw_data\\raw_pdfs\\07_international_biodiversity_OR_ip\\nagoya-protocol-en.pdf",
+      "page_count": 25,
+      "page_number": 4
+    },
+    "toc_items": [],
+    "page_boxes": [
+      {
+        "index": 0,
+        "class": "page-header",
+        "bbox": [
+          66,
+          35,
+          290,
+          47
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 1,
+        "class": "text",
+        "bbox": [
+          66,
+          82,
+          488,
+          127
+        ],
+        "pos": [
+          0,
+          192
+        ]
+      },
+      {
+        "index": 2,
+        "class": "text",
+        "bbox": [
+          66,
+          137,
+          467,
+          200
+        ],
+        "pos": [
+          192,
+          479
+        ]
+      },
+      {
+        "index": 3,
+        "class": "text",
+        "bbox": [
+          66,
+          209,
+          483,
+          261
+        ],
+        "pos": [
+          479,
+          708
+        ]
+      },
+      {
+        "index": 4,
+        "class": "text",
+        "bbox": [
+          66,
+          269,
+          191,
+          283
+        ],
+        "pos": [
+          708,
+          734
+        ]
+      },
+      {
+        "index": 5,
+        "class": "text",
+        "bbox": [
+          269,
+          307,
+          307,
+          318
+        ],
+        "pos": [
+          734,
+          744
+        ]
+      },
+      {
+        "index": 6,
+        "class": "section-header",
+        "bbox": [
+          277,
+          323,
+          299,
+          346
+        ],
+        "pos": [
+          744,
+          750
+        ]
+      },
+      {
+        "index": 7,
+        "class": "section-header",
+        "bbox": [
+          251,
+          351,
+          325,
+          365
+        ],
+        "pos": [
+          750,
+          769
+        ]
+      },
+      {
+        "index": 8,
+        "class": "text",
+        "bbox": [
+          66,
+          377,
+          505,
+          473
+        ],
+        "pos": [
+          769,
+          1218
+        ]
+      },
+      {
+        "index": 9,
+        "class": "section-header",
+        "bbox": [
+          269,
+          497,
+          307,
+          508
+        ],
+        "pos": [
+          1218,
+          1232
+        ]
+      },
+      {
+        "index": 10,
+        "class": "text",
+        "bbox": [
+          277,
+          513,
+          299,
+          536
+        ],
+        "pos": [
+          1232,
+          1236
+        ]
+      },
+      {
+        "index": 11,
+        "class": "section-header",
+        "bbox": [
+          238,
+          541,
+          338,
+          552
+        ],
+        "pos": [
+          1236,
+          1258
+        ]
+      },
+      {
+        "index": 12,
+        "class": "text",
+        "bbox": [
+          66,
+          566,
+          482,
+          596
+        ],
+        "pos": [
+          1258,
+          1386
+        ]
+      },
+      {
+        "index": 13,
+        "class": "list-item",
+        "bbox": [
+          88,
+          605,
+          482,
+          633
+        ],
+        "pos": [
+          1386,
+          1477
+        ]
+      },
+      {
+        "index": 14,
+        "class": "list-item",
+        "bbox": [
+          88,
+          643,
+          434,
+          657
+        ],
+        "pos": [
+          1477,
+          1544
+        ]
+      },
+      {
+        "index": 15,
+        "class": "list-item",
+        "bbox": [
+          88,
+          665,
+          507,
+          727
+        ],
+        "pos": [
+          1544,
+          1791
+        ]
+      },
+      {
+        "index": 16,
+        "class": "list-item",
+        "bbox": [
+          88,
+          737,
+          509,
+          784
+        ],
+        "pos": [
+          1791,
+          2023
+        ]
+      },
+      {
+        "index": 17,
+        "class": "page-footer",
+        "bbox": [
+          285,
+          801,
+          291,
+          810
+        ],
+        "pos": [
+          2023,
+          2023
+        ]
+      }
+    ],
+    "text": "Mindful that it is the right of indigenous and local communities to identify the rightful holders of their traditional knowledge associated with genetic resources, within their communities, \n\nFurther recognizing the unique circumstances where traditional knowledge associated with genetic resources is held in countries, which may be oral, documented or in other forms, reflecting a rich cultural heritage relevant for conservation and sustainable use of biological diversity, \n\nNoting the United Nations Declaration on the Rights of Indigenous Peoples, and Affirming that nothing in this Protocol shall be construed as diminishing or extinguishing the existing rights of indigenous and local communities, \n\nHave agreed as follows: \n\nArticle \n\n# 1 \n\n## **OBJECTIVE** \n\nTe objective of this Protocol is the fair and equitable sharing of the benefits arising from the utilization of genetic resources, including by appropriate access to genetic resources and by appropriate transfer of relevant technologies, taking into account all rights over those resources and to technologies, and by appropriate funding, thereby contributing to the conservation of biological diversity and the sustainable use of its components. \n\n### Article \n\n2 \n\n## **USE OF TERMS** \n\nTe terms defined in Article 2 of the Convention shall apply to this Protocol. In addition, for the purposes of this Protocol: \n\n- (a) “Conference of the Parties” means the Conference of the Parties to the Convention; \n\n- (b) “Convention” means the Convention on Biological Diversity; \n\n- (c) “Utilization of genetic resources” means to conduct research and development on the genetic and/or biochemical composition of genetic resources, including through the application of biotechnology as defined in Article 2 of the Convention; \n\n- (d) “Biotechnology” as defined in Article 2 of the Convention means any technological application that uses biological systems, living organisms, or derivatives thereof, to make or modify products or processes for specific use; \n\n"
+  },
+  {
+    "metadata": {
+      "format": "PDF 1.4",
+      "title": "",
+      "author": "",
+      "subject": "",
+      "keywords": "",
+      "creator": "",
+      "producer": "iLovePDF",
+      "creationDate": "",
+      "modDate": "D:20260902200638Z",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "D:\\CODING\\Hackathons\\SIH\\SIH-scraped-data\\raw_data\\raw_pdfs\\07_international_biodiversity_OR_ip\\nagoya-protocol-en.pdf",
+      "page_count": 25,
+      "page_number": 5
+    },
+    "toc_items": [],
+    "page_boxes": [
+      {
+        "index": 0,
+        "class": "page-header",
+        "bbox": [
+          305,
+          35,
+          529,
+          47
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 1,
+        "class": "list-item",
+        "bbox": [
+          107,
+          82,
+          524,
+          129
+        ],
+        "pos": [
+          0,
+          216
+        ]
+      },
+      {
+        "index": 2,
+        "class": "text",
+        "bbox": [
+          288,
+          153,
+          327,
+          164
+        ],
+        "pos": [
+          216,
+          226
+        ]
+      },
+      {
+        "index": 3,
+        "class": "text",
+        "bbox": [
+          297,
+          169,
+          318,
+          192
+        ],
+        "pos": [
+          226,
+          230
+        ]
+      },
+      {
+        "index": 4,
+        "class": "section-header",
+        "bbox": [
+          284,
+          197,
+          330,
+          208
+        ],
+        "pos": [
+          230,
+          245
+        ]
+      },
+      {
+        "index": 5,
+        "class": "text",
+        "bbox": [
+          85,
+          223,
+          529,
+          302
+        ],
+        "pos": [
+          245,
+          602
+        ]
+      },
+      {
+        "index": 6,
+        "class": "text",
+        "bbox": [
+          288,
+          327,
+          327,
+          338
+        ],
+        "pos": [
+          602,
+          612
+        ]
+      },
+      {
+        "index": 7,
+        "class": "text",
+        "bbox": [
+          297,
+          342,
+          318,
+          365
+        ],
+        "pos": [
+          612,
+          616
+        ]
+      },
+      {
+        "index": 8,
+        "class": "section-header",
+        "bbox": [
+          178,
+          370,
+          446,
+          382
+        ],
+        "pos": [
+          616,
+          657
+        ]
+      },
+      {
+        "index": 9,
+        "class": "section-header",
+        "bbox": [
+          192,
+          387,
+          423,
+          398
+        ],
+        "pos": [
+          657,
+          693
+        ]
+      },
+      {
+        "index": 10,
+        "class": "text",
+        "bbox": [
+          85,
+          412,
+          524,
+          489
+        ],
+        "pos": [
+          693,
+          1071
+        ]
+      },
+      {
+        "index": 11,
+        "class": "text",
+        "bbox": [
+          85,
+          500,
+          520,
+          564
+        ],
+        "pos": [
+          1071,
+          1384
+        ]
+      },
+      {
+        "index": 12,
+        "class": "text",
+        "bbox": [
+          85,
+          572,
+          529,
+          652
+        ],
+        "pos": [
+          1384,
+          1788
+        ]
+      },
+      {
+        "index": 13,
+        "class": "text",
+        "bbox": [
+          85,
+          660,
+          521,
+          769
+        ],
+        "pos": [
+          1788,
+          2287
+        ]
+      },
+      {
+        "index": 14,
+        "class": "page-footer",
+        "bbox": [
+          304,
+          801,
+          311,
+          810
+        ],
+        "pos": [
+          2287,
+          2287
+        ]
+      }
+    ],
+    "text": "- (e) “Derivative” means a naturally occurring biochemical compound resulting from the genetic expression or metabolism of biological or genetic resources, even if it does not contain functional units of heredity. \n\nArticle \n\n3 \n\n## **SCOPE** \n\nTis Protocol shall apply to genetic resources within the scope of Article 15 of the Convention and to the benefits arising from the utilization of such resources. Tis Protocol shall also apply to traditional knowledge associated with genetic resources within the scope of the Convention and to the benefits arising from the utilization of such knowledge. \n\nArticle \n\n4 \n\n## **RELATIONSHIP WITH INTERNATIONAL** \n\n## **AGREEMENTS AND INSTRUMENTS** \n\n1. Te provisions of this Protocol shall not affect the rights and obligations of any Party deriving from any existing international agreement, except where the exercise of those rights and obligations would cause a serious damage or threat to biological diversity. Tis paragraph is not intended to create a hierarchy between this Protocol and other international instruments. \n\n2.  Nothing in this Protocol shall prevent the Parties from developing and implementing other relevant international agreements, including other specialized access and benefit-sharing agreements, provided that they are supportive of and do not run counter to the objectives of the Convention and this Protocol. \n\n3. Tis Protocol shall be implemented in a mutually supportive manner with other international instruments relevant to this Protocol. Due regard should be paid to useful and relevant ongoing work or practices under such international instruments and relevant international organizations, provided that they are supportive of and do not run counter to the objectives of the Convention and this Protocol. \n\n4.  Tis Protocol is the instrument for the implementation of the access and benefit-sharing provisions of the Convention. Where a specialized international access and benefit-sharing instrument applies that is consistent with, and does not run counter to the objectives of the Convention and this Protocol, this Protocol does not apply for the Party or Parties to the specialized instrument in respect of the specific genetic resource covered by and for the purpose of the specialized instrument. \n\n"
+  },
+  {
+    "metadata": {
+      "format": "PDF 1.4",
+      "title": "",
+      "author": "",
+      "subject": "",
+      "keywords": "",
+      "creator": "",
+      "producer": "iLovePDF",
+      "creationDate": "",
+      "modDate": "D:20260902200638Z",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "D:\\CODING\\Hackathons\\SIH\\SIH-scraped-data\\raw_data\\raw_pdfs\\07_international_biodiversity_OR_ip\\nagoya-protocol-en.pdf",
+      "page_count": 25,
+      "page_number": 6
+    },
+    "toc_items": [],
+    "page_boxes": [
+      {
+        "index": 0,
+        "class": "page-header",
+        "bbox": [
+          66,
+          35,
+          290,
+          47
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 1,
+        "class": "section-header",
+        "bbox": [
+          269,
+          82,
+          307,
+          93
+        ],
+        "pos": [
+          0,
+          14
+        ]
+      },
+      {
+        "index": 2,
+        "class": "section-header",
+        "bbox": [
+          277,
+          98,
+          299,
+          121
+        ],
+        "pos": [
+          14,
+          20
+        ]
+      },
+      {
+        "index": 3,
+        "class": "section-header",
+        "bbox": [
+          151,
+          126,
+          425,
+          140
+        ],
+        "pos": [
+          20,
+          64
+        ]
+      },
+      {
+        "index": 4,
+        "class": "text",
+        "bbox": [
+          66,
+          152,
+          495,
+          248
+        ],
+        "pos": [
+          64,
+          522
+        ]
+      },
+      {
+        "index": 5,
+        "class": "text",
+        "bbox": [
+          66,
+          256,
+          504,
+          352
+        ],
+        "pos": [
+          522,
+          1001
+        ]
+      },
+      {
+        "index": 6,
+        "class": "text",
+        "bbox": [
+          66,
+          361,
+          512,
+          391
+        ],
+        "pos": [
+          1001,
+          1124
+        ]
+      },
+      {
+        "index": 7,
+        "class": "text",
+        "bbox": [
+          66,
+          399,
+          496,
+          426
+        ],
+        "pos": [
+          1124,
+          1242
+        ]
+      },
+      {
+        "index": 8,
+        "class": "text",
+        "bbox": [
+          66,
+          438,
+          506,
+          517
+        ],
+        "pos": [
+          1242,
+          1599
+        ]
+      },
+      {
+        "index": 9,
+        "class": "text",
+        "bbox": [
+          269,
+          542,
+          307,
+          553
+        ],
+        "pos": [
+          1599,
+          1609
+        ]
+      },
+      {
+        "index": 10,
+        "class": "section-header",
+        "bbox": [
+          277,
+          557,
+          299,
+          580
+        ],
+        "pos": [
+          1609,
+          1615
+        ]
+      },
+      {
+        "index": 11,
+        "class": "section-header",
+        "bbox": [
+          174,
+          585,
+          402,
+          597
+        ],
+        "pos": [
+          1615,
+          1652
+        ]
+      },
+      {
+        "index": 12,
+        "class": "text",
+        "bbox": [
+          66,
+          611,
+          498,
+          707
+        ],
+        "pos": [
+          1652,
+          2120
+        ]
+      },
+      {
+        "index": 13,
+        "class": "text",
+        "bbox": [
+          66,
+          716,
+          511,
+          762
+        ],
+        "pos": [
+          2120,
+          2354
+        ]
+      },
+      {
+        "index": 14,
+        "class": "page-footer",
+        "bbox": [
+          285,
+          801,
+          291,
+          810
+        ],
+        "pos": [
+          2354,
+          2354
+        ]
+      }
+    ],
+    "text": "### Article \n\n# 5 \n\n## **FAIR AND EQUITABLE BENEFIT-SHARING** \n\n1. In accordance with Article 15, paragraphs 3 and 7 of the Convention, benefits arising from the utilization of genetic resources as well as subsequent applications and commercialization shall be shared in a fair and equitable way with the Party providing such resources that is the country of origin of such resources or a Party that has acquired the genetic resources in accordance with the Convention. Such sharing shall be upon mutually agreed terms. \n\n2. Each Party shall take legislative, administrative or policy measures, as appropriate, with the aim of ensuring that benefits arising from the utilization of genetic resources that are held by indigenous and local communities, in accordance with domestic legislation regarding the established rights of these indigenous and local communities over these genetic resources, are shared in a fair and equitable way with the communities concerned, based on mutually agreed terms. \n\n3. To implement paragraph 1 above, each Party shall take legislative, administrative or policy measures, as appropriate. \n\n4. Benefits may include monetary and non-monetary benefits, including but not limited to those listed in the Annex. \n\n5. Each Party shall take legislative, administrative or policy measures, as appropriate, in order that the benefits arising from the utilization of traditional knowledge associated with genetic resources are shared in a fair and equitable way with indigenous and local communities holding such knowledge. Such sharing shall be upon mutually agreed terms. \n\nArticle \n\n# 6 \n\n## **ACCESS TO GENETIC RESOURCES** \n\n1. In the exercise of sovereign rights over natural resources, and subject to domestic access and benefit-sharing legislation or regulatory requirements, access to genetic resources for their utilization shall be subject to the prior informed consent of the Party providing such resources that is the country of origin of such resources or a Party that has acquired the genetic resources in accordance with the Convention, unless otherwise determined by that Party. \n\n2.  In accordance with domestic law, each Party shall take measures, as appropriate, with the aim of ensuring that the prior informed consent or approval and involvement of indigenous and local communities is obtained for access to \n\n"
+  },
+  {
+    "metadata": {
+      "format": "PDF 1.4",
+      "title": "",
+      "author": "",
+      "subject": "",
+      "keywords": "",
+      "creator": "",
+      "producer": "iLovePDF",
+      "creationDate": "",
+      "modDate": "D:20260902200638Z",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "D:\\CODING\\Hackathons\\SIH\\SIH-scraped-data\\raw_data\\raw_pdfs\\07_international_biodiversity_OR_ip\\nagoya-protocol-en.pdf",
+      "page_count": 25,
+      "page_number": 7
+    },
+    "toc_items": [],
+    "page_boxes": [
+      {
+        "index": 0,
+        "class": "page-header",
+        "bbox": [
+          305,
+          35,
+          529,
+          47
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 1,
+        "class": "text",
+        "bbox": [
+          85,
+          82,
+          510,
+          109
+        ],
+        "pos": [
+          0,
+          93
+        ]
+      },
+      {
+        "index": 2,
+        "class": "text",
+        "bbox": [
+          85,
+          121,
+          529,
+          151
+        ],
+        "pos": [
+          93,
+          266
+        ]
+      },
+      {
+        "index": 3,
+        "class": "list-item",
+        "bbox": [
+          107,
+          159,
+          528,
+          189
+        ],
+        "pos": [
+          266,
+          413
+        ]
+      },
+      {
+        "index": 4,
+        "class": "list-item",
+        "bbox": [
+          107,
+          198,
+          493,
+          228
+        ],
+        "pos": [
+          413,
+          510
+        ]
+      },
+      {
+        "index": 5,
+        "class": "list-item",
+        "bbox": [
+          107,
+          236,
+          472,
+          250
+        ],
+        "pos": [
+          510,
+          583
+        ]
+      },
+      {
+        "index": 6,
+        "class": "list-item",
+        "bbox": [
+          107,
+          258,
+          532,
+          288
+        ],
+        "pos": [
+          583,
+          746
+        ]
+      },
+      {
+        "index": 7,
+        "class": "list-item",
+        "bbox": [
+          107,
+          297,
+          523,
+          360
+        ],
+        "pos": [
+          746,
+          1012
+        ]
+      },
+      {
+        "index": 8,
+        "class": "list-item",
+        "bbox": [
+          107,
+          368,
+          504,
+          430
+        ],
+        "pos": [
+          1012,
+          1247
+        ]
+      },
+      {
+        "index": 9,
+        "class": "list-item",
+        "bbox": [
+          107,
+          440,
+          499,
+          485
+        ],
+        "pos": [
+          1247,
+          1414
+        ]
+      },
+      {
+        "index": 10,
+        "class": "list-item",
+        "bbox": [
+          133,
+          495,
+          306,
+          508
+        ],
+        "pos": [
+          1414,
+          1455
+        ]
+      },
+      {
+        "index": 11,
+        "class": "list-item",
+        "bbox": [
+          133,
+          517,
+          527,
+          547
+        ],
+        "pos": [
+          1455,
+          1548
+        ]
+      },
+      {
+        "index": 12,
+        "class": "list-item",
+        "bbox": [
+          133,
+          555,
+          414,
+          569
+        ],
+        "pos": [
+          1548,
+          1611
+        ]
+      },
+      {
+        "index": 13,
+        "class": "list-item",
+        "bbox": [
+          133,
+          577,
+          394,
+          591
+        ],
+        "pos": [
+          1611,
+          1670
+        ]
+      },
+      {
+        "index": 14,
+        "class": "text",
+        "bbox": [
+          288,
+          615,
+          327,
+          654
+        ],
+        "pos": [
+          1670,
+          1682
+        ]
+      },
+      {
+        "index": 15,
+        "class": "section-header",
+        "bbox": [
+          124,
+          659,
+          499,
+          671
+        ],
+        "pos": [
+          1682,
+          1734
+        ]
+      },
+      {
+        "index": 16,
+        "class": "section-header",
+        "bbox": [
+          214,
+          676,
+          400,
+          687
+        ],
+        "pos": [
+          1734,
+          1766
+        ]
+      },
+      {
+        "index": 17,
+        "class": "text",
+        "bbox": [
+          85,
+          701,
+          532,
+          781
+        ],
+        "pos": [
+          1766,
+          2157
+        ]
+      },
+      {
+        "index": 18,
+        "class": "page-footer",
+        "bbox": [
+          304,
+          801,
+          311,
+          810
+        ],
+        "pos": [
+          2157,
+          2157
+        ]
+      }
+    ],
+    "text": "genetic resources where they have the established right to grant access to such resources. \n\n3. Pursuant to paragraph 1 above, each Party requiring prior informed consent shall take the necessary legislative, administrative or policy measures, as appropriate, to: \n\n- (a) Provide for legal certainty, clarity and transparency of their domestic access and benefit-sharing legislation or regulatory requirements; \n\n- (b)  Provide for fair and non-arbitrary rules and procedures on accessing genetic resources; \n\n- (c)  Provide information on how to apply for prior informed consent; \n\n- (d) Provide for a clear and transparent written decision by a competent national authority, in a cost-effective manner and within a reasonable period of time; \n\n- (e)  Provide for the issuance at the time of access of a permit or its equivalent as evidence of the decision to grant prior informed consent and of the establishment of mutually agreed terms, and notify the Access and Benefitsharing Clearing-House accordingly; \n\n- (f) Where applicable, and subject to domestic legislation, set out criteria and/or processes for obtaining prior informed consent or approval and involvement of indigenous and local communities for access to genetic resources; and \n\n- (g) Establish clear rules and procedures for requiring and establishing mutually agreed terms. Such terms shall be set out in writing and may include, inter alia: \n\n   - (i)  A dispute settlement clause; \n\n   - (ii) Terms on benefit-sharing, including in relation to intellectual property rights; \n\n   - (iii)  Terms on subsequent third-party use, if any; and \n\n   - (iv)  Terms on changes of intent, where applicable. \n\nArticle 7 \n\n## **ACCESS TO TRADITIONAL KNOWLEDGE ASSOCIATED** \n\n## **WITH GENETIC RESOURCES** \n\nIn accordance with domestic law, each Party shall take measures, as appropriate, with the aim of ensuring that traditional knowledge associated with genetic resources that is held by indigenous and local communities is accessed with the prior and informed consent or approval and involvement of these indigenous and local communities, and that mutually agreed terms have been established. \n\n"
+  },
+  {
+    "metadata": {
+      "format": "PDF 1.4",
+      "title": "",
+      "author": "",
+      "subject": "",
+      "keywords": "",
+      "creator": "",
+      "producer": "iLovePDF",
+      "creationDate": "",
+      "modDate": "D:20260902200638Z",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "D:\\CODING\\Hackathons\\SIH\\SIH-scraped-data\\raw_data\\raw_pdfs\\07_international_biodiversity_OR_ip\\nagoya-protocol-en.pdf",
+      "page_count": 25,
+      "page_number": 8
+    },
+    "toc_items": [],
+    "page_boxes": [
+      {
+        "index": 0,
+        "class": "page-header",
+        "bbox": [
+          66,
+          35,
+          290,
+          47
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 1,
+        "class": "page-header",
+        "bbox": [
+          277,
+          98,
+          299,
+          121
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 2,
+        "class": "section-header",
+        "bbox": [
+          269,
+          82,
+          307,
+          93
+        ],
+        "pos": [
+          0,
+          14
+        ]
+      },
+      {
+        "index": 3,
+        "class": "section-header",
+        "bbox": [
+          195,
+          126,
+          381,
+          137
+        ],
+        "pos": [
+          14,
+          46
+        ]
+      },
+      {
+        "index": 4,
+        "class": "text",
+        "bbox": [
+          66,
+          152,
+          505,
+          182
+        ],
+        "pos": [
+          46,
+          178
+        ]
+      },
+      {
+        "index": 5,
+        "class": "list-item",
+        "bbox": [
+          88,
+          190,
+          511,
+          270
+        ],
+        "pos": [
+          178,
+          523
+        ]
+      },
+      {
+        "index": 6,
+        "class": "list-item",
+        "bbox": [
+          88,
+          278,
+          512,
+          374
+        ],
+        "pos": [
+          523,
+          981
+        ]
+      },
+      {
+        "index": 7,
+        "class": "list-item",
+        "bbox": [
+          88,
+          383,
+          504,
+          413
+        ],
+        "pos": [
+          981,
+          1102
+        ]
+      },
+      {
+        "index": 8,
+        "class": "text",
+        "bbox": [
+          269,
+          437,
+          307,
+          448
+        ],
+        "pos": [
+          1102,
+          1112
+        ]
+      },
+      {
+        "index": 9,
+        "class": "section-header",
+        "bbox": [
+          277,
+          453,
+          299,
+          476
+        ],
+        "pos": [
+          1112,
+          1118
+        ]
+      },
+      {
+        "index": 10,
+        "class": "section-header",
+        "bbox": [
+          83,
+          481,
+          493,
+          492
+        ],
+        "pos": [
+          1118,
+          1176
+        ]
+      },
+      {
+        "index": 11,
+        "class": "text",
+        "bbox": [
+          66,
+          506,
+          501,
+          553
+        ],
+        "pos": [
+          1176,
+          1386
+        ]
+      },
+      {
+        "index": 12,
+        "class": "text",
+        "bbox": [
+          269,
+          577,
+          307,
+          588
+        ],
+        "pos": [
+          1386,
+          1396
+        ]
+      },
+      {
+        "index": 13,
+        "class": "section-header",
+        "bbox": [
+          268,
+          593,
+          308,
+          616
+        ],
+        "pos": [
+          1396,
+          1403
+        ]
+      },
+      {
+        "index": 14,
+        "class": "section-header",
+        "bbox": [
+          96,
+          621,
+          480,
+          633
+        ],
+        "pos": [
+          1403,
+          1458
+        ]
+      },
+      {
+        "index": 15,
+        "class": "text",
+        "bbox": [
+          66,
+          647,
+          511,
+          776
+        ],
+        "pos": [
+          1458,
+          2089
+        ]
+      },
+      {
+        "index": 16,
+        "class": "page-footer",
+        "bbox": [
+          285,
+          801,
+          291,
+          810
+        ],
+        "pos": [
+          2089,
+          2089
+        ]
+      }
+    ],
+    "text": "### Article \n\n## **SPECIAL CONSIDERATIONS** \n\nIn the development and implementation of its access and benefit-sharing legislation or regulatory requirements, each Party shall: \n\n- (a) Create conditions to promote and encourage research which contributes to the conservation and sustainable use of biological diversity, particularly in developing countries, including through simplified measures on access for non-commercial research purposes, taking into account the need to address a change of intent for such research; \n\n- (b)  Pay due regard to cases of present or imminent emergencies that threaten or damage human, animal or plant health, as determined nationally or internationally. Parties may take into consideration the need for expeditious access to genetic resources and expeditious fair and equitable sharing of benefits arising out of the use of such genetic resources, including access to affordable treatments by those in need, especially in developing countries; \n\n- (c)  Consider the importance of genetic resources for food and agriculture and their special role for food security. \n\nArticle \n\n# 9 \n\n## **CONTRIBUTION TO CONSERVATION AND SUSTAINABLE USE** \n\nTe Parties shall encourage users and providers to direct benefits arising from the utilization of genetic resources towards the conservation of biological diversity and the sustainable use of its components. \n\nArticle \n\n# 10 \n\n## **GLOBAL MULTILATERAL BENEFIT-SHARING MECHANISM** \n\nParties shall consider the need for and modalities of a global multilateral benefitsharing mechanism to address the fair and equitable sharing of benefits derived from the utilization of genetic resources and traditional knowledge associated with genetic resources that occur in transboundary situations or for which it is not possible to grant or obtain prior informed consent. Te benefits shared by users of genetic resources and traditional knowledge associated with genetic resources through this mechanism shall be used to support the conservation of biological diversity and the sustainable use of its components globally. \n\n"
+  },
+  {
+    "metadata": {
+      "format": "PDF 1.4",
+      "title": "",
+      "author": "",
+      "subject": "",
+      "keywords": "",
+      "creator": "",
+      "producer": "iLovePDF",
+      "creationDate": "",
+      "modDate": "D:20260902200638Z",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "D:\\CODING\\Hackathons\\SIH\\SIH-scraped-data\\raw_data\\raw_pdfs\\07_international_biodiversity_OR_ip\\nagoya-protocol-en.pdf",
+      "page_count": 25,
+      "page_number": 9
+    },
+    "toc_items": [],
+    "page_boxes": [
+      {
+        "index": 0,
+        "class": "page-header",
+        "bbox": [
+          305,
+          35,
+          529,
+          47
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 1,
+        "class": "section-header",
+        "bbox": [
+          288,
+          82,
+          327,
+          93
+        ],
+        "pos": [
+          0,
+          14
+        ]
+      },
+      {
+        "index": 2,
+        "class": "section-header",
+        "bbox": [
+          288,
+          98,
+          326,
+          121
+        ],
+        "pos": [
+          14,
+          21
+        ]
+      },
+      {
+        "index": 3,
+        "class": "section-header",
+        "bbox": [
+          190,
+          126,
+          424,
+          137
+        ],
+        "pos": [
+          21,
+          56
+        ]
+      },
+      {
+        "index": 4,
+        "class": "text",
+        "bbox": [
+          85,
+          152,
+          522,
+          215
+        ],
+        "pos": [
+          56,
+          359
+        ]
+      },
+      {
+        "index": 5,
+        "class": "text",
+        "bbox": [
+          85,
+          223,
+          514,
+          303
+        ],
+        "pos": [
+          359,
+          705
+        ]
+      },
+      {
+        "index": 6,
+        "class": "text",
+        "bbox": [
+          288,
+          327,
+          327,
+          365
+        ],
+        "pos": [
+          705,
+          718
+        ]
+      },
+      {
+        "index": 7,
+        "class": "section-header",
+        "bbox": [
+          145,
+          371,
+          479,
+          382
+        ],
+        "pos": [
+          718,
+          765
+        ]
+      },
+      {
+        "index": 8,
+        "class": "section-header",
+        "bbox": [
+          235,
+          387,
+          379,
+          399
+        ],
+        "pos": [
+          765,
+          792
+        ]
+      },
+      {
+        "index": 9,
+        "class": "text",
+        "bbox": [
+          85,
+          413,
+          520,
+          476
+        ],
+        "pos": [
+          792,
+          1096
+        ]
+      },
+      {
+        "index": 10,
+        "class": "text",
+        "bbox": [
+          85,
+          484,
+          528,
+          581
+        ],
+        "pos": [
+          1096,
+          1527
+        ]
+      },
+      {
+        "index": 11,
+        "class": "text",
+        "bbox": [
+          85,
+          589,
+          521,
+          619
+        ],
+        "pos": [
+          1527,
+          1683
+        ]
+      },
+      {
+        "index": 12,
+        "class": "list-item",
+        "bbox": [
+          109,
+          627,
+          499,
+          674
+        ],
+        "pos": [
+          1683,
+          1889
+        ]
+      },
+      {
+        "index": 13,
+        "class": "list-item",
+        "bbox": [
+          109,
+          682,
+          513,
+          729
+        ],
+        "pos": [
+          1889,
+          2090
+        ]
+      },
+      {
+        "index": 14,
+        "class": "list-item",
+        "bbox": [
+          107,
+          737,
+          528,
+          768
+        ],
+        "pos": [
+          2090,
+          2233
+        ]
+      },
+      {
+        "index": 15,
+        "class": "page-footer",
+        "bbox": [
+          304,
+          801,
+          311,
+          810
+        ],
+        "pos": [
+          2233,
+          2233
+        ]
+      }
+    ],
+    "text": "### Article \n\n# 11 \n\n## **TRANSBOUNDARY COOPERATION** \n\n1. In instances where the same genetic resources are found in situ within the territory of more than one Party, those Parties shall endeavour to cooperate, as appropriate, with the involvement of indigenous and local communities concerned, where applicable, with a view to implementing this Protocol. \n\n2. Where the same traditional knowledge associated with genetic resources is shared by one or more indigenous and local communities in several Parties, those Parties shall endeavour to cooperate, as appropriate, with the involvement of the indigenous and local communities concerned, with a view to implementing the objective of this Protocol. \n\nArticle 12 \n\n## **TRADITIONAL KNOWLEDGE ASSOCIATED WITH** \n\n## **GENETIC RESOURCES** \n\n1. In implementing their obligations under this Protocol, Parties shall in accordance with domestic law take into consideration indigenous and local communities’ customary laws, community protocols and procedures, as applicable, with respect to traditional knowledge associated with genetic resources. \n\n2. Parties, with the effective participation of the indigenous and local communities concerned, shall establish mechanisms to inform potential users of traditional knowledge associated with genetic resources about their obligations, including measures as made available through the Access and Benefit-sharing Clearing-House for access to and fair and equitable sharing of benefits arising from the utilization of such knowledge. \n\n3. Parties shall endeavour to support, as appropriate, the development by indigenous and local communities, including women within these communities, of: \n\n- (a) Community protocols in relation to access to traditional knowledge associated with genetic resources and the fair and equitable sharing of benefits arising out of the utilization of such knowledge; \n\n- (b) Minimum requirements for mutually agreed terms to secure the fair and equitable sharing of benefits arising from the utilization of traditional knowledge associated with genetic resources; and \n\n- (c) Model contractual clauses for benefit-sharing arising from the utilization of traditional knowledge associated with genetic resources. \n\n"
+  },
+  {
+    "metadata": {
+      "format": "PDF 1.4",
+      "title": "",
+      "author": "",
+      "subject": "",
+      "keywords": "",
+      "creator": "",
+      "producer": "iLovePDF",
+      "creationDate": "",
+      "modDate": "D:20260902200638Z",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "D:\\CODING\\Hackathons\\SIH\\SIH-scraped-data\\raw_data\\raw_pdfs\\07_international_biodiversity_OR_ip\\nagoya-protocol-en.pdf",
+      "page_count": 25,
+      "page_number": 10
+    },
+    "toc_items": [],
+    "page_boxes": [
+      {
+        "index": 0,
+        "class": "page-header",
+        "bbox": [
+          66,
+          35,
+          290,
+          47
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 1,
+        "class": "text",
+        "bbox": [
+          66,
+          82,
+          488,
+          145
+        ],
+        "pos": [
+          0,
+          290
+        ]
+      },
+      {
+        "index": 2,
+        "class": "text",
+        "bbox": [
+          269,
+          170,
+          307,
+          181
+        ],
+        "pos": [
+          290,
+          300
+        ]
+      },
+      {
+        "index": 3,
+        "class": "section-header",
+        "bbox": [
+          268,
+          185,
+          308,
+          209
+        ],
+        "pos": [
+          300,
+          307
+        ]
+      },
+      {
+        "index": 4,
+        "class": "section-header",
+        "bbox": [
+          135,
+          213,
+          450,
+          225
+        ],
+        "pos": [
+          307,
+          352
+        ]
+      },
+      {
+        "index": 5,
+        "class": "title",
+        "bbox": [
+          202,
+          230,
+          374,
+          241
+        ],
+        "pos": [
+          352,
+          382
+        ]
+      },
+      {
+        "index": 6,
+        "class": "list-item",
+        "bbox": [
+          66,
+          256,
+          500,
+          286
+        ],
+        "pos": [
+          382,
+          537
+        ]
+      },
+      {
+        "index": 7,
+        "class": "list-item",
+        "bbox": [
+          88,
+          294,
+          507,
+          341
+        ],
+        "pos": [
+          537,
+          730
+        ]
+      },
+      {
+        "index": 8,
+        "class": "list-item",
+        "bbox": [
+          88,
+          349,
+          507,
+          429
+        ],
+        "pos": [
+          730,
+          1062
+        ]
+      },
+      {
+        "index": 9,
+        "class": "list-item",
+        "bbox": [
+          88,
+          437,
+          491,
+          464
+        ],
+        "pos": [
+          1062,
+          1190
+        ]
+      },
+      {
+        "index": 10,
+        "class": "text",
+        "bbox": [
+          66,
+          476,
+          459,
+          489
+        ],
+        "pos": [
+          1190,
+          1271
+        ]
+      },
+      {
+        "index": 11,
+        "class": "text",
+        "bbox": [
+          66,
+          498,
+          508,
+          610
+        ],
+        "pos": [
+          1271,
+          1772
+        ]
+      },
+      {
+        "index": 12,
+        "class": "text",
+        "bbox": [
+          66,
+          619,
+          496,
+          649
+        ],
+        "pos": [
+          1772,
+          1893
+        ]
+      },
+      {
+        "index": 13,
+        "class": "text",
+        "bbox": [
+          66,
+          657,
+          511,
+          770
+        ],
+        "pos": [
+          1893,
+          2485
+        ]
+      },
+      {
+        "index": 14,
+        "class": "page-footer",
+        "bbox": [
+          282,
+          801,
+          294,
+          810
+        ],
+        "pos": [
+          2485,
+          2485
+        ]
+      }
+    ],
+    "text": "4. Parties, in their implementation of this Protocol, shall, as far as possible, not restrict the customary use and exchange of genetic resources and associated traditional knowledge within and amongst indigenous and local communities in accordance with the objectives of the Convention. \n\nArticle \n\n# 13 \n\n## **NATIONAL FOCAL POINTS AND COMPETENT** \n\n## **NATIONAL AUTHORITIES** \n\n1. Each Party shall designate a national focal point on access and benefit-sharing. Te national focal point shall make information available as follows: \n\n   - (a) For applicants seeking access to genetic resources, information on procedures for obtaining prior informed consent and establishing mutually agreed terms, including benefit-sharing; \n\n   - (b)  For applicants seeking access to traditional knowledge associated with genetic resources, where possible, information on procedures for obtaining prior informed consent or approval and involvement, as appropriate, of indigenous and local communities and establishing mutually agreed terms including benefit-sharing; and \n\n   - (c)  Information on competent national authorities, relevant indigenous and local communities and relevant stakeholders. \n\nTe national focal point shall be responsible for liaison with the Secretariat. \n\n2. Each Party shall designate one or more competent national authorities on access and benefit-sharing. Competent national authorities shall, in accordance with applicable national legislative, administrative or policy measures, be responsible for granting access or, as applicable, issuing written evidence that access requirements have been met and be responsible for advising on applicable procedures and requirements for obtaining prior informed consent and entering into mutually agreed terms. \n\n3. A Party may designate a single entity to fulfil the functions of both focal point and competent national authority. \n\n4. Each Party shall, no later than the date of entry into force of this Protocol for it, notify the Secretariat of the contact information of its national focal point and its competent national authority or authorities. Where a Party designates more than one competent national authority, it shall convey to the Secretariat, with its notification thereof, relevant information on the respective responsibilities of those authorities. Where applicable, such information shall, at a minimum, specify which competent authority is responsible for the genetic resources sought. Each Party shall \n\n"
+  },
+  {
+    "metadata": {
+      "format": "PDF 1.4",
+      "title": "",
+      "author": "",
+      "subject": "",
+      "keywords": "",
+      "creator": "",
+      "producer": "iLovePDF",
+      "creationDate": "",
+      "modDate": "D:20260902200638Z",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "D:\\CODING\\Hackathons\\SIH\\SIH-scraped-data\\raw_data\\raw_pdfs\\07_international_biodiversity_OR_ip\\nagoya-protocol-en.pdf",
+      "page_count": 25,
+      "page_number": 11
+    },
+    "toc_items": [],
+    "page_boxes": [
+      {
+        "index": 0,
+        "class": "page-header",
+        "bbox": [
+          305,
+          35,
+          529,
+          47
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 1,
+        "class": "text",
+        "bbox": [
+          85,
+          82,
+          532,
+          129
+        ],
+        "pos": [
+          0,
+          199
+        ]
+      },
+      {
+        "index": 2,
+        "class": "text",
+        "bbox": [
+          85,
+          137,
+          522,
+          167
+        ],
+        "pos": [
+          199,
+          346
+        ]
+      },
+      {
+        "index": 3,
+        "class": "text",
+        "bbox": [
+          288,
+          192,
+          327,
+          203
+        ],
+        "pos": [
+          346,
+          356
+        ]
+      },
+      {
+        "index": 4,
+        "class": "section-header",
+        "bbox": [
+          288,
+          208,
+          327,
+          230
+        ],
+        "pos": [
+          356,
+          363
+        ]
+      },
+      {
+        "index": 5,
+        "class": "section-header",
+        "bbox": [
+          119,
+          235,
+          505,
+          247
+        ],
+        "pos": [
+          363,
+          418
+        ]
+      },
+      {
+        "index": 6,
+        "class": "section-header",
+        "bbox": [
+          204,
+          252,
+          411,
+          263
+        ],
+        "pos": [
+          418,
+          451
+        ]
+      },
+      {
+        "index": 7,
+        "class": "text",
+        "bbox": [
+          85,
+          278,
+          519,
+          357
+        ],
+        "pos": [
+          451,
+          836
+        ]
+      },
+      {
+        "index": 8,
+        "class": "text",
+        "bbox": [
+          85,
+          366,
+          529,
+          442
+        ],
+        "pos": [
+          836,
+          1213
+        ]
+      },
+      {
+        "index": 9,
+        "class": "list-item",
+        "bbox": [
+          107,
+          454,
+          456,
+          484
+        ],
+        "pos": [
+          1213,
+          1304
+        ]
+      },
+      {
+        "index": 10,
+        "class": "list-item",
+        "bbox": [
+          107,
+          492,
+          519,
+          521
+        ],
+        "pos": [
+          1304,
+          1409
+        ]
+      },
+      {
+        "index": 11,
+        "class": "list-item",
+        "bbox": [
+          107,
+          531,
+          512,
+          577
+        ],
+        "pos": [
+          1409,
+          1588
+        ]
+      },
+      {
+        "index": 12,
+        "class": "list-item",
+        "bbox": [
+          85,
+          586,
+          464,
+          599
+        ],
+        "pos": [
+          1588,
+          1663
+        ]
+      },
+      {
+        "index": 13,
+        "class": "list-item",
+        "bbox": [
+          107,
+          608,
+          520,
+          636
+        ],
+        "pos": [
+          1663,
+          1773
+        ]
+      },
+      {
+        "index": 14,
+        "class": "list-item",
+        "bbox": [
+          107,
+          646,
+          271,
+          659
+        ],
+        "pos": [
+          1773,
+          1811
+        ]
+      },
+      {
+        "index": 15,
+        "class": "list-item",
+        "bbox": [
+          107,
+          668,
+          464,
+          682
+        ],
+        "pos": [
+          1811,
+          1884
+        ]
+      },
+      {
+        "index": 16,
+        "class": "list-item",
+        "bbox": [
+          107,
+          690,
+          324,
+          704
+        ],
+        "pos": [
+          1884,
+          1932
+        ]
+      },
+      {
+        "index": 17,
+        "class": "list-item",
+        "bbox": [
+          85,
+          712,
+          527,
+          775
+        ],
+        "pos": [
+          1932,
+          2235
+        ]
+      },
+      {
+        "index": 18,
+        "class": "page-footer",
+        "bbox": [
+          301,
+          801,
+          313,
+          810
+        ],
+        "pos": [
+          2235,
+          2235
+        ]
+      }
+    ],
+    "text": "forthwith notify the Secretariat of any changes in the designation of its national focal point or in the contact information or responsibilities of its competent national authority or authorities. \n\n5. Te Secretariat shall make information received pursuant to paragraph 4 above available through the Access and Benefit-sharing Clearing-House. \n\nArticle \n\n# 14 \n\n## **THE ACCESS AND BENEFIT-SHARING CLEARING-HOUSE** \n\n## **AND INFORMATION-SHARING** \n\n1. An Access and Benefit-sharing Clearing-House is hereby established as part of the clearing-house mechanism under Article 18, paragraph 3, of the Convention. It shall serve as a means for sharing of information related to access and benefitsharing. In particular, it shall provide access to information made available by each Party relevant to the implementation of this Protocol. \n\n2. Without prejudice to the protection of confidential information, each Party shall make available to the Access and Benefit-sharing Clearing-House any information required by this Protocol, as well as information required pursuant to the decisions taken by the Conference of the Parties serving as the meeting of the Parties to this Protocol. Te information shall include: \n\n   - (a)  Legislative, administrative and policy measures on access and benefit-sharing; \n\n   - (b)  Information on the national focal point and competent national authority or authorities; and \n\n   - (c) Permits or their equivalent issued at the time of access as evidence of the decision to grant prior informed consent and of the establishment of mutually agreed terms. \n\n3. Additional information, if available and as appropriate, may include: \n\n   - (a) Relevant competent authorities of indigenous and local communities, and information as so decided; \n\n   - (b) Model contractual clauses; \n\n   - (c) Methods and tools developed to monitor genetic resources; and \n\n   - (d) Codes of conduct and best practices. \n\n4.  Te modalities of the operation of the Access and Benefit-sharing ClearingHouse, including reports on its activities, shall be considered and decided upon by the Conference of the Parties serving as the meeting of the Parties to this Protocol at its first meeting, and kept under review thereafer. \n\n"
+  },
+  {
+    "metadata": {
+      "format": "PDF 1.4",
+      "title": "",
+      "author": "",
+      "subject": "",
+      "keywords": "",
+      "creator": "",
+      "producer": "iLovePDF",
+      "creationDate": "",
+      "modDate": "D:20260902200638Z",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "D:\\CODING\\Hackathons\\SIH\\SIH-scraped-data\\raw_data\\raw_pdfs\\07_international_biodiversity_OR_ip\\nagoya-protocol-en.pdf",
+      "page_count": 25,
+      "page_number": 12
+    },
+    "toc_items": [],
+    "page_boxes": [
+      {
+        "index": 0,
+        "class": "page-header",
+        "bbox": [
+          66,
+          35,
+          290,
+          47
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 1,
+        "class": "text",
+        "bbox": [
+          268,
+          82,
+          308,
+          121
+        ],
+        "pos": [
+          0,
+          13
+        ]
+      },
+      {
+        "index": 2,
+        "class": "section-header",
+        "bbox": [
+          131,
+          126,
+          454,
+          156
+        ],
+        "pos": [
+          13,
+          96
+        ]
+      },
+      {
+        "index": 3,
+        "class": "section-header",
+        "bbox": [
+          208,
+          159,
+          368,
+          170
+        ],
+        "pos": [
+          96,
+          125
+        ]
+      },
+      {
+        "index": 4,
+        "class": "list-item",
+        "bbox": [
+          66,
+          185,
+          507,
+          281
+        ],
+        "pos": [
+          125,
+          536
+        ]
+      },
+      {
+        "index": 5,
+        "class": "text",
+        "bbox": [
+          66,
+          289,
+          512,
+          333
+        ],
+        "pos": [
+          536,
+          710
+        ]
+      },
+      {
+        "index": 6,
+        "class": "text",
+        "bbox": [
+          66,
+          344,
+          487,
+          391
+        ],
+        "pos": [
+          710,
+          921
+        ]
+      },
+      {
+        "index": 7,
+        "class": "text",
+        "bbox": [
+          269,
+          415,
+          307,
+          426
+        ],
+        "pos": [
+          921,
+          931
+        ]
+      },
+      {
+        "index": 8,
+        "class": "section-header",
+        "bbox": [
+          268,
+          431,
+          308,
+          454
+        ],
+        "pos": [
+          931,
+          938
+        ]
+      },
+      {
+        "index": 9,
+        "class": "section-header",
+        "bbox": [
+          94,
+          459,
+          482,
+          520
+        ],
+        "pos": [
+          938,
+          1100
+        ]
+      },
+      {
+        "index": 10,
+        "class": "text",
+        "bbox": [
+          66,
+          534,
+          512,
+          660
+        ],
+        "pos": [
+          1100,
+          1683
+        ]
+      },
+      {
+        "index": 11,
+        "class": "text",
+        "bbox": [
+          66,
+          671,
+          489,
+          718
+        ],
+        "pos": [
+          1683,
+          1860
+        ]
+      },
+      {
+        "index": 12,
+        "class": "text",
+        "bbox": [
+          66,
+          727,
+          487,
+          773
+        ],
+        "pos": [
+          1860,
+          2071
+        ]
+      },
+      {
+        "index": 13,
+        "class": "page-footer",
+        "bbox": [
+          282,
+          801,
+          294,
+          810
+        ],
+        "pos": [
+          2071,
+          2071
+        ]
+      }
+    ],
+    "text": "Article 15 \n\n## **COMPLIANCE WITH DOMESTIC LEGISLATION OR REGULATORY REQUIREMENTS ON ACCESS** \n\n## **AND BENEFIT-SHARING** \n\n1. Each Party shall take appropriate, effective and proportionate legislative, administrative or policy measures to provide that genetic resources utilized within its jurisdiction have been accessed in accordance with prior informed consent and that mutually agreed terms have been established, as required by the domestic access and benefit-sharing legislation or regulatory requirements of the other Party. \n\n2. Parties shall take appropriate, effective and proportionate measures to address situations of non-compliance with measures adopted in accordance with paragraph 1 above. \n\n3. Parties shall, as far as possible and as appropriate, cooperate in cases of alleged violation of domestic access and benefit-sharing legislation or regulatory requirements referred to in paragraph 1 above. \n\nArticle \n\n# 16 \n\n## **COMPLIANCE WITH DOMESTIC LEGISLATION OR REGULATORY REQUIREMENTS ON ACCESS AND BENEFITSHARING FOR TRADITIONAL KNOWLEDGE ASSOCIATED WITH GENETIC RESOURCES** \n\n1. Each Party shall take appropriate, effective and proportionate legislative, administrative or policy measures, as appropriate, to provide that traditional knowledge associated with genetic resources utilized within their jurisdiction has been accessed in accordance with prior informed consent or approval and involvement of indigenous and local communities and that mutually agreed terms have been established, as required by domestic access and benefit-sharing legislation or regulatory requirements of the other Party where such indigenous and local communities are located. \n\n2. Each Party shall take appropriate, effective and proportionate measures to address situations of non-compliance with measures adopted in accordance with paragraph 1 above. \n\n3. Parties shall, as far as possible and as appropriate, cooperate in cases of alleged violation of domestic access and benefit-sharing legislation or regulatory requirements referred to in paragraph 1 above. \n\n"
+  },
+  {
+    "metadata": {
+      "format": "PDF 1.4",
+      "title": "",
+      "author": "",
+      "subject": "",
+      "keywords": "",
+      "creator": "",
+      "producer": "iLovePDF",
+      "creationDate": "",
+      "modDate": "D:20260902200638Z",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "D:\\CODING\\Hackathons\\SIH\\SIH-scraped-data\\raw_data\\raw_pdfs\\07_international_biodiversity_OR_ip\\nagoya-protocol-en.pdf",
+      "page_count": 25,
+      "page_number": 13
+    },
+    "toc_items": [],
+    "page_boxes": [
+      {
+        "index": 0,
+        "class": "page-header",
+        "bbox": [
+          305,
+          35,
+          529,
+          47
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 1,
+        "class": "section-header",
+        "bbox": [
+          288,
+          82,
+          327,
+          93
+        ],
+        "pos": [
+          0,
+          14
+        ]
+      },
+      {
+        "index": 2,
+        "class": "section-header",
+        "bbox": [
+          288,
+          98,
+          327,
+          121
+        ],
+        "pos": [
+          14,
+          21
+        ]
+      },
+      {
+        "index": 3,
+        "class": "section-header",
+        "bbox": [
+          114,
+          126,
+          501,
+          137
+        ],
+        "pos": [
+          21,
+          78
+        ]
+      },
+      {
+        "index": 4,
+        "class": "text",
+        "bbox": [
+          85,
+          152,
+          531,
+          195
+        ],
+        "pos": [
+          78,
+          266
+        ]
+      },
+      {
+        "index": 5,
+        "class": "list-item",
+        "bbox": [
+          107,
+          207,
+          421,
+          220
+        ],
+        "pos": [
+          266,
+          330
+        ]
+      },
+      {
+        "index": 6,
+        "class": "list-item",
+        "bbox": [
+          133,
+          229,
+          525,
+          292
+        ],
+        "pos": [
+          330,
+          612
+        ]
+      },
+      {
+        "index": 7,
+        "class": "list-item",
+        "bbox": [
+          133,
+          300,
+          525,
+          380
+        ],
+        "pos": [
+          612,
+          969
+        ]
+      },
+      {
+        "index": 8,
+        "class": "list-item",
+        "bbox": [
+          133,
+          388,
+          523,
+          484
+        ],
+        "pos": [
+          969,
+          1328
+        ]
+      },
+      {
+        "index": 9,
+        "class": "list-item",
+        "bbox": [
+          133,
+          493,
+          515,
+          572
+        ],
+        "pos": [
+          1328,
+          1666
+        ]
+      },
+      {
+        "index": 10,
+        "class": "list-item",
+        "bbox": [
+          107,
+          581,
+          526,
+          627
+        ],
+        "pos": [
+          1666,
+          1879
+        ]
+      },
+      {
+        "index": 11,
+        "class": "list-item",
+        "bbox": [
+          107,
+          636,
+          511,
+          649
+        ],
+        "pos": [
+          1879,
+          1959
+        ]
+      },
+      {
+        "index": 12,
+        "class": "text",
+        "bbox": [
+          85,
+          658,
+          516,
+          704
+        ],
+        "pos": [
+          1959,
+          2187
+        ]
+      },
+      {
+        "index": 13,
+        "class": "text",
+        "bbox": [
+          85,
+          713,
+          527,
+          759
+        ],
+        "pos": [
+          2187,
+          2440
+        ]
+      },
+      {
+        "index": 14,
+        "class": "page-footer",
+        "bbox": [
+          301,
+          801,
+          313,
+          810
+        ],
+        "pos": [
+          2440,
+          2440
+        ]
+      }
+    ],
+    "text": "### Article \n\n# 17 \n\n## **MONITORING THE UTILIZATION OF GENETIC RESOURCES** \n\n1. To support compliance, each Party shall take measures, as appropriate, to monitor and to enhance transparency about the utilization of genetic resources. Such measures shall include: \n\n- (a)  Te designation of one or more checkpoints, as follows: \n\n   - (i) Designated checkpoints would collect or receive, as appropriate, relevant information related to prior informed consent, to the source of the genetic resource, to the establishment of mutually agreed terms, and/or to the utilization of genetic resources, as appropriate; \n\n   - (ii) Each Party shall, as appropriate and depending on the particular characteristics of a designated checkpoint, require users of genetic resources to provide the information specified in the above paragraph at a designated checkpoint. Each Party shall take appropriate, effective and proportionate measures to address situations of non-compliance; \n\n   - (iii) Such information, including from internationally recognized certificates of compliance where they are available, will, without prejudice to the protection of confidential information, be provided to relevant national authorities, to the Party providing prior informed consent and to the Access and Benefit-sharing Clearing-House, as appropriate; \n\n   - (iv) Checkpoints must be effective and should have functions relevant to implementation of this subparagraph (a). Tey should be relevant to the utilization of genetic resources, or to the collection of relevant information at, inter alia, any stage of research, development, innovation, pre-commercialization or commercialization. \n\n- (b)  Encouraging users and providers of genetic resources to include provisions in mutually agreed terms to share information on the implementation of such terms, including through reporting requirements; and \n\n- (c)  Encouraging the use of cost-effective communication tools and systems. \n\n2. A permit or its equivalent issued in accordance with Article 6, paragraph 3 (e) and made available to the Access and Benefit-sharing Clearing-House, shall constitute an internationally recognized certificate of compliance. \n\n3. An internationally recognized certificate of compliance shall serve as evidence that the genetic resource which it covers has been accessed in accordance with prior informed consent and that mutually agreed terms have been established, as required \n\n"
+  },
+  {
+    "metadata": {
+      "format": "PDF 1.4",
+      "title": "",
+      "author": "",
+      "subject": "",
+      "keywords": "",
+      "creator": "",
+      "producer": "iLovePDF",
+      "creationDate": "",
+      "modDate": "D:20260902200638Z",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "D:\\CODING\\Hackathons\\SIH\\SIH-scraped-data\\raw_data\\raw_pdfs\\07_international_biodiversity_OR_ip\\nagoya-protocol-en.pdf",
+      "page_count": 25,
+      "page_number": 14
+    },
+    "toc_items": [],
+    "page_boxes": [
+      {
+        "index": 0,
+        "class": "page-header",
+        "bbox": [
+          66,
+          35,
+          290,
+          47
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 1,
+        "class": "text",
+        "bbox": [
+          66,
+          82,
+          505,
+          112
+        ],
+        "pos": [
+          0,
+          131
+        ]
+      },
+      {
+        "index": 2,
+        "class": "list-item",
+        "bbox": [
+          66,
+          121,
+          471,
+          151
+        ],
+        "pos": [
+          131,
+          269
+        ]
+      },
+      {
+        "index": 3,
+        "class": "list-item",
+        "bbox": [
+          88,
+          159,
+          205,
+          173
+        ],
+        "pos": [
+          269,
+          299
+        ]
+      },
+      {
+        "index": 4,
+        "class": "list-item",
+        "bbox": [
+          88,
+          181,
+          201,
+          194
+        ],
+        "pos": [
+          299,
+          328
+        ]
+      },
+      {
+        "index": 5,
+        "class": "list-item",
+        "bbox": [
+          88,
+          203,
+          184,
+          217
+        ],
+        "pos": [
+          328,
+          352
+        ]
+      },
+      {
+        "index": 6,
+        "class": "list-item",
+        "bbox": [
+          88,
+          225,
+          293,
+          239
+        ],
+        "pos": [
+          352,
+          401
+        ]
+      },
+      {
+        "index": 7,
+        "class": "list-item",
+        "bbox": [
+          88,
+          247,
+          462,
+          261
+        ],
+        "pos": [
+          401,
+          476
+        ]
+      },
+      {
+        "index": 8,
+        "class": "list-item",
+        "bbox": [
+          88,
+          269,
+          433,
+          283
+        ],
+        "pos": [
+          476,
+          551
+        ]
+      },
+      {
+        "index": 9,
+        "class": "list-item",
+        "bbox": [
+          88,
+          291,
+          420,
+          305
+        ],
+        "pos": [
+          551,
+          620
+        ]
+      },
+      {
+        "index": 10,
+        "class": "list-item",
+        "bbox": [
+          88,
+          313,
+          431,
+          327
+        ],
+        "pos": [
+          620,
+          691
+        ]
+      },
+      {
+        "index": 11,
+        "class": "list-item",
+        "bbox": [
+          88,
+          335,
+          331,
+          348
+        ],
+        "pos": [
+          691,
+          740
+        ]
+      },
+      {
+        "index": 12,
+        "class": "text",
+        "bbox": [
+          268,
+          373,
+          308,
+          412
+        ],
+        "pos": [
+          740,
+          753
+        ]
+      },
+      {
+        "index": 13,
+        "class": "section-header",
+        "bbox": [
+          125,
+          417,
+          451,
+          429
+        ],
+        "pos": [
+          753,
+          800
+        ]
+      },
+      {
+        "index": 14,
+        "class": "list-item",
+        "bbox": [
+          66,
+          443,
+          488,
+          506
+        ],
+        "pos": [
+          800,
+          1113
+        ]
+      },
+      {
+        "index": 15,
+        "class": "list-item",
+        "bbox": [
+          88,
+          514,
+          509,
+          528
+        ],
+        "pos": [
+          1113,
+          1201
+        ]
+      },
+      {
+        "index": 16,
+        "class": "list-item",
+        "bbox": [
+          88,
+          536,
+          251,
+          550
+        ],
+        "pos": [
+          1201,
+          1238
+        ]
+      },
+      {
+        "index": 17,
+        "class": "list-item",
+        "bbox": [
+          88,
+          558,
+          505,
+          572
+        ],
+        "pos": [
+          1238,
+          1327
+        ]
+      },
+      {
+        "index": 18,
+        "class": "list-item",
+        "bbox": [
+          66,
+          580,
+          510,
+          627
+        ],
+        "pos": [
+          1327,
+          1546
+        ]
+      },
+      {
+        "index": 19,
+        "class": "list-item",
+        "bbox": [
+          66,
+          635,
+          437,
+          649
+        ],
+        "pos": [
+          1546,
+          1620
+        ]
+      },
+      {
+        "index": 20,
+        "class": "list-item",
+        "bbox": [
+          88,
+          657,
+          227,
+          671
+        ],
+        "pos": [
+          1620,
+          1654
+        ]
+      },
+      {
+        "index": 21,
+        "class": "list-item",
+        "bbox": [
+          88,
+          679,
+          453,
+          709
+        ],
+        "pos": [
+          1654,
+          1781
+        ]
+      },
+      {
+        "index": 22,
+        "class": "list-item",
+        "bbox": [
+          66,
+          718,
+          512,
+          761
+        ],
+        "pos": [
+          1781,
+          1974
+        ]
+      },
+      {
+        "index": 23,
+        "class": "page-footer",
+        "bbox": [
+          282,
+          801,
+          294,
+          810
+        ],
+        "pos": [
+          1974,
+          1974
+        ]
+      }
+    ],
+    "text": "by the domestic access and benefit-sharing legislation or regulatory requirements of the Party providing prior informed consent. \n\n4. Te internationally recognized certificate of compliance shall contain the following minimum information when it is not confidential: \n\n   - (a) Issuing authority; \n\n   - (b) Date of issuance; \n\n   - (c) Te provider; \n\n   - (d) Unique identifier of the certificate; \n\n   - (e) Te person or entity to whom prior informed consent was granted; \n\n   - (f) Subject-matter or genetic resources covered by the certificate; \n\n   - (g) Confirmation that mutually agreed terms were established; \n\n   - (h)  Confirmation that prior informed consent was obtained; and \n\n   - (i) Commercial and/or non-commercial use. \n\nArticle 18 \n\n## **COMPLIANCE WITH MUTUALLY AGREED TERMS** \n\n1. In the implementation of Article 6, paragraph 3 (g) (i) and Article 7, each Party shall encourage providers and users of genetic resources and/or traditional knowledge associated with genetic resources to include provisions in mutually agreed terms to cover, where appropriate, dispute resolution including: \n\n   - (a) Te jurisdiction to which they will subject any dispute resolution processes; \n\n   - (b) Te applicable law; and/or \n\n   - (c) Options for alternative dispute resolution, such as mediation or arbitration. \n\n2. Each Party shall ensure that an opportunity to seek recourse is available under their legal systems, consistent with applicable jurisdictional requirements, in cases of disputes arising from mutually agreed terms. \n\n3. Each Party shall take effective measures, as appropriate, regarding: \n\n   - (a) Access to justice; and \n\n   - (b) Te utilization of mechanisms regarding mutual recognition and enforcement of foreign judgments and arbitral awards. \n\n4.  Te effectiveness of this article shall be reviewed by the Conference of the Parties serving as the meeting of the Parties to this Protocol in accordance with Article 31 of this Protocol. \n\n"
+  },
+  {
+    "metadata": {
+      "format": "PDF 1.4",
+      "title": "",
+      "author": "",
+      "subject": "",
+      "keywords": "",
+      "creator": "",
+      "producer": "iLovePDF",
+      "creationDate": "",
+      "modDate": "D:20260902200638Z",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "D:\\CODING\\Hackathons\\SIH\\SIH-scraped-data\\raw_data\\raw_pdfs\\07_international_biodiversity_OR_ip\\nagoya-protocol-en.pdf",
+      "page_count": 25,
+      "page_number": 15
+    },
+    "toc_items": [],
+    "page_boxes": [
+      {
+        "index": 0,
+        "class": "page-header",
+        "bbox": [
+          305,
+          35,
+          529,
+          47
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 1,
+        "class": "section-header",
+        "bbox": [
+          288,
+          82,
+          327,
+          93
+        ],
+        "pos": [
+          0,
+          14
+        ]
+      },
+      {
+        "index": 2,
+        "class": "section-header",
+        "bbox": [
+          287,
+          98,
+          327,
+          121
+        ],
+        "pos": [
+          14,
+          21
+        ]
+      },
+      {
+        "index": 3,
+        "class": "section-header",
+        "bbox": [
+          193,
+          126,
+          422,
+          137
+        ],
+        "pos": [
+          21,
+          56
+        ]
+      },
+      {
+        "index": 4,
+        "class": "text",
+        "bbox": [
+          85,
+          152,
+          522,
+          182
+        ],
+        "pos": [
+          56,
+          222
+        ]
+      },
+      {
+        "index": 5,
+        "class": "text",
+        "bbox": [
+          85,
+          190,
+          524,
+          234
+        ],
+        "pos": [
+          222,
+          410
+        ]
+      },
+      {
+        "index": 6,
+        "class": "text",
+        "bbox": [
+          288,
+          261,
+          327,
+          272
+        ],
+        "pos": [
+          410,
+          420
+        ]
+      },
+      {
+        "index": 7,
+        "class": "section-header",
+        "bbox": [
+          287,
+          277,
+          328,
+          300
+        ],
+        "pos": [
+          420,
+          427
+        ]
+      },
+      {
+        "index": 8,
+        "class": "section-header",
+        "bbox": [
+          190,
+          305,
+          434,
+          318
+        ],
+        "pos": [
+          427,
+          465
+        ]
+      },
+      {
+        "index": 9,
+        "class": "section-header",
+        "bbox": [
+          156,
+          321,
+          459,
+          334
+        ],
+        "pos": [
+          465,
+          510
+        ]
+      },
+      {
+        "index": 10,
+        "class": "text",
+        "bbox": [
+          85,
+          347,
+          508,
+          394
+        ],
+        "pos": [
+          510,
+          712
+        ]
+      },
+      {
+        "index": 11,
+        "class": "text",
+        "bbox": [
+          85,
+          402,
+          525,
+          465
+        ],
+        "pos": [
+          712,
+          1024
+        ]
+      },
+      {
+        "index": 12,
+        "class": "text",
+        "bbox": [
+          288,
+          489,
+          327,
+          500
+        ],
+        "pos": [
+          1024,
+          1034
+        ]
+      },
+      {
+        "index": 13,
+        "class": "section-header",
+        "bbox": [
+          287,
+          505,
+          327,
+          528
+        ],
+        "pos": [
+          1034,
+          1041
+        ]
+      },
+      {
+        "index": 14,
+        "class": "section-header",
+        "bbox": [
+          233,
+          533,
+          382,
+          545
+        ],
+        "pos": [
+          1041,
+          1068
+        ]
+      },
+      {
+        "index": 15,
+        "class": "text",
+        "bbox": [
+          85,
+          559,
+          517,
+          605
+        ],
+        "pos": [
+          1068,
+          1306
+        ]
+      },
+      {
+        "index": 16,
+        "class": "list-item",
+        "bbox": [
+          107,
+          614,
+          396,
+          627
+        ],
+        "pos": [
+          1306,
+          1367
+        ]
+      },
+      {
+        "index": 17,
+        "class": "list-item",
+        "bbox": [
+          107,
+          636,
+          532,
+          664
+        ],
+        "pos": [
+          1367,
+          1463
+        ]
+      },
+      {
+        "index": 18,
+        "class": "list-item",
+        "bbox": [
+          107,
+          674,
+          506,
+          703
+        ],
+        "pos": [
+          1463,
+          1580
+        ]
+      },
+      {
+        "index": 19,
+        "class": "list-item",
+        "bbox": [
+          107,
+          713,
+          456,
+          726
+        ],
+        "pos": [
+          1580,
+          1649
+        ]
+      },
+      {
+        "index": 20,
+        "class": "page-footer",
+        "bbox": [
+          301,
+          801,
+          313,
+          810
+        ],
+        "pos": [
+          1649,
+          1649
+        ]
+      }
+    ],
+    "text": "### Article \n\n# 19 \n\n## **MODEL CONTRACTUAL CLAUSES** \n\n1.  Each Party shall encourage, as appropriate, the development, update and use of sectoral and cross-sectoral model contractual clauses for mutually agreed terms. \n\n2. Te Conference of the Parties serving as the meeting of the Parties to this Protocol shall periodically take stock of the use of sectoral and cross-sectoral model contractual clauses. \n\nArticle \n\n# 20 \n\n## **CODES OF CONDUCT, GUIDELINES** \n\n## **AND BEST PRACTICES AND/OR STANDARDS** \n\n1. Each Party shall encourage, as appropriate, the development, update and use of voluntary codes of conduct, guidelines and best practices and/or standards in relation to access and benefit-sharing. \n\n2. Te Conference of the Parties serving as the meeting of the Parties to this Protocol shall periodically take stock of the use of voluntary codes of conduct, guidelines and best practices and/or standards and consider the adoption of specific codes of conduct, guidelines and best practices and/or standards. \n\nArticle \n\n# 21 \n\n## **AWARENESS-RAISING** \n\nEach Party shall take measures to raise awareness of the importance of genetic resources and traditional knowledge associated with genetic resources, and related access and benefit-sharing issues. Such measures may include, inter alia: \n\n- (a) Promotion of this Protocol, including its objective; \n\n- (b) Organization of meetings of indigenous and local communities and relevant stakeholders; \n\n- (c) Establishment and maintenance of a help desk for indigenous and local communities and relevant stakeholders; \n\n- (d) Information dissemination through a national clearing-house; \n\n"
+  },
+  {
+    "metadata": {
+      "format": "PDF 1.4",
+      "title": "",
+      "author": "",
+      "subject": "",
+      "keywords": "",
+      "creator": "",
+      "producer": "iLovePDF",
+      "creationDate": "",
+      "modDate": "D:20260902200638Z",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "D:\\CODING\\Hackathons\\SIH\\SIH-scraped-data\\raw_data\\raw_pdfs\\07_international_biodiversity_OR_ip\\nagoya-protocol-en.pdf",
+      "page_count": 25,
+      "page_number": 16
+    },
+    "toc_items": [],
+    "page_boxes": [
+      {
+        "index": 0,
+        "class": "page-header",
+        "bbox": [
+          66,
+          35,
+          290,
+          47
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 1,
+        "class": "list-item",
+        "bbox": [
+          88,
+          82,
+          496,
+          127
+        ],
+        "pos": [
+          0,
+          177
+        ]
+      },
+      {
+        "index": 2,
+        "class": "list-item",
+        "bbox": [
+          88,
+          137,
+          462,
+          167
+        ],
+        "pos": [
+          177,
+          277
+        ]
+      },
+      {
+        "index": 3,
+        "class": "list-item",
+        "bbox": [
+          88,
+          176,
+          502,
+          222
+        ],
+        "pos": [
+          277,
+          464
+        ]
+      },
+      {
+        "index": 4,
+        "class": "list-item",
+        "bbox": [
+          88,
+          231,
+          445,
+          261
+        ],
+        "pos": [
+          464,
+          590
+        ]
+      },
+      {
+        "index": 5,
+        "class": "list-item",
+        "bbox": [
+          88,
+          269,
+          498,
+          296
+        ],
+        "pos": [
+          590,
+          691
+        ]
+      },
+      {
+        "index": 6,
+        "class": "text",
+        "bbox": [
+          269,
+          324,
+          307,
+          335
+        ],
+        "pos": [
+          691,
+          701
+        ]
+      },
+      {
+        "index": 7,
+        "class": "section-header",
+        "bbox": [
+          268,
+          339,
+          309,
+          362
+        ],
+        "pos": [
+          701,
+          708
+        ]
+      },
+      {
+        "index": 8,
+        "class": "section-header",
+        "bbox": [
+          253,
+          367,
+          323,
+          379
+        ],
+        "pos": [
+          708,
+          726
+        ]
+      },
+      {
+        "index": 9,
+        "class": "text",
+        "bbox": [
+          66,
+          393,
+          503,
+          522
+        ],
+        "pos": [
+          726,
+          1363
+        ]
+      },
+      {
+        "index": 10,
+        "class": "text",
+        "bbox": [
+          66,
+          531,
+          503,
+          610
+        ],
+        "pos": [
+          1363,
+          1724
+        ]
+      },
+      {
+        "index": 11,
+        "class": "text",
+        "bbox": [
+          66,
+          619,
+          511,
+          731
+        ],
+        "pos": [
+          1724,
+          2299
+        ]
+      },
+      {
+        "index": 12,
+        "class": "page-footer",
+        "bbox": [
+          282,
+          801,
+          294,
+          810
+        ],
+        "pos": [
+          2299,
+          2299
+        ]
+      }
+    ],
+    "text": "- (e) Promotion of voluntary codes of conduct, guidelines and best practices and/or standards in consultation with indigenous and local communities and relevant stakeholders; \n\n- (f) Promotion of, as appropriate, domestic, regional and international exchanges of experience; \n\n- (g) Education and training of users and providers of genetic resources and traditional knowledge associated with genetic resources about their access and benefit-sharing obligations; \n\n- (h) Involvement of indigenous and local communities and relevant stakeholders in the implementation of this Protocol; and \n\n- (i) Awareness-raising of community protocols and procedures of indigenous and local communities. \n\nArticle \n\n# 22 \n\n## **CAPACITY** \n\n1. Te Parties shall cooperate in the capacity-building, capacity development and strengthening of human resources and institutional capacities to effectively implement this Protocol in developing country Parties, in particular the least developed countries and small island developing States among them, and Parties with economies in transition, including through existing global, regional, subregional and national institutions and organizations. In this context, Parties should facilitate the involvement of indigenous and local communities and relevant stakeholders, including non-governmental organizations and the private sector. \n\n2. Te need of developing country Parties, in particular the least developed countries and small island developing States among them, and Parties with economies in transition for financial resources in accordance with the relevant provisions of the Convention shall be taken fully into account for capacity-building and development to implement this Protocol. \n\n3. As a basis for appropriate measures in relation to the implementation of this Protocol, developing country Parties, in particular the least developed countries and small island developing States among them, and Parties with economies in transition should identify their national capacity needs and priorities through national capacity self-assessments. In doing so, such Parties should support the capacity needs and priorities of indigenous and local communities and relevant stakeholders, as identified by them, emphasizing the capacity needs and priorities of women. \n\n"
+  },
+  {
+    "metadata": {
+      "format": "PDF 1.4",
+      "title": "",
+      "author": "",
+      "subject": "",
+      "keywords": "",
+      "creator": "",
+      "producer": "iLovePDF",
+      "creationDate": "",
+      "modDate": "D:20260902200638Z",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "D:\\CODING\\Hackathons\\SIH\\SIH-scraped-data\\raw_data\\raw_pdfs\\07_international_biodiversity_OR_ip\\nagoya-protocol-en.pdf",
+      "page_count": 25,
+      "page_number": 17
+    },
+    "toc_items": [],
+    "page_boxes": [
+      {
+        "index": 0,
+        "class": "page-header",
+        "bbox": [
+          305,
+          35,
+          529,
+          47
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 1,
+        "class": "text",
+        "bbox": [
+          85,
+          82,
+          488,
+          112
+        ],
+        "pos": [
+          0,
+          140
+        ]
+      },
+      {
+        "index": 2,
+        "class": "list-item",
+        "bbox": [
+          107,
+          121,
+          531,
+          134
+        ],
+        "pos": [
+          140,
+          229
+        ]
+      },
+      {
+        "index": 3,
+        "class": "list-item",
+        "bbox": [
+          107,
+          143,
+          369,
+          156
+        ],
+        "pos": [
+          229,
+          286
+        ]
+      },
+      {
+        "index": 4,
+        "class": "list-item",
+        "bbox": [
+          107,
+          165,
+          494,
+          195
+        ],
+        "pos": [
+          286,
+          432
+        ]
+      },
+      {
+        "index": 5,
+        "class": "list-item",
+        "bbox": [
+          107,
+          203,
+          519,
+          233
+        ],
+        "pos": [
+          432,
+          561
+        ]
+      },
+      {
+        "index": 6,
+        "class": "list-item",
+        "bbox": [
+          85,
+          242,
+          510,
+          255
+        ],
+        "pos": [
+          561,
+          643
+        ]
+      },
+      {
+        "index": 7,
+        "class": "list-item",
+        "bbox": [
+          107,
+          264,
+          324,
+          277
+        ],
+        "pos": [
+          643,
+          691
+        ]
+      },
+      {
+        "index": 8,
+        "class": "list-item",
+        "bbox": [
+          107,
+          286,
+          490,
+          316
+        ],
+        "pos": [
+          691,
+          805
+        ]
+      },
+      {
+        "index": 9,
+        "class": "list-item",
+        "bbox": [
+          107,
+          324,
+          386,
+          338
+        ],
+        "pos": [
+          805,
+          861
+        ]
+      },
+      {
+        "index": 10,
+        "class": "list-item",
+        "bbox": [
+          107,
+          346,
+          505,
+          377
+        ],
+        "pos": [
+          861,
+          991
+        ]
+      },
+      {
+        "index": 11,
+        "class": "list-item",
+        "bbox": [
+          107,
+          385,
+          363,
+          398
+        ],
+        "pos": [
+          991,
+          1044
+        ]
+      },
+      {
+        "index": 12,
+        "class": "list-item",
+        "bbox": [
+          107,
+          407,
+          441,
+          421
+        ],
+        "pos": [
+          1044,
+          1114
+        ]
+      },
+      {
+        "index": 13,
+        "class": "list-item",
+        "bbox": [
+          107,
+          429,
+          531,
+          459
+        ],
+        "pos": [
+          1114,
+          1234
+        ]
+      },
+      {
+        "index": 14,
+        "class": "list-item",
+        "bbox": [
+          107,
+          467,
+          512,
+          514
+        ],
+        "pos": [
+          1234,
+          1405
+        ]
+      },
+      {
+        "index": 15,
+        "class": "list-item",
+        "bbox": [
+          107,
+          522,
+          532,
+          553
+        ],
+        "pos": [
+          1405,
+          1530
+        ]
+      },
+      {
+        "index": 16,
+        "class": "list-item",
+        "bbox": [
+          107,
+          561,
+          514,
+          624
+        ],
+        "pos": [
+          1530,
+          1800
+        ]
+      },
+      {
+        "index": 17,
+        "class": "text",
+        "bbox": [
+          85,
+          632,
+          526,
+          712
+        ],
+        "pos": [
+          1800,
+          2156
+        ]
+      },
+      {
+        "index": 18,
+        "class": "page-footer",
+        "bbox": [
+          301,
+          801,
+          313,
+          810
+        ],
+        "pos": [
+          2156,
+          2156
+        ]
+      }
+    ],
+    "text": "4. In support of the implementation of this Protocol, capacity-building and development may address, inter alia, the following key areas: \n\n   - (a)  Capacity to implement, and to comply with the obligations of, this Protocol; \n\n   - (b)  Capacity to negotiate mutually agreed terms; \n\n   - (c)  Capacity to develop, implement and enforce domestic legislative, administrative or policy measures on access and benefit-sharing; and \n\n   - (d)  Capacity of countries to develop their endogenous research capabilities to add value to their own genetic resources. \n\n5. Measures in accordance with paragraphs 1 to 4 above may include, inter alia: \n\n   - (a) Legal and institutional development; \n\n   - (b) Promotion of equity and fairness in negotiations, such as training to negotiate mutually agreed terms; \n\n   - (c) Te monitoring and enforcement of compliance; \n\n   - (d) Employment of best available communication tools and Internet-based systems for access and benefit-sharing activities; \n\n   - (e) Development and use of valuation methods; \n\n   - (f) Bioprospecting, associated research and taxonomic studies; \n\n   - (g) Technology transfer, and infrastructure and technical capacity to make such technology transfer sustainable; \n\n   - (h) Enhancement of the contribution of access and benefit-sharing activities to the conservation of biological diversity and the sustainable use of its components; \n\n   - (i) Special measures to increase the capacity of relevant stakeholders in relation to access and benefit-sharing; and \n\n   - (j) Special measures to increase the capacity of indigenous and local communities with emphasis on enhancing the capacity of women within those communities in relation to access to genetic resources and/or traditional knowledge associated with genetic resources. \n\n6. Information on capacity-building and development initiatives at national, regional and international levels, undertaken in accordance with paragraphs 1 to 5 above, should be provided to the Access and Benefit-sharing Clearing-House with a view to promoting synergy and coordination on capacity-building and development for access and benefit-sharing. \n\n"
+  },
+  {
+    "metadata": {
+      "format": "PDF 1.4",
+      "title": "",
+      "author": "",
+      "subject": "",
+      "keywords": "",
+      "creator": "",
+      "producer": "iLovePDF",
+      "creationDate": "",
+      "modDate": "D:20260902200638Z",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "D:\\CODING\\Hackathons\\SIH\\SIH-scraped-data\\raw_data\\raw_pdfs\\07_international_biodiversity_OR_ip\\nagoya-protocol-en.pdf",
+      "page_count": 25,
+      "page_number": 18
+    },
+    "toc_items": [],
+    "page_boxes": [
+      {
+        "index": 0,
+        "class": "page-header",
+        "bbox": [
+          66,
+          35,
+          290,
+          47
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 1,
+        "class": "section-header",
+        "bbox": [
+          268,
+          82,
+          308,
+          121
+        ],
+        "pos": [
+          0,
+          15
+        ]
+      },
+      {
+        "index": 2,
+        "class": "section-header",
+        "bbox": [
+          138,
+          126,
+          448,
+          139
+        ],
+        "pos": [
+          15,
+          59
+        ]
+      },
+      {
+        "index": 3,
+        "class": "section-header",
+        "bbox": [
+          218,
+          142,
+          358,
+          154
+        ],
+        "pos": [
+          59,
+          84
+        ]
+      },
+      {
+        "index": 4,
+        "class": "text",
+        "bbox": [
+          66,
+          168,
+          513,
+          377
+        ],
+        "pos": [
+          84,
+          1116
+        ]
+      },
+      {
+        "index": 5,
+        "class": "text",
+        "bbox": [
+          269,
+          404,
+          307,
+          415
+        ],
+        "pos": [
+          1116,
+          1126
+        ]
+      },
+      {
+        "index": 6,
+        "class": "section-header",
+        "bbox": [
+          267,
+          420,
+          309,
+          442
+        ],
+        "pos": [
+          1126,
+          1133
+        ]
+      },
+      {
+        "index": 7,
+        "class": "section-header",
+        "bbox": [
+          240,
+          448,
+          336,
+          459
+        ],
+        "pos": [
+          1133,
+          1154
+        ]
+      },
+      {
+        "index": 8,
+        "class": "text",
+        "bbox": [
+          66,
+          473,
+          504,
+          504
+        ],
+        "pos": [
+          1154,
+          1314
+        ]
+      },
+      {
+        "index": 9,
+        "class": "text",
+        "bbox": [
+          269,
+          528,
+          307,
+          539
+        ],
+        "pos": [
+          1314,
+          1324
+        ]
+      },
+      {
+        "index": 10,
+        "class": "section-header",
+        "bbox": [
+          267,
+          543,
+          309,
+          567
+        ],
+        "pos": [
+          1324,
+          1331
+        ]
+      },
+      {
+        "index": 11,
+        "class": "section-header",
+        "bbox": [
+          142,
+          572,
+          434,
+          583
+        ],
+        "pos": [
+          1331,
+          1374
+        ]
+      },
+      {
+        "index": 12,
+        "class": "text",
+        "bbox": [
+          66,
+          597,
+          497,
+          627
+        ],
+        "pos": [
+          1374,
+          1540
+        ]
+      },
+      {
+        "index": 13,
+        "class": "text",
+        "bbox": [
+          66,
+          636,
+          512,
+          663
+        ],
+        "pos": [
+          1540,
+          1639
+        ]
+      },
+      {
+        "index": 14,
+        "class": "text",
+        "bbox": [
+          66,
+          674,
+          498,
+          770
+        ],
+        "pos": [
+          1639,
+          2141
+        ]
+      },
+      {
+        "index": 15,
+        "class": "page-footer",
+        "bbox": [
+          282,
+          801,
+          294,
+          810
+        ],
+        "pos": [
+          2141,
+          2141
+        ]
+      }
+    ],
+    "text": "# Article 23 \n\n## **TECHNOLOGY TRANSFER, COLLABORATION** \n\n## **AND COOPERATION** \n\nIn accordance with Articles 15, 16, 18 and 19 of the Convention, the Parties shall collaborate and cooperate in technical and scientific research and development programmes, including biotechnological research activities, as a means to achieve the objective of this Protocol. Te Parties undertake to promote and encourage access to technology by, and transfer of technology to, developing country Parties, in particular the least developed countries and small island developing States among them, and Parties with economies in transition, in order to enable the development and strengthening of a sound and viable technological and scientific base for the attainment of the objectives of the Convention and this Protocol. Where possible and appropriate such collaborative activities shall take place in and with a Party or the Parties providing genetic resources that is the country or are the countries of origin of such resources or a Party or Parties that have acquired the genetic resources in accordance with the Convention. \n\nArticle \n\n# 24 \n\n## **NON-PARTIES** \n\nTe Parties shall encourage non-Parties to adhere to this Protocol and to contribute appropriate information to the Access and Benefit-sharing Clearing-House. \n\nArticle \n\n# 25 \n\n## **FINANCIAL MECHANISM AND RESOURCES** \n\n1.  In considering financial resources for the implementation of this Protocol, the Parties shall take into account the provisions of Article 20 of the Convention. \n\n2.  Te financial mechanism of the Convention shall be the financial mechanism for this Protocol. \n\n3.  Regarding the capacity-building and development referred to in Article 22 of this Protocol, the Conference of the Parties serving as the meeting of the Parties to this Protocol, in providing guidance with respect to the financial mechanism referred to in paragraph 2 above, for consideration by the Conference of the Parties, shall take into account the need of developing country Parties, in particular the least developed countries and small island developing States among them, and of Parties \n\n"
+  },
+  {
+    "metadata": {
+      "format": "PDF 1.4",
+      "title": "",
+      "author": "",
+      "subject": "",
+      "keywords": "",
+      "creator": "",
+      "producer": "iLovePDF",
+      "creationDate": "",
+      "modDate": "D:20260902200638Z",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "D:\\CODING\\Hackathons\\SIH\\SIH-scraped-data\\raw_data\\raw_pdfs\\07_international_biodiversity_OR_ip\\nagoya-protocol-en.pdf",
+      "page_count": 25,
+      "page_number": 19
+    },
+    "toc_items": [],
+    "page_boxes": [
+      {
+        "index": 0,
+        "class": "page-header",
+        "bbox": [
+          305,
+          35,
+          529,
+          47
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 1,
+        "class": "text",
+        "bbox": [
+          85,
+          82,
+          511,
+          126
+        ],
+        "pos": [
+          0,
+          181
+        ]
+      },
+      {
+        "index": 2,
+        "class": "text",
+        "bbox": [
+          85,
+          137,
+          520,
+          217
+        ],
+        "pos": [
+          181,
+          603
+        ]
+      },
+      {
+        "index": 3,
+        "class": "text",
+        "bbox": [
+          85,
+          225,
+          532,
+          272
+        ],
+        "pos": [
+          603,
+          849
+        ]
+      },
+      {
+        "index": 4,
+        "class": "text",
+        "bbox": [
+          85,
+          280,
+          532,
+          343
+        ],
+        "pos": [
+          849,
+          1145
+        ]
+      },
+      {
+        "index": 5,
+        "class": "text",
+        "bbox": [
+          287,
+          368,
+          328,
+          407
+        ],
+        "pos": [
+          1145,
+          1158
+        ]
+      },
+      {
+        "index": 6,
+        "class": "section-header",
+        "bbox": [
+          147,
+          412,
+          476,
+          423
+        ],
+        "pos": [
+          1158,
+          1208
+        ]
+      },
+      {
+        "index": 7,
+        "class": "section-header",
+        "bbox": [
+          150,
+          428,
+          464,
+          440
+        ],
+        "pos": [
+          1208,
+          1257
+        ]
+      },
+      {
+        "index": 8,
+        "class": "text",
+        "bbox": [
+          85,
+          454,
+          508,
+          481
+        ],
+        "pos": [
+          1257,
+          1352
+        ]
+      },
+      {
+        "index": 9,
+        "class": "text",
+        "bbox": [
+          85,
+          492,
+          528,
+          572
+        ],
+        "pos": [
+          1352,
+          1747
+        ]
+      },
+      {
+        "index": 10,
+        "class": "text",
+        "bbox": [
+          85,
+          580,
+          518,
+          657
+        ],
+        "pos": [
+          1747,
+          2084
+        ]
+      },
+      {
+        "index": 11,
+        "class": "text",
+        "bbox": [
+          85,
+          668,
+          509,
+          745
+        ],
+        "pos": [
+          2084,
+          2417
+        ]
+      },
+      {
+        "index": 12,
+        "class": "page-footer",
+        "bbox": [
+          301,
+          801,
+          313,
+          810
+        ],
+        "pos": [
+          2417,
+          2417
+        ]
+      }
+    ],
+    "text": "with economies in transition, for financial resources, as well as the capacity needs and priorities of indigenous and local communities, including women within these communities. \n\n4.  In the context of paragraph 1 above, the Parties shall also take into account the needs of the developing country Parties, in particular the least developed countries and small island developing States among them, and of the Parties with economies in transition, in their efforts to identify and implement their capacity-building and development requirements for the purposes of the implementation of this Protocol. \n\n5.  Te guidance to the financial mechanism of the Convention in relevant decisions of the Conference of the Parties, including those agreed before the adoption of this Protocol, shall apply, mutatis mutandis, to the provisions of this Article. \n\n6. Te developed country Parties may also provide, and the developing country Parties and the Parties with economies in transition avail themselves of, financial and other resources for the implementation of the provisions of this Protocol through bilateral, regional and multilateral channels. \n\nArticle 26 \n\n## **CONFERENCE OF THE PARTIES SERVING AS THE** \n\n## **MEETING OF THE PARTIES TO THIS PROTOCOL** \n\n1.  Te Conference of the Parties shall serve as the meeting of the Parties to this Protocol. \n\n2.  Parties to the Convention that are not Parties to this Protocol may participate as observers in the proceedings of any meeting of the Conference of the Parties serving as the meeting of the Parties to this Protocol. When the Conference of the Parties serves as the meeting of the Parties to this Protocol, decisions under this Protocol shall be taken only by those that are Parties to it. \n\n3.  When the Conference of the Parties serves as the meeting of the Parties to this Protocol, any member of the Bureau of the Conference of the Parties representing a Party to the Convention but, at that time, not a Party to this Protocol, shall be substituted by a member to be elected by and from among the Parties to this Protocol. \n\n4.  Te Conference of the Parties serving as the meeting of the Parties to this Protocol shall keep under regular review the implementation of this Protocol and shall make, within its mandate, the decisions necessary to promote its effective implementation. It shall perform the functions assigned to it by this Protocol and shall: \n\n"
+  },
+  {
+    "metadata": {
+      "format": "PDF 1.4",
+      "title": "",
+      "author": "",
+      "subject": "",
+      "keywords": "",
+      "creator": "",
+      "producer": "iLovePDF",
+      "creationDate": "",
+      "modDate": "D:20260902200638Z",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "D:\\CODING\\Hackathons\\SIH\\SIH-scraped-data\\raw_data\\raw_pdfs\\07_international_biodiversity_OR_ip\\nagoya-protocol-en.pdf",
+      "page_count": 25,
+      "page_number": 20
+    },
+    "toc_items": [],
+    "page_boxes": [
+      {
+        "index": 0,
+        "class": "page-header",
+        "bbox": [
+          66,
+          35,
+          290,
+          47
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 1,
+        "class": "list-item",
+        "bbox": [
+          88,
+          82,
+          501,
+          111
+        ],
+        "pos": [
+          0,
+          95
+        ]
+      },
+      {
+        "index": 2,
+        "class": "list-item",
+        "bbox": [
+          88,
+          121,
+          452,
+          151
+        ],
+        "pos": [
+          95,
+          201
+        ]
+      },
+      {
+        "index": 3,
+        "class": "list-item",
+        "bbox": [
+          88,
+          159,
+          493,
+          206
+        ],
+        "pos": [
+          201,
+          397
+        ]
+      },
+      {
+        "index": 4,
+        "class": "list-item",
+        "bbox": [
+          88,
+          214,
+          506,
+          261
+        ],
+        "pos": [
+          397,
+          621
+        ]
+      },
+      {
+        "index": 5,
+        "class": "list-item",
+        "bbox": [
+          88,
+          269,
+          501,
+          316
+        ],
+        "pos": [
+          621,
+          828
+        ]
+      },
+      {
+        "index": 6,
+        "class": "list-item",
+        "bbox": [
+          88,
+          324,
+          509,
+          351
+        ],
+        "pos": [
+          828,
+          926
+        ]
+      },
+      {
+        "index": 7,
+        "class": "text",
+        "bbox": [
+          66,
+          363,
+          509,
+          426
+        ],
+        "pos": [
+          926,
+          1219
+        ]
+      },
+      {
+        "index": 8,
+        "class": "text",
+        "bbox": [
+          66,
+          434,
+          509,
+          560
+        ],
+        "pos": [
+          1219,
+          1834
+        ]
+      },
+      {
+        "index": 9,
+        "class": "text",
+        "bbox": [
+          66,
+          572,
+          509,
+          668
+        ],
+        "pos": [
+          1834,
+          2297
+        ]
+      },
+      {
+        "index": 10,
+        "class": "text",
+        "bbox": [
+          66,
+          676,
+          508,
+          773
+        ],
+        "pos": [
+          2297,
+          2791
+        ]
+      },
+      {
+        "index": 11,
+        "class": "page-footer",
+        "bbox": [
+          282,
+          801,
+          294,
+          810
+        ],
+        "pos": [
+          2791,
+          2791
+        ]
+      }
+    ],
+    "text": "- (a) Make recommendations on any matters necessary for the implementation of this Protocol; \n\n- (b) Establish such subsidiary bodies as are deemed necessary for the implementation of this Protocol; \n\n- (c) Seek and utilize, where appropriate, the services and cooperation of, and information provided by, competent international organizations and intergovernmental and non-governmental bodies; \n\n- (d) Establish the form and the intervals for transmitting the information to be submitted in accordance with Article 29 of this Protocol and consider such information as well as reports submitted by any subsidiary body; \n\n- (e) Consider and adopt, as required, amendments to this Protocol and its Annex, as well as any additional annexes to this Protocol, that are deemed necessary for the implementation of this Protocol; and \n\n- (f) Exercise such other functions as may be required for the implementation of this Protocol. \n\n5.  Te rules of procedure of the Conference of the Parties and financial rules of the Convention shall be applied, mutatis mutandis, under this Protocol, except as may be otherwise decided by consensus by the Conference of the Parties serving as the meeting of the Parties to this Protocol. \n\n6.  Te first meeting of the Conference of the Parties serving as the meeting of the Parties to this Protocol shall be convened by the Secretariat and held concurrently with the first meeting of the Conference of the Parties that is scheduled afer the date of the entry into force of this Protocol. Subsequent ordinary meetings of the Conference of the Parties serving as the meeting of the Parties to this Protocol shall be held concurrently with ordinary meetings of the Conference of the Parties, unless otherwise decided by the Conference of the Parties serving as the meeting of the Parties to this Protocol. \n\n7.  Extraordinary meetings of the Conference of the Parties serving as the meeting of the Parties to this Protocol shall be held at such other times as may be deemed necessary by the Conference of the Parties serving as the meeting of the Parties to this Protocol, or at the written request of any Party, provided that, within six months of the request being communicated to the Parties by the Secretariat, it is supported by at least one third of the Parties. \n\n8.  Te United Nations, its specialized agencies and the International Atomic Energy Agency, as well as any State member thereof or observers thereto not party to the Convention, may be represented as observers at meetings of the Conference of the Parties serving as the meeting of the Parties to this Protocol. Any body or agency, whether national or international, governmental or non-governmental, that is qualified in matters covered by this Protocol and that has informed the Secretariat \n\n"
+  },
+  {
+    "metadata": {
+      "format": "PDF 1.4",
+      "title": "",
+      "author": "",
+      "subject": "",
+      "keywords": "",
+      "creator": "",
+      "producer": "iLovePDF",
+      "creationDate": "",
+      "modDate": "D:20260902200638Z",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "D:\\CODING\\Hackathons\\SIH\\SIH-scraped-data\\raw_data\\raw_pdfs\\07_international_biodiversity_OR_ip\\nagoya-protocol-en.pdf",
+      "page_count": 25,
+      "page_number": 21
+    },
+    "toc_items": [],
+    "page_boxes": [
+      {
+        "index": 0,
+        "class": "page-header",
+        "bbox": [
+          305,
+          35,
+          529,
+          47
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 1,
+        "class": "text",
+        "bbox": [
+          85,
+          82,
+          524,
+          162
+        ],
+        "pos": [
+          0,
+          396
+        ]
+      },
+      {
+        "index": 2,
+        "class": "text",
+        "bbox": [
+          288,
+          186,
+          327,
+          197
+        ],
+        "pos": [
+          396,
+          406
+        ]
+      },
+      {
+        "index": 3,
+        "class": "text",
+        "bbox": [
+          287,
+          202,
+          328,
+          225
+        ],
+        "pos": [
+          406,
+          411
+        ]
+      },
+      {
+        "index": 4,
+        "class": "section-header",
+        "bbox": [
+          238,
+          230,
+          376,
+          241
+        ],
+        "pos": [
+          411,
+          438
+        ]
+      },
+      {
+        "index": 5,
+        "class": "text",
+        "bbox": [
+          85,
+          256,
+          531,
+          316
+        ],
+        "pos": [
+          438,
+          703
+        ]
+      },
+      {
+        "index": 6,
+        "class": "text",
+        "bbox": [
+          85,
+          327,
+          526,
+          390
+        ],
+        "pos": [
+          703,
+          1033
+        ]
+      },
+      {
+        "index": 7,
+        "class": "text",
+        "bbox": [
+          85,
+          399,
+          531,
+          462
+        ],
+        "pos": [
+          1033,
+          1385
+        ]
+      },
+      {
+        "index": 8,
+        "class": "text",
+        "bbox": [
+          288,
+          486,
+          327,
+          497
+        ],
+        "pos": [
+          1385,
+          1395
+        ]
+      },
+      {
+        "index": 9,
+        "class": "section-header",
+        "bbox": [
+          287,
+          502,
+          328,
+          525
+        ],
+        "pos": [
+          1395,
+          1402
+        ]
+      },
+      {
+        "index": 10,
+        "class": "section-header",
+        "bbox": [
+          261,
+          530,
+          353,
+          541
+        ],
+        "pos": [
+          1402,
+          1423
+        ]
+      },
+      {
+        "index": 11,
+        "class": "text",
+        "bbox": [
+          85,
+          555,
+          507,
+          582
+        ],
+        "pos": [
+          1423,
+          1537
+        ]
+      },
+      {
+        "index": 12,
+        "class": "text",
+        "bbox": [
+          85,
+          594,
+          512,
+          624
+        ],
+        "pos": [
+          1537,
+          1671
+        ]
+      },
+      {
+        "index": 13,
+        "class": "text",
+        "bbox": [
+          85,
+          632,
+          522,
+          696
+        ],
+        "pos": [
+          1671,
+          1980
+        ]
+      },
+      {
+        "index": 14,
+        "class": "page-footer",
+        "bbox": [
+          301,
+          801,
+          313,
+          810
+        ],
+        "pos": [
+          1980,
+          1980
+        ]
+      }
+    ],
+    "text": "of its wish to be represented at a meeting of the Conference of the Parties serving as a meeting of the Parties to this Protocol as an observer, may be so admitted, unless at least one third of the Parties present object. Except as otherwise provided in this Article, the admission and participation of observers shall be subject to the rules of procedure, as referred to in paragraph 5 above. \n\nArticle \n\n27 \n\n## **SUBSIDIARY BODIES** \n\n1.  Any subsidiary body established by or under the Convention may serve this Protocol, including upon a decision of the Conference of the Parties serving as the meeting of the Parties to this Protocol. Any such decision shall specify the tasks to be undertaken. \n\n2.  Parties to the Convention that are not Parties to this Protocol may participate as observers in the proceedings of any meeting of any such subsidiary bodies. When a subsidiary body of the Convention serves as a subsidiary body to this Protocol, decisions under this Protocol shall be taken only by Parties to this Protocol. \n\n3.  When a subsidiary body of the Convention exercises its functions with regard to matters concerning this Protocol, any member of the bureau of that subsidiary body representing a Party to the Convention but, at that time, not a Party to this Protocol, shall be substituted by a member to be elected by and from among the Parties to this Protocol. \n\nArticle \n\n# 28 \n\n## **SECRETARIAT** \n\n1.  Te Secretariat established by Article 24 of the Convention shall serve as the secretariat to this Protocol. \n\n2.  Article 24, paragraph 1, of the Convention on the functions of the Secretariat shall apply, mutatis mutandis, to this Protocol. \n\n3.  To the extent that they are distinct, the costs of the secretariat services for this Protocol shall be met by the Parties hereto. Te Conference of the Parties serving as the meeting of the Parties to this Protocol shall, at its first meeting, decide on the necessary budgetary arrangements to this end. \n\n"
+  },
+  {
+    "metadata": {
+      "format": "PDF 1.4",
+      "title": "",
+      "author": "",
+      "subject": "",
+      "keywords": "",
+      "creator": "",
+      "producer": "iLovePDF",
+      "creationDate": "",
+      "modDate": "D:20260902200638Z",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "D:\\CODING\\Hackathons\\SIH\\SIH-scraped-data\\raw_data\\raw_pdfs\\07_international_biodiversity_OR_ip\\nagoya-protocol-en.pdf",
+      "page_count": 25,
+      "page_number": 22
+    },
+    "toc_items": [],
+    "page_boxes": [
+      {
+        "index": 0,
+        "class": "page-header",
+        "bbox": [
+          66,
+          35,
+          290,
+          47
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 1,
+        "class": "section-header",
+        "bbox": [
+          267,
+          82,
+          309,
+          121
+        ],
+        "pos": [
+          0,
+          15
+        ]
+      },
+      {
+        "index": 2,
+        "class": "section-header",
+        "bbox": [
+          181,
+          126,
+          395,
+          137
+        ],
+        "pos": [
+          15,
+          49
+        ]
+      },
+      {
+        "index": 3,
+        "class": "text",
+        "bbox": [
+          66,
+          152,
+          501,
+          231
+        ],
+        "pos": [
+          49,
+          436
+        ]
+      },
+      {
+        "index": 4,
+        "class": "text",
+        "bbox": [
+          267,
+          256,
+          309,
+          294
+        ],
+        "pos": [
+          436,
+          449
+        ]
+      },
+      {
+        "index": 5,
+        "class": "section-header",
+        "bbox": [
+          124,
+          299,
+          461,
+          311
+        ],
+        "pos": [
+          449,
+          495
+        ]
+      },
+      {
+        "index": 6,
+        "class": "section-header",
+        "bbox": [
+          161,
+          316,
+          415,
+          327
+        ],
+        "pos": [
+          495,
+          534
+        ]
+      },
+      {
+        "index": 7,
+        "class": "text",
+        "bbox": [
+          66,
+          341,
+          511,
+          451
+        ],
+        "pos": [
+          534,
+          1066
+        ]
+      },
+      {
+        "index": 8,
+        "class": "text",
+        "bbox": [
+          269,
+          478,
+          307,
+          489
+        ],
+        "pos": [
+          1066,
+          1076
+        ]
+      },
+      {
+        "index": 9,
+        "class": "section-header",
+        "bbox": [
+          268,
+          494,
+          308,
+          517
+        ],
+        "pos": [
+          1076,
+          1083
+        ]
+      },
+      {
+        "index": 10,
+        "class": "section-header",
+        "bbox": [
+          196,
+          522,
+          380,
+          534
+        ],
+        "pos": [
+          1083,
+          1114
+        ]
+      },
+      {
+        "index": 11,
+        "class": "text",
+        "bbox": [
+          66,
+          548,
+          509,
+          609
+        ],
+        "pos": [
+          1114,
+          1451
+        ]
+      },
+      {
+        "index": 12,
+        "class": "text",
+        "bbox": [
+          269,
+          635,
+          307,
+          646
+        ],
+        "pos": [
+          1451,
+          1461
+        ]
+      },
+      {
+        "index": 13,
+        "class": "section-header",
+        "bbox": [
+          268,
+          651,
+          308,
+          674
+        ],
+        "pos": [
+          1461,
+          1468
+        ]
+      },
+      {
+        "index": 14,
+        "class": "section-header",
+        "bbox": [
+          249,
+          679,
+          327,
+          690
+        ],
+        "pos": [
+          1468,
+          1487
+        ]
+      },
+      {
+        "index": 15,
+        "class": "text",
+        "bbox": [
+          66,
+          704,
+          503,
+          735
+        ],
+        "pos": [
+          1487,
+          1648
+        ]
+      },
+      {
+        "index": 16,
+        "class": "page-footer",
+        "bbox": [
+          282,
+          801,
+          294,
+          810
+        ],
+        "pos": [
+          1648,
+          1648
+        ]
+      }
+    ],
+    "text": "# Article 29 \n\n## **MONITORING AND REPORTING** \n\nEach Party shall monitor the implementation of its obligations under this Protocol, and shall, at intervals and in the format to be determined by the Conference of the Parties serving as the meeting of the Parties to this Protocol, report to the Conference of the Parties serving as the meeting of the Parties to this Protocol on measures that it has taken to implement this Protocol. \n\nArticle 30 \n\n## **PROCEDURES AND MECHANISMS TO PROMOTE** \n\n## **COMPLIANCE WITH THIS PROTOCOL** \n\nTe Conference of the Parties serving as the meeting of the Parties to this Protocol shall, at its first meeting, consider and approve cooperative procedures and institutional mechanisms to promote compliance with the provisions of this Protocol and to address cases of non-compliance. Tese procedures and mechanisms shall include provisions to offer advice or assistance, where appropriate. Tey shall be separate from, and without prejudice to, the dispute settlement procedures and mechanisms under Article 27 of the Convention. \n\nArticle \n\n# 31 \n\n## **ASSESSMENT AND REVIEW** \n\nTe Conference of the Parties serving as the meeting of the Parties to this Protocol shall undertake, four years afer the entry into force of this Protocol and thereafer at intervals determined by the Conference of the Parties serving as the meeting of the Parties to this Protocol, an evaluation of the effectiveness of this Protocol. \n\nArticle \n\n# 32 \n\n## **SIGNATURE** \n\nTis Protocol shall be open for signature by Parties to the Convention at the United Nations Headquarters in New York, from 2 February 2011 to 1 February 2012. \n\n"
+  },
+  {
+    "metadata": {
+      "format": "PDF 1.4",
+      "title": "",
+      "author": "",
+      "subject": "",
+      "keywords": "",
+      "creator": "",
+      "producer": "iLovePDF",
+      "creationDate": "",
+      "modDate": "D:20260902200638Z",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "D:\\CODING\\Hackathons\\SIH\\SIH-scraped-data\\raw_data\\raw_pdfs\\07_international_biodiversity_OR_ip\\nagoya-protocol-en.pdf",
+      "page_count": 25,
+      "page_number": 23
+    },
+    "toc_items": [],
+    "page_boxes": [
+      {
+        "index": 0,
+        "class": "page-header",
+        "bbox": [
+          305,
+          35,
+          529,
+          47
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 1,
+        "class": "section-header",
+        "bbox": [
+          288,
+          82,
+          327,
+          93
+        ],
+        "pos": [
+          0,
+          14
+        ]
+      },
+      {
+        "index": 2,
+        "class": "text",
+        "bbox": [
+          287,
+          98,
+          328,
+          121
+        ],
+        "pos": [
+          14,
+          19
+        ]
+      },
+      {
+        "index": 3,
+        "class": "section-header",
+        "bbox": [
+          241,
+          126,
+          373,
+          137
+        ],
+        "pos": [
+          19,
+          45
+        ]
+      },
+      {
+        "index": 4,
+        "class": "text",
+        "bbox": [
+          85,
+          152,
+          524,
+          198
+        ],
+        "pos": [
+          45,
+          303
+        ]
+      },
+      {
+        "index": 5,
+        "class": "text",
+        "bbox": [
+          85,
+          207,
+          524,
+          319
+        ],
+        "pos": [
+          303,
+          877
+        ]
+      },
+      {
+        "index": 6,
+        "class": "text",
+        "bbox": [
+          85,
+          328,
+          511,
+          374
+        ],
+        "pos": [
+          877,
+          1094
+        ]
+      },
+      {
+        "index": 7,
+        "class": "text",
+        "bbox": [
+          288,
+          399,
+          327,
+          410
+        ],
+        "pos": [
+          1094,
+          1104
+        ]
+      },
+      {
+        "index": 8,
+        "class": "section-header",
+        "bbox": [
+          287,
+          414,
+          328,
+          437
+        ],
+        "pos": [
+          1104,
+          1111
+        ]
+      },
+      {
+        "index": 9,
+        "class": "section-header",
+        "bbox": [
+          256,
+          442,
+          359,
+          454
+        ],
+        "pos": [
+          1111,
+          1133
+        ]
+      },
+      {
+        "index": 10,
+        "class": "text",
+        "bbox": [
+          85,
+          468,
+          330,
+          482
+        ],
+        "pos": [
+          1133,
+          1181
+        ]
+      },
+      {
+        "index": 11,
+        "class": "text",
+        "bbox": [
+          288,
+          506,
+          327,
+          517
+        ],
+        "pos": [
+          1181,
+          1191
+        ]
+      },
+      {
+        "index": 12,
+        "class": "text",
+        "bbox": [
+          287,
+          521,
+          328,
+          545
+        ],
+        "pos": [
+          1191,
+          1196
+        ]
+      },
+      {
+        "index": 13,
+        "class": "section-header",
+        "bbox": [
+          258,
+          550,
+          356,
+          561
+        ],
+        "pos": [
+          1196,
+          1216
+        ]
+      },
+      {
+        "index": 14,
+        "class": "text",
+        "bbox": [
+          85,
+          575,
+          520,
+          622
+        ],
+        "pos": [
+          1216,
+          1415
+        ]
+      },
+      {
+        "index": 15,
+        "class": "text",
+        "bbox": [
+          85,
+          630,
+          531,
+          674
+        ],
+        "pos": [
+          1415,
+          1611
+        ]
+      },
+      {
+        "index": 16,
+        "class": "page-footer",
+        "bbox": [
+          301,
+          801,
+          313,
+          810
+        ],
+        "pos": [
+          1611,
+          1611
+        ]
+      }
+    ],
+    "text": "### Article \n\n33 \n\n## **ENTRY INTO FORCE** \n\n1.  Tis Protocol shall enter into force on the ninetieth day afer the date of deposit of the fifieth instrument of ratification, acceptance, approval or accession by States or regional economic integration organizations that are Parties to the Convention. \n\n2.  Tis Protocol shall enter into force for a State or regional economic integration organization that ratifies, accepts or approves this Protocol or accedes thereto afer the deposit of the fifieth instrument as referred to in paragraph 1 above, on the ninetieth day afer the date on which that State or regional economic integration organization deposits its instrument of ratification, acceptance, approval or accession, or on the date on which the Convention enters into force for that State or regional economic integration organization, whichever shall be the later. \n\n3. For the purposes of paragraphs 1 and 2 above, any instrument deposited by a regional economic integration organization shall not be counted as additional to those deposited by member States of such organization. \n\nArticle \n\n# 34 \n\n## **RESERVATIONS** \n\nNo reservations may be made to this Protocol. \n\nArticle \n\n35 \n\n## **WITHDRAWAL** \n\n1.  At any time afer two years from the date on which this Protocol has entered into force for a Party, that Party may withdraw from this Protocol by giving written notification to the Depositary. \n\n2.  Any such withdrawal shall take place upon expiry of one year afer the date of its receipt by the Depositary, or on such later date as may be specified in the notification of the withdrawal. \n\n"
+  },
+  {
+    "metadata": {
+      "format": "PDF 1.4",
+      "title": "",
+      "author": "",
+      "subject": "",
+      "keywords": "",
+      "creator": "",
+      "producer": "iLovePDF",
+      "creationDate": "",
+      "modDate": "D:20260902200638Z",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "D:\\CODING\\Hackathons\\SIH\\SIH-scraped-data\\raw_data\\raw_pdfs\\07_international_biodiversity_OR_ip\\nagoya-protocol-en.pdf",
+      "page_count": 25,
+      "page_number": 24
+    },
+    "toc_items": [],
+    "page_boxes": [
+      {
+        "index": 0,
+        "class": "page-header",
+        "bbox": [
+          66,
+          35,
+          290,
+          47
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 1,
+        "class": "section-header",
+        "bbox": [
+          269,
+          82,
+          307,
+          93
+        ],
+        "pos": [
+          0,
+          14
+        ]
+      },
+      {
+        "index": 2,
+        "class": "section-header",
+        "bbox": [
+          267,
+          98,
+          309,
+          121
+        ],
+        "pos": [
+          14,
+          21
+        ]
+      },
+      {
+        "index": 3,
+        "class": "section-header",
+        "bbox": [
+          225,
+          126,
+          351,
+          137
+        ],
+        "pos": [
+          21,
+          46
+        ]
+      },
+      {
+        "index": 4,
+        "class": "text",
+        "bbox": [
+          66,
+          152,
+          507,
+          195
+        ],
+        "pos": [
+          46,
+          242
+        ]
+      },
+      {
+        "index": 5,
+        "class": "text",
+        "bbox": [
+          66,
+          295,
+          489,
+          325
+        ],
+        "pos": [
+          242,
+          372
+        ]
+      },
+      {
+        "index": 6,
+        "class": "text",
+        "bbox": [
+          66,
+          333,
+          472,
+          347
+        ],
+        "pos": [
+          372,
+          452
+        ]
+      },
+      {
+        "index": 7,
+        "class": "section-header",
+        "bbox": [
+          269,
+          372,
+          307,
+          382
+        ],
+        "pos": [
+          452,
+          464
+        ]
+      },
+      {
+        "index": 8,
+        "class": "section-header",
+        "bbox": [
+          137,
+          391,
+          439,
+          403
+        ],
+        "pos": [
+          464,
+          508
+        ]
+      },
+      {
+        "index": 9,
+        "class": "list-item",
+        "bbox": [
+          66,
+          417,
+          369,
+          431
+        ],
+        "pos": [
+          508,
+          568
+        ]
+      },
+      {
+        "index": 10,
+        "class": "list-item",
+        "bbox": [
+          88,
+          439,
+          423,
+          452
+        ],
+        "pos": [
+          568,
+          639
+        ]
+      },
+      {
+        "index": 11,
+        "class": "list-item",
+        "bbox": [
+          88,
+          461,
+          220,
+          475
+        ],
+        "pos": [
+          639,
+          669
+        ]
+      },
+      {
+        "index": 12,
+        "class": "list-item",
+        "bbox": [
+          88,
+          483,
+          225,
+          497
+        ],
+        "pos": [
+          669,
+          700
+        ]
+      },
+      {
+        "index": 13,
+        "class": "list-item",
+        "bbox": [
+          88,
+          505,
+          226,
+          519
+        ],
+        "pos": [
+          700,
+          733
+        ]
+      },
+      {
+        "index": 14,
+        "class": "list-item",
+        "bbox": [
+          88,
+          527,
+          334,
+          540
+        ],
+        "pos": [
+          733,
+          787
+        ]
+      },
+      {
+        "index": 15,
+        "class": "list-item",
+        "bbox": [
+          88,
+          549,
+          458,
+          579
+        ],
+        "pos": [
+          787,
+          898
+        ]
+      },
+      {
+        "index": 16,
+        "class": "list-item",
+        "bbox": [
+          88,
+          588,
+          400,
+          601
+        ],
+        "pos": [
+          898,
+          964
+        ]
+      },
+      {
+        "index": 17,
+        "class": "list-item",
+        "bbox": [
+          88,
+          610,
+          211,
+          623
+        ],
+        "pos": [
+          964,
+          993
+        ]
+      },
+      {
+        "index": 18,
+        "class": "list-item",
+        "bbox": [
+          88,
+          632,
+          192,
+          644
+        ],
+        "pos": [
+          993,
+          1020
+        ]
+      },
+      {
+        "index": 19,
+        "class": "list-item",
+        "bbox": [
+          88,
+          654,
+          403,
+          667
+        ],
+        "pos": [
+          1020,
+          1089
+        ]
+      },
+      {
+        "index": 20,
+        "class": "list-item",
+        "bbox": [
+          66,
+          676,
+          396,
+          689
+        ],
+        "pos": [
+          1089,
+          1153
+        ]
+      },
+      {
+        "index": 21,
+        "class": "list-item",
+        "bbox": [
+          88,
+          698,
+          350,
+          711
+        ],
+        "pos": [
+          1153,
+          1209
+        ]
+      },
+      {
+        "index": 22,
+        "class": "list-item",
+        "bbox": [
+          88,
+          720,
+          508,
+          766
+        ],
+        "pos": [
+          1209,
+          1423
+        ]
+      },
+      {
+        "index": 23,
+        "class": "page-footer",
+        "bbox": [
+          282,
+          801,
+          294,
+          810
+        ],
+        "pos": [
+          1423,
+          1423
+        ]
+      }
+    ],
+    "text": "### Article \n\n# 36 \n\n## **AUTHENTIC TExTS** \n\nTe original of this Protocol, of which the Arabic, Chinese, English, French, Russian and Spanish texts are equally authentic, shall be deposited with the SecretaryGeneral of the United Nations. \n\n**IN WITNESS WHEREOF** the undersigned, being duly authorized to that effect, have signed this Protocol on the dates indicated. \n\n**DONE** at Nagoya on this twenty-ninth day of October, two thousand and ten. \n\n### Annex \n\n## **MONETARY AND NON-MONETARY BENEFITS** \n\n1.  Monetary benefits may include, but not be limited to: \n\n   - (a) Access fees/fee per sample collected or otherwise acquired; \n\n   - (b) Up-front payments; \n\n   - (c) Milestone payments; \n\n   - (d) Payment of royalties; \n\n   - (e) Licence fees in case of commercialization; \n\n   - (f) Special fees to be paid to trust funds supporting conservation and sustainable use of biodiversity; \n\n   - (g) Salaries and preferential terms where mutually agreed; \n\n   - (h) Research funding; \n\n   - (i) Joint ventures; \n\n   - (j) Joint ownership of relevant intellectual property rights. \n\n2.  Non-monetary benefits may include, but not be limited to: \n\n   - (a) Sharing of research and development results; \n\n   - (b) Collaboration, cooperation and contribution in scientific research and development programmes, particularly biotechnological research activities, where possible in the Party providing genetic resources; \n\n"
+  },
+  {
+    "metadata": {
+      "format": "PDF 1.4",
+      "title": "",
+      "author": "",
+      "subject": "",
+      "keywords": "",
+      "creator": "",
+      "producer": "iLovePDF",
+      "creationDate": "",
+      "modDate": "D:20260902200638Z",
+      "trapped": "",
+      "encryption": null,
+      "file_path": "D:\\CODING\\Hackathons\\SIH\\SIH-scraped-data\\raw_data\\raw_pdfs\\07_international_biodiversity_OR_ip\\nagoya-protocol-en.pdf",
+      "page_count": 25,
+      "page_number": 25
+    },
+    "toc_items": [],
+    "page_boxes": [
+      {
+        "index": 0,
+        "class": "page-header",
+        "bbox": [
+          305,
+          35,
+          529,
+          47
+        ],
+        "pos": [
+          0,
+          0
+        ]
+      },
+      {
+        "index": 1,
+        "class": "list-item",
+        "bbox": [
+          107,
+          82,
+          335,
+          96
+        ],
+        "pos": [
+          0,
+          46
+        ]
+      },
+      {
+        "index": 2,
+        "class": "list-item",
+        "bbox": [
+          107,
+          104,
+          507,
+          118
+        ],
+        "pos": [
+          46,
+          125
+        ]
+      },
+      {
+        "index": 3,
+        "class": "list-item",
+        "bbox": [
+          107,
+          126,
+          491,
+          140
+        ],
+        "pos": [
+          125,
+          205
+        ]
+      },
+      {
+        "index": 4,
+        "class": "list-item",
+        "bbox": [
+          107,
+          148,
+          532,
+          244
+        ],
+        "pos": [
+          205,
+          587
+        ]
+      },
+      {
+        "index": 5,
+        "class": "list-item",
+        "bbox": [
+          107,
+          253,
+          389,
+          266
+        ],
+        "pos": [
+          587,
+          645
+        ]
+      },
+      {
+        "index": 6,
+        "class": "list-item",
+        "bbox": [
+          107,
+          275,
+          297,
+          288
+        ],
+        "pos": [
+          645,
+          686
+        ]
+      },
+      {
+        "index": 7,
+        "class": "list-item",
+        "bbox": [
+          107,
+          297,
+          480,
+          327
+        ],
+        "pos": [
+          686,
+          814
+        ]
+      },
+      {
+        "index": 8,
+        "class": "list-item",
+        "bbox": [
+          107,
+          335,
+          527,
+          366
+        ],
+        "pos": [
+          814,
+          969
+        ]
+      },
+      {
+        "index": 9,
+        "class": "list-item",
+        "bbox": [
+          107,
+          374,
+          519,
+          419
+        ],
+        "pos": [
+          969,
+          1136
+        ]
+      },
+      {
+        "index": 10,
+        "class": "list-item",
+        "bbox": [
+          107,
+          429,
+          325,
+          443
+        ],
+        "pos": [
+          1136,
+          1180
+        ]
+      },
+      {
+        "index": 11,
+        "class": "list-item",
+        "bbox": [
+          107,
+          451,
+          524,
+          498
+        ],
+        "pos": [
+          1180,
+          1361
+        ]
+      },
+      {
+        "index": 12,
+        "class": "list-item",
+        "bbox": [
+          107,
+          506,
+          510,
+          536
+        ],
+        "pos": [
+          1361,
+          1515
+        ]
+      },
+      {
+        "index": 13,
+        "class": "list-item",
+        "bbox": [
+          107,
+          544,
+          332,
+          558
+        ],
+        "pos": [
+          1515,
+          1562
+        ]
+      },
+      {
+        "index": 14,
+        "class": "list-item",
+        "bbox": [
+          107,
+          566,
+          234,
+          580
+        ],
+        "pos": [
+          1562,
+          1590
+        ]
+      },
+      {
+        "index": 15,
+        "class": "list-item",
+        "bbox": [
+          107,
+          588,
+          419,
+          602
+        ],
+        "pos": [
+          1590,
+          1656
+        ]
+      },
+      {
+        "index": 16,
+        "class": "page-footer",
+        "bbox": [
+          301,
+          801,
+          313,
+          810
+        ],
+        "pos": [
+          1656,
+          1656
+        ]
+      }
+    ],
+    "text": "- (c) Participation in product development; \n\n- (d) Collaboration, cooperation and contribution in education and training; \n\n- (e) Admittance to ex situ facilities of genetic resources and to databases; \n\n- (f) Transfer to the provider of the genetic resources of knowledge and technology under fair and most favourable terms, including on concessional and preferential terms where agreed, in particular, knowledge and technology that make use of genetic resources, including biotechnology, or that are relevant to the conservation and sustainable utilization of biological diversity; \n\n- (g) Strengthening capacities for technology transfer; \n\n- (h) Institutional capacity-building; \n\n- (i) Human and material resources to strengthen the capacities for the administration and enforcement of access regulations; \n\n- (j) Training related to genetic resources with the full participation of countries providing genetic resources, and where possible, in such countries; \n\n- (k) Access to scientific information relevant to conservation and sustainable use of biological diversity, including biological inventories and taxonomic studies; \n\n- (l) Contributions to the local economy; \n\n- (m) Research directed towards priority needs, such as health and food security, taking into account domestic uses of genetic resources in the Party providing genetic resources; \n\n- (n) Institutional and professional relationships that can arise from an access and benefit-sharing agreement and subsequent collaborative activities; \n\n- (o) Food and livelihood security benefits; \n\n- (p) Social recognition; \n\n- (q) Joint ownership of relevant intellectual property rights. \n\n"
+  }
+]

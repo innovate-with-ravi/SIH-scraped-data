@@ -1,6 +1,13 @@
+ownUseData/
 .venv/
+designs_act_2000_all_chunks.jsonl
+AI scratchpad/
+.env
 Data Cleaning Scripts/__pycache__/
 .env
 pdf_contents2.txt
 scratch_extract2.py
+OwnUseData/
+scratch_extract2.py
+pdf_contents2.txt
 OwnUseData/

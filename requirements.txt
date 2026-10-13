@@ -1,0 +1,6 @@
+pymupdf4llm
+pymupdf
+langchain_text_splitters
+google-genai
+python-dotenv
+tenacity
